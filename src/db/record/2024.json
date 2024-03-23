@@ -1,0 +1,393 @@
+{
+  "record": {
+    "１月": [
+      {
+        "image": "https://image.tmdb.org/t/p/original/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
+        "title": "Crimes of the Future",
+        "year": "2022",
+        "director": "David Clonenberg",
+        "star": "Vigo Mortensen, Léa Seydoux, Kristen Stewart",
+        "src": "https://www.youtube.com/embed/QCr7zeNDv0k?si=5hlaPAK052T7263m",
+        "rate": 4.5,
+        "overview": "鬼才デヴィッド・クローネンバーグ監督が強烈な近未来を描いてみせた、アート・パフォーマンス的SFホラー。人間が生物学的構造の変容を遂げた近未来で、臓器にタトゥーを施すショーを行なうアーティストの姿を描く。",
+        "co": ["telefilm", "ingenious"]
+      },
+      {
+        "image": "https://www.themoviedb.org/t/p/w1280/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg",
+        "title": "Slow Horses",
+        "year": "2022",
+        "director": "James Hawes",
+        "star": "Gary Oldman",
+        "src": "https://www.youtube.com/embed/O9ZJChzPn0U?si=f7UEcVBUSs_mcYZF",
+        "rate": 3.5,
+        "overview": "ＭＩ5（英国情報局保安部）の落ちこぼれエージェントたちと、彼らを率いる傲慢で悪名高いチームリーダーのジャクソン･ラム。スパイの世界の策略をかいくぐり、危険分子から英国を守る彼らの姿を、ダークなユーモアを効かせて軽快に描くドラマ。"
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/lr11mCT85T1JanlgjMuhs9nMht4.jpg",
+        "title": "The Black Phone",
+        "year": "2021",
+        "director": "Scott Derrickson",
+        "star": "Ethan Hawke",
+        "src": "https://www.youtube.com/embed/3eGP6im8AZA?si=3ymw3hnhzs-e-e6j",
+        "rate": 3,
+        "overview": "不気味なマスク男にさらわれてしまった少年と、その行方を探す中で不思議な予知夢を見る妹が、それぞれ対峙する恐怖を描く。ジョー・ヒルの短編小説を、スコット・デリクソン監督が映画化したサイコ・スリラー。",
+        "co": ["universal", "blumhouse"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/pi0kmFJAEcHpTjqITHPFUic9omf.jpg",
+        "title": "Killers of the Flower Moon",
+        "year": "2023",
+        "director": "Martin Scorsese",
+        "star": "Leonardo DiCaprio, Robert De Niro",
+        "src": "https://www.youtube.com/embed/AGvOCZ42Ric?si=nZzzr4TtekdqA3nF",
+        "rate": 4,
+        "overview": "1920年代、オクラホマ州オーセージ郡。先住民であるオーセージ族は、石油の発掘によって一夜にして莫大な富を得た。その財産に目をつけた白人たちは彼らを巧みに操り、脅し、ついには殺人にまで手を染める。",
+        "co": ["apple", "paramount"]
+      },
+      {
+        "image": "https://www.themoviedb.org/t/p/w1280/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
+        "title": "Monarch",
+        "year": "2023",
+        "director": "Chris Black",
+        "star": "Kurt Russel, Wyatt Russel",
+        "src": "https://www.youtube.com/embed/JLHsM4bpfxY?si=D_lKY6CFMtoilNU9",
+        "rate": 3.5,
+        "overview": "ゴジラのサンフランシスコ襲来を生き延びたケイトだったが、その後、驚くべき秘密に触れ、更なる衝撃を受ける。迫り来る危機に怯えながら、自身の家族の真実、そしてモナークという秘密に満ちた組織の実態を知ろうと、世界を駆けるケイトの旅が始まった。",
+        "co": ["apple"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/r3M676oPdEBwjpjHAUAoEWobcBM.jpg",
+        "title": "Reacher",
+        "year": "2023",
+        "director": "Nick Santora",
+        "star": "Alan Ritchson",
+        "src": "https://www.youtube.com/embed/tC-rRhQcnlI?si=BeY7JGWCrKXYCudh",
+        "rate": 3.5,
+        "overview": "退役した元軍の警察官ジャック・リーチャーは身に覚えのない殺人容疑で逮捕される。そして自分が汚職警官や怪しいビジネスマン、策謀をめぐらせる政治家などがひしめきあい、命も落としかねない陰謀のまっただ中にいることを知る。ジョージア州マーグレイヴで起きていることを解明するしかない彼にとって、頼れるのは自分自身の頭脳だけ。",
+        "co": ["paramount", "skydance", "amazon"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
+        "title": "Riders of Justice",
+        "year": "2020",
+        "director": "Anders Thomas Jensen",
+        "star": "Mads Mikkelsen",
+        "src": "https://www.youtube.com/embed/l09T87hEstI?si=TA3pJlFc2UfqZpD0",
+        "rate": 3.5,
+        "overview": "アフガニスタンでの任務に就いていた軍人のマークスは、妻が列車事故で亡くなったという報せを受け、悲しみに暮れる娘の元に帰国する。そんなマークスのもとに数学者のオットーが訪ねてくる。妻と同じ列車に乗っていたというオットーは、事故は「ライダーズ・オブ・ジャスティス」という犯罪組織が、殺人事件の重要証人を暗殺するために計画された事件だとマークスに告げる。怒りに震えるマークスは妻の無念を晴らすため、オットーらの協力を得て復讐に身を投じる。",
+        "co": ["nordisk"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+        "title": "The Big Lebowski",
+        "year": "1998",
+        "director": "Coen Brothers",
+        "star": "Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi",
+        "src": "https://www.youtube.com/embed/jo11SqLmuGc?si=fjnh91_3OH4uOKsA",
+        "rate": 4,
+        "overview": "無職で気ままに暮らす“デュード”こと、ジャフ・リボウスキ。彼の家に突然、２人のチンピラがやって来る。女房の借金を返せと怒鳴るチンピラに、全く身に覚えがなく呆然とするリボウスキ。その後彼は、同姓同名の大金持ちと間違えられたと気づく。",
+        "co": ["workingtitle", "gramercy"]
+      },
+      {
+        "image": "https://www.themoviedb.org/t/p/w1280/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+        "title": "La Planète sauvage",
+        "year": "1973",
+        "director": "René Laloux",
+        "star": "Jean Valmont",
+        "src": "https://www.youtube.com/embed/Iu6v1XB-BiU?si=j0owGEEAieZx1AsX",
+        "rate": 4.5,
+        "overview": "仏のSF作家ステファン・ウルの長編小説を、マンガ家ローラン・トポールの絵でアニメ化した異色のファンタジー作品。未開の惑星イガムを舞台に人間型のオム族と、彼らを奴隷のように扱うドラーグ族の戦いと協調を描く。SF的イマジネーションの凄さと特異なアニメーション映像には目を見張るものがある。",
+        "co": []
+      },
+      {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg",
+        "title": "Society of the Snow",
+        "year": "2023",
+        "director": "J. A. Bayona",
+        "star": "Enzo Vogrincic",
+        "src": "https://www.youtube.com/embed/pDak4qLyF4Q?si=gOUKypa5Lu3LUx8q",
+        "rate": 3.5,
+        "overview": "1972年、ウルグアイ空軍機がアンデス山脈の奥深く、人里離れた山地に墜落。過酷なサバイバルに直面した生存者たちは、互いを鼓舞し合い、極限の試練を生き延びた。",
+        "co": ["netflix"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/nCPRdM23hLnwADuDhZE2DPIKUc7.jpg",
+        "title": "TITANE",
+        "year": "2021",
+        "director": "Julia Ducournau",
+        "star": "Agathe Rousselle, Vincent Lindon",
+        "src": "https://www.youtube.com/embed/1-xZrghaYAw?si=H0u_ybL-MtnO_o87",
+        "rate": 5,
+        "overview": "世界が注目するジュリア・デュクルノー監督による、カンヌ映画祭パルムドールに輝く衝撃作。幼い頃の交通事故で頭蓋骨にチタンプレートを埋め込まれた女性がたどる、狂気と愛に満ちた数奇な運命を描いていく。",
+        "co": ["arte", "voo"]
+      },
+      {
+        "image": "https://www.themoviedb.org/t/p/w1280/hazd5nnOvjYEYYM6cSXFM3avTht.jpg",
+        "title": "Barton Fink",
+        "year": "1991",
+        "director": "Coen Brothers",
+        "star": "John Turturro, John Goodman",
+        "src": "https://www.youtube.com/embed/NMs2yuXIfno?si=Drlws1eZblVrjz0h",
+        "rate": 3.5,
+        "overview": "1941年のニューヨーク。社会派劇作家のバートン・フィンクは、ハリウッドに招かれて映画のシナリオを依頼された。早速ホテルにチェック・インしたが、そこは薄暗く、不気味な雰囲気が漂っていた。とりあえず部屋に入った彼だったが……。蚊の飛ぶ音、暑さ、息苦しさ－－それらの生理的な感覚を、主人公の悪夢になぞり、独自の映像センスで描いたコーエン兄弟の傑作。",
+        "co": ["fox"]
+      }
+    ],
+    "２月": [
+      {
+        "image": "https://www.themoviedb.org/t/p/w1280/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+        "title": "POOR THINGS",
+        "year": "2023",
+        "director": "Yorgos Lanthimos",
+        "star": "Emma Stone, Mark Raffalo, Willem Dafoe",
+        "src": "https://www.youtube.com/embed/ZFu7ZH4y6J4?si=vPBG-yCrblw4bTpk",
+        "rate": 4.5,
+        "overview": "天才外科医によってよみがえった若き女性ベラ・バクスターの驚くべき進化を描く。未知なる世界を知るため、ベラは大陸横断の冒険に出る。時代の偏見から解き放たれ、ベラは平等と自由のために立ち上がる。",
+        "co": ["film4", "tsg", "searchlight"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/yqsNIspvw4lDxgWmIjPekBoVNWu.jpg",
+        "title": "Fargo S4",
+        "year": "2020",
+        "director": "Noah Hawley",
+        "star": "Chris Rock, Jessie Buckley, Ben Whishaw",
+        "src": "https://www.youtube.com/embed/I4ISTHi45_s?si=Zo1WjuYzyrU_qoDw",
+        "rate": 5,
+        "overview": "1950年のミズーリ州カンザスシティを舞台とし、ギャング間の抗争を描く。当地のギャング団の間には息子を交換することで抗争を避ける習慣があるが、それにもかかわらずユダヤ系ギャングとアイルランド系ギャングは壊滅している。イタリア系ギャングのファッダ家と黒人ギャング団のキャノン有限会社は息子のゼロとサッチェルを交換する。",
+        "co": ["mike"]
+      },
+      {
+        "image": "https://www.themoviedb.org/t/p/w1280/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+        "title": "The Marvels",
+        "year": "2023",
+        "director": "Nia DaCosta",
+        "star": "Brie Larson, Teyonah Parris, Samuel L. Jackson",
+        "src": "https://www.youtube.com/embed/uwmDH12MAA4?si=VmstD-_heU6uVJ1l",
+        "rate": 1.5,
+        "overview": "キャプテン・マーベルの前に突如、“過去の因縁”から復讐を誓う謎の敵が現れる。その狙いは、地球をはじめ彼女が守ってきたすべてを滅ぼすことだった…。最凶最悪の敵サノスを圧倒する力でも救えない危機が迫るなか、力を覚醒させた敏腕エージェント〈モニカ・ランボー〉、アベンジャーズオタクの高校生ヒーロー〈ミズ・マーベル〉と、3人が入れ替わる謎の現象が発生する。これまで一人で戦ってきた彼女だが、この“運命的なつながり”からチームを結成し、新たな“強さ”に目覚めていく――。",
+        "co": ["marvel"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/kdkk7OBnIL1peW2zwcAAp6O54Jo.jpg",
+        "title": "Boiling Point",
+        "year": "2021",
+        "director": "Philip Barantini",
+        "star": "Stephen Graham, Vinette Robinson",
+        "src": "https://www.youtube.com/embed/UBUfCL_tvro?si=RwkBDtGZKuCZjs5f",
+        "rate": 3.5,
+        "overview": "アンディはロンドンでも人気の高級レストランのオーナー・シェフだが、この数ヶ月は絶不調だった。妻子と別居して家を出たがアパートを借りる算段もろくに出来ずに、店の事務所で寝起きし、寝不足で頭が回らず愛する息子との面会もすっぽかした。一年で一番忙しいクリスマス前の金曜日に、遅刻して出勤すると、仕込み中の店には保健所の査察が入っていた。ずっと維持して来た最高評価の5点から、3点に下げられてショックを受けるスタッフたち。原因の大半は、アンディが義務の書類の記入を怠ったためだった。",
+        "co": ["vertigo"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+        "title": "Five Nights at Freddy's",
+        "year": "2023",
+        "director": "Emma Tammi",
+        "star": "Josh Hutcherson",
+        "src": "https://www.youtube.com/embed/0VH9WCFV6XQ?si=qa8ZTctHmilNXBTm",
+        "rate": 2.5,
+        "overview": "弟が謎の失踪を遂げ、事件の悲しい記憶から立ち直れずにいる青年マイク。妹アビーの親代わりとして生計を立てるため必死に仕事を探す彼は、廃墟となったレストラン「フレディ・ファズベアーズ・ピザ」の夜間警備員として働くことに。「モニターを監視するだけ」という簡単な仕事のはずだったが、妹を連れて深夜勤務に就いたマイクは、かつてそのレストランの人気者だった機械仕掛けのマスコットたちが眼を怪しく光らせながら自ら動き出す姿を目撃。マスコットたちはかわいらしい姿から一転して凶暴化し、マイクや廃墟の侵入者を襲い始める。",
+        "co": ["blumhouse"]
+      },
+      {
+        "image": "https://www.themoviedb.org/t/p/w1280/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
+        "title": "Sisu",
+        "year": "2023",
+        "director": "Jalmari Helander",
+        "star": "Jorma Tommila",
+        "src": "https://www.youtube.com/embed/d2k4QAItiSA?si=4EdXMwG1i-ZNDgZk",
+        "rate": 3.5,
+        "overview": "1944年、ソ連に侵攻されナチスドイツに国土を焼き尽くされたフィンランド。老兵アアタミ・コルピは掘り当てた金塊を隠し持ち、愛犬ウッコとともに凍てつく荒野を旅していた。やがて彼はブルーノ・ヘルドルフ中尉率いるナチスの戦車隊に遭遇し金塊と命を狙われるが、実はアアタミはかつて精鋭部隊の一員として名を馳せた伝説の兵士だった。アアタミは使い古したツルハシ1本と不屈の精神を武器に、次々と敵を血祭りにあげていく。",
+        "co": ["nordisk", "lionsgate", "sony"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+        "title": "Fargo S5",
+        "year": "2023",
+        "director": "Noah Hawley",
+        "star": "Juno Temple, Jennifer Jason Leigh, Joe Keery, Jon Hamm",
+        "src": "https://www.youtube.com/embed/8ZdK87tfv6k?si=GnrYhrFc7LOP2o7w",
+        "rate": 5,
+        "overview": "2019年のミネソタ州とノースダコタ州。 ドロシー・ドット・ライオンが予期せぬ出来事の連続で警察との間でモメた後、この一見典型的な中西部の主婦は、捨て去ったと思っていた人生に突然舞い戻る。",
+        "co": ["mike"]
+      },
+      {
+        "image": "https://www.themoviedb.org/t/p/w1280/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+        "title": "The Covenant",
+        "year": "2023",
+        "director": "Guy Ritchie",
+        "star": "Jake Gyllenhaal, Dar Salim, Antony Starr",
+        "src": "https://www.youtube.com/embed/02PPMPArNEQ?si=Xa7DMgUhqHLejtE5",
+        "rate": 4,
+        "overview": "2018年、アフガニスタン紛争に派遣されていたアメリカ陸軍のジョン・キンリー軍曹は、最後の任務で部隊が壊滅するが、キンリーは同行した現地通訳のアーメッドに助けられる。アメリカに帰還したキンリーはアーメッドが自身を助けたせいでターリバーンに狙われている事を知り、自らアフガニスタンに戻り彼を救出しようと奔走する。",
+        "co": ["stx", "goldwyn"]
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",
+        "title": "Hypnotic",
+        "year": "2023",
+        "director": "Robert Rodriguez",
+        "star": "Ben Affleck, Alice Braga, William Fichtner",
+        "src": "https://www.youtube.com/embed/CDFoQYFBDkE?si=mJs2HZas3DIMMOUp",
+        "rate": 3,
+        "overview": "刑事のダニー・ロークは、最愛の娘ミニーを失った悲しみから立ち直ることができずにいる。そんなある日、強盗計画が立てられていると匿名の通報を受けたロークは相棒と銀行へ。そこで見かけた怪しげな男が娘の行方に関与していることを確信したロークは、2人の警官と共に男を追って屋上に向かう。しかし突如、警官たちは暗示をかけられたように互いを撃ち殺し、肝心の男は屋上から飛び降り姿を消してしまう。",
+        "co": ["solstice", "ingenious"]
+      }
+    ],
+    "３月": [
+      {
+        "image": "https://image.tmdb.org/t/p/original/yweHFOchVNJTJwkwrmVw3dpIAyw.jpg",
+        "title": "Napoleon",
+        "year": "2023",
+        "director": "Ridley Scott",
+        "star": "Joaquin Phoenix, Vanessa Kirby",
+        "src": "https://www.youtube.com/embed/OAZWXUkrjPc?si=eH1jcxzGLO09dtVp",
+        "rate": 4,
+        "overview": "歴史に名を刻むフランスの皇帝ナポレオン・ボナパルトは、いかにして皇帝の座へ上りつめたのか―。彼が唯一愛した妻ジョゼフィーヌとの波乱万丈な愛憎関係の中で、大いなる野望と驚くべき戦略思考をもって、歴史に残る数々の戦争を仕掛けた、類まれなる＜軍人ナポレオンの真の姿＞を壮大なスケールで描いた超大作！",
+        "co": ["apple", "scottfree", "columbia", "sony"]
+      },
+      {
+        "title": "O Brother, Where Art Thou?",
+        "year": "2000",
+        "director": "Coen Brothers",
+        "star": "George Clooney, John Turturro, Tim Blake Nelson, John Goodman",
+        "src": "https://www.youtube.com/embed/pt4C8j439IE?si=_x0NyFGRPe6OlNAn",
+        "image": "https://image.tmdb.org/t/p/original/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+        "rate": 4.5,
+        "overview": "大恐慌に喘ぐ1930年代のアメリカ南部。ミシシッピ州で服役する詐欺師のエヴェレットは、共に鎖でつながれた囚人ピートとデルマーと共に脱獄を図る。 三人が目指すのは、昔エヴェレットが埋めたという120万ドルの大金。だが、その隠し場所は人造湖建設の予定地であり、あと4日で水没する運命にあった。目標に向かって邁進する三人は、旅の途中で様々な人物と出会う。",
+        "co": ["touchstone", "universal"]
+      },
+      {
+        "title": "The Tragedy of Macbeth",
+        "year": "2021",
+        "director": "Joel Coen",
+        "star": "Denzel Washington, Frances McDormand",
+        "src": "https://www.youtube.com/embed/ptqe7s6pO7g?si=HqqTjUgsJNzcWF3K",
+        "image": "https://image.tmdb.org/t/p/original/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+        "rate": 3.5,
+        "overview": "グラミスの柵王マクベスは、3人の魔女から「いつかスコットランドの王になる」という予言を受ける。野望に燃えるマクベスは、妻によって行動に移され、王を殺害し、王座を手に入れる。",
+        "co": ["a24", "apple"]
+      },
+      {
+        "title": "The Ladykillers ",
+        "year": "2004",
+        "director": "Coen Brothers",
+        "star": "Tom Hanks, Irma P. Hall, J.K. Simmons, Tzi Ma",
+        "src": "https://www.youtube.com/embed/5AE-_Rt_s0s?si=XnQy2gwBhVso-hla",
+        "image": "https://image.tmdb.org/t/p/original/jEaEghD0JxNQZ7ei1PIa7OImQXX.jpg",
+        "rate": 4,
+        "overview": "敬虔なクリスチャンであるマンソン夫人はミシシッピ州に住む未亡人。彼女の元に「貸し部屋」の張り紙を見つけた、非の打ち所のない態度の紳士が現れる。彼はゴースウェイト・ヒギンソン・ドア博士と名乗り、音楽仲間とともにルネサンス後期の音楽の練習をしたいと言って寝室と地下室を借りる。",
+        "co": ["touchstone", "mike"]
+      },
+      {
+        "title": "The Ones Who Live",
+        "year": "2024",
+        "director": "Andrew Lincoln",
+        "star": "Andrew Lincoln, Danai Gurira",
+        "src": "https://www.youtube.com/embed/CSiSA-D207o?si=v-WHUWFiQ-vWhNNb",
+        "image": "https://image.tmdb.org/t/p/original/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
+        "rate": 99,
+        "overview": "橋の爆破から５年。リックは市民共同体軍、CRM（シビック・リパブリック・ミリタリー）に救助され、市民権の無い受託人として市民共同体の維持に関わる仕事に従事し、ミショーンの元へ帰るため何度も脱走を試みるが逃げ出すことができないでいた。"
+      },
+      {
+        "title": "Constellation",
+        "year": "2024",
+        "director": "Peter Harness",
+        "star": "Noomi Rapace, Jonathan Banks, James D'Arcy",
+        "src": "https://www.youtube.com/embed/4dAaLbsQSzI?si=_8jWShyMcyjwiV9j",
+        "image": "https://image.tmdb.org/t/p/original/21ICs3fxlxGslbzS4moCHk9HNo6.jpg",
+        "rate": 99,
+        "overview": "国際宇宙ステーションで死亡事故が起こり、独り取り残された宇宙飛行士が奇跡の生還を果たす。しかし地球に戻った彼女が見た世界は、重要な点がいくつか変わってしまっていた。愛する幼い娘までも。",
+        "co": ["apple"]
+      },
+      {
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "director": "Denis Villeneuve",
+        "star": "Timothée Chalamet, Zendaya, Rebecca Ferguson, Javier Bardem, Josh Brolin",
+        "src": "https://www.youtube.com/embed/Way9Dexny3w?si=o0snqEQceCJ3Un0o",
+        "image": "https://image.tmdb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+        "rate": 4.5,
+        "overview": "その惑星を制する者が全宇宙を制すると言われる砂の惑星デューンで繰り広げられたアトレイデス家とハルコンネン家の戦い。ハルコンネン家の陰謀により一族を滅ぼされたアトレイデス家の後継者ポールは、ついに反撃の狼煙を上げる。砂漠の民フレメンのチャニと心を通わせながら、救世主として民を率いていくポールだったが、宿敵ハルコンネン家の次期男爵フェイド＝ラウサがデューンの新たな支配者として送り込まれてくる。",
+        "co": ["legendary", "warner"]
+      },
+      {
+        "title": "Enemy",
+        "year": "2014",
+        "director": "Denis Villeneuve",
+        "star": "Jake Gyllenhaal, Sarah Gadon, Mélanie Laurent",
+        "src": "https://www.youtube.com/embed/aVvgt3jIUsc?si=WfPBLiWRKKS3Fuyy",
+        "image": "https://image.tmdb.org/t/p/original/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+        "rate": 2.5,
+        "overview": "何も刺激のない日々に空虚なものを感じている、大学で歴史を教えているアダム・ベル。ある日、何げなく映画のDVDを観ていた彼は、劇中に出てくる俳優が自分自身とうり二つであることに驚く。彼がアンソニー・クレアという名だと知ったアダムは、さまざまな手を尽くして彼との面会を果たす。顔の作りのみならず、ひげの生やし方や胸にある傷痕までもが同じであることに戦慄する。",
+        "co": ["eone", "telefilm", "a24"]
+      },
+      {
+        "title": "Une belle course",
+        "year": "2022",
+        "director": "Christian Carion",
+        "star": "Line Renaud, Dany Boon",
+        "src": "https://www.youtube.com/embed/w_ZLwuO2eg8?si=QC5nZ3Z1DFvKpFO3",
+        "image": "https://image.tmdb.org/t/p/original/bmS09aAOFfUZ7QdzchHbBRITqac.jpg",
+        "rate": 4,
+        "overview": "パリでタクシー運転手をしているシャルルは、金もなければ休暇もなく、免許停止寸前という人生がけっぷちの状態にあった。ある日彼に、92歳のマドレーヌをパリの反対側まで送り届けるという仕事が舞い込んでくる。彼女の頼みでパリの街のあちこちに立ち寄るうちに、マドレーヌの知られざる過去が明らかになっていく。",
+        "co": ["pathe", "tf1"]
+      },
+      {
+        "title": "A Man Called Otto",
+        "year": "2022",
+        "director": "Marc Forster",
+        "star": "Tom Hanks, Mariana Treviño",
+        "src": "https://www.youtube.com/embed/eFYUX9l-m5I?si=iHPMWoEcwBPDfWV2",
+        "image": "https://image.tmdb.org/t/p/original/1Wq9BJXw77p4IL7LAsihgWkqQJz.jpg",
+        "rate": 4,
+        "overview": "オットーは町内イチの嫌われ者でいつもご機嫌斜め。曲がったことが大っ嫌いで、近所を毎日パトロール、ルールを守らない人には説教三昧、挨拶をされても仏頂面、野良猫には八つ当たり、なんとも面倒で近寄りがたい…。それが《オットーという男》。",
+        "co": ["sony", "columbia", "playtone", "tsg", "stx"]
+      },
+      {
+        "title": "Thanksgiving",
+        "year": "2023",
+        "director": "Eli Roth",
+        "star": "Patrick Dempsey, Nell Verlaque",
+        "src": "https://www.youtube.com/embed/KbU50SdL8zA?si=Jr5cSHhViOlhRCWS",
+        "image": "https://image.tmdb.org/t/p/original/w3Bf1Fjn4NYrHW1NMziDWoW6HSL.jpg",
+        "rate": 3.5,
+        "overview": "「感謝祭（＝サンクスギビング）」発祥の地とされるアメリカ・マサチューセッツの田舎町。感謝祭とは、家族や愛する人々と共に日々の収穫や恩恵に感謝し祝福する、一年でもっとも盛大な祝祭。ハッピーなお祭りムードを楽しんでいた人々だったが、突如として現れた清教徒＜ピルグリム・ファーザーズ＞の指導者ジョン・カーヴァーのお面に身を隠した連続殺人鬼によって、町は恐怖のどん底へと突き落される。残虐なやり口で殺人鬼の犠牲になった人々は何者かによって謎のインスタグラムの投稿にタグ付けされていた。感謝祭のおしゃれな食卓が映る投稿には、意味深に配された住民たちの名札が！　なぜ彼らは狙われるのか──。饗宴が狂宴と化し、一夜が永遠のトラウマとなる史上最悪の感謝祭＜サンクスギビング＞が始まる！",
+        "co": ["sony", "spyglass", "tristar"]
+      },
+      {
+        "title": "Requiem for a Dream",
+        "year": "2000",
+        "director": "Darren Aronofsky",
+        "star": "Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans",
+        "src": "https://www.youtube.com/embed/mkYNhZvlHv0?si=sQ_Vw-Ei-wZz_oI9",
+        "image": "https://image.tmdb.org/t/p/original/a1BrBoErndBAYEZZEJaotIJ6CE1.jpg",
+        "rate": 4.5,
+        "overview": "コニー・アイランドの寂れた海岸。古いアパートに住む孤独な未亡人サラは、ある日、大好きなTVのクイズ番組から出演依頼の電話を受け、ダイエットを決意する。一方その一人息子ハリーと恋人マリオンのもとに、友人のタイロンが麻薬密売の話を持ちかける。一時はそれぞれに人生がうまく回り始めたかに思えたのだが……。",
+        "co": ["artisan", "summit"]
+      },
+      {
+        "title": "3 Body Problem",
+        "year": "2024",
+        "director": "David Benioff",
+        "star": "Jovan Adepo, John Bradley, Eiza González, Jess Hong, Alex Sharp",
+        "src": "https://www.youtube.com/embed/5lj99Uz1d50?si=SCF3-qATmdr7R0Sx",
+        "image": "https://image.tmdb.org/t/p/original/sphnjjiYb50SbWMToW7fyGigH1n.jpg",
+        "rate": 99,
+        "overview": "才能豊かな5人の友が、天地を揺るがす恐るべき事実を発見。時空をまたぐ壮大なスケールで、科学の法則が解明され、人類存亡の危機が明らかになっていく。",
+        "co": ["netflix"]
+      },
+      {
+        "title": "Road House",
+        "year": "2024",
+        "director": "Doug Liman",
+        "star": "Jake Gyllenhaal, Daniela Melchior, Conor McGregor",
+        "src": "https://www.youtube.com/embed/Y0ZsLudtfjI?si=d_6cVGxoNGctavmM",
+        "image": "https://image.tmdb.org/t/p/original/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg",
+        "rate": 3.5,
+        "overview": "元UFCファイターのダルトンが、フロリダキーズにある“ロードハウス”で用心棒の仕事に就く。しかし、この美しい島がただの楽園ではないことを知る。",
+        "co": ["goldwyn", "silver", "amazon"]
+      }
+    ]
+  }
+}

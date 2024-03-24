@@ -158,6 +158,18 @@
         "co": ["heyday", "warner"]
       },
       {
+        "id": 13.1,
+        "title": "Prisoners",
+        "year": "2013",
+        "director": "Denis Villeneuve",
+        "star": "Hugh Jackman, Jake Gyllenhaal",
+        "src": "https://www.youtube.com/embed/hqikJYaew8s?si=cC7ETxLT-nhG_wlw",
+        "image": "https://image.tmdb.org/t/p/original/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+        "sum": "Every moment matters.",
+        "overview": "工務店を営むケラーの娘が友だちと出掛けたまま行方不明に。警察はある青年を拘束するも2日後に釈放され、ケラーは自らの手で娘の居場所を聞き出そうとするが…。",
+        "co": ["alcon", "warner"]
+      },
+      {
         "id": 14,
         "title": "her",
         "year": "2014",
@@ -288,6 +300,18 @@
         "sum": "Protecting the Earth from the scum of the universe.",
         "overview": "協定に基づき地球に侵入して来た異星人の監視を行う秘密組織MIB（メン・イン・ブラック）エージェントの活躍を描いたコメディ・タッチのSFアクション映画。NY市警の警官ジェームズは逃走中の犯人が人間でない事を知るが、その記憶は警察署に現れた黒服の男“K”によって消されてしまう。“K”はMIBと呼ばれるエイリアン監視組織の一員だった。ジェームズの腕を認めた“K”は彼を組織にスカウトし、二人は地球に無断で侵入して来た昆虫型エイリアンの追跡を開始する。",
         "co": ["columbia", "amblin", "sony"]
+      },
+      {
+        "id": 24.1,
+        "title": "Arrival",
+        "year": "2016",
+        "director": "Denis Villeneuve",
+        "star": "Amy Adams, Jeremy Renner, Forest Whitaker",
+        "src": "https://www.youtube.com/embed/Z5FjAFlC7iI?si=_DpWPp86IaE0AlIb",
+        "image": "https://image.tmdb.org/t/p/original/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+        "sum": "What is your purpose on Earth?",
+        "overview": "巨大な球体型宇宙船が、突如地球に降り立つ。世界中が不安と混乱に包まれる中、言語学者のルイーズは宇宙船に乗ってきた者たちの言語を解読するよう軍から依頼される。彼らが使う文字を懸命に読み解いていくと、彼女は時間をさかのぼるような不思議な感覚に陥る。やがて言語をめぐるさまざまな謎が解け、彼らが地球を訪れた思いも寄らない理由と、人類に向けられたメッセージが判明する。",
+        "co": ["paramount", "filmnation"]
       },
       {
         "id": 24.1,

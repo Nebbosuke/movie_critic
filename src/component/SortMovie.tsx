@@ -22,10 +22,12 @@ const record: { [key: string]: movie[] } = db.movies;
 record.record.sort((a, b) =>
   a.title.toUpperCase() < b.title.toUpperCase() ? -1 : 1
 );
+
 const SortMovie = () => {
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
   const [flag, setFlag] = React.useState<number>(1);
   const [list, setList] = React.useState(record.record);
+  const [sort, setSort] = React.useState("並び替え");
   const open = Boolean(anchorEl);
   const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
     setAnchorEl(event.currentTarget);
@@ -37,11 +39,13 @@ const SortMovie = () => {
     setList(list.sort((a, b) => a.id - b.id));
     handleClose();
     setFlag(5);
+    setSort("追加日の早い順");
   };
   const sortAddDsc = () => {
     setList(list.sort((a, b) => b.id - a.id));
     handleClose();
     setFlag(6);
+    setSort("追加日の遅い順");
   };
   const sortTitleAsc = () => {
     setList(
@@ -51,6 +55,7 @@ const SortMovie = () => {
     );
     handleClose();
     setFlag(1);
+    setSort("タイトル降順");
   };
   const sortTitleDsc = () => {
     setList(
@@ -60,6 +65,7 @@ const SortMovie = () => {
     );
     handleClose();
     setFlag(2);
+    setSort("タイトル昇順");
   };
   const sortYearAsc = () => {
     setList(
@@ -69,6 +75,7 @@ const SortMovie = () => {
     );
     handleClose();
     setFlag(3);
+    setSort("古い順");
   };
   const sortYearDsc = () => {
     setList(
@@ -78,8 +85,13 @@ const SortMovie = () => {
     );
     handleClose();
     setFlag(4);
+    setSort("新しい順");
   };
-
+  // React.useEffect(() => {
+  //   record.record.sort((a, b) =>
+  //     a.title.toUpperCase() < b.title.toUpperCase() ? -1 : 1
+  //   );
+  // }, [flag]);
   return (
     <div>
       <div className="flex flex-row items-center gap-3">
@@ -91,8 +103,8 @@ const SortMovie = () => {
           onClick={handleClick}
           sx={{ color: "red" }}
         >
-          <div className="text-red-600 sm:hover:text-netflix border-2 border-red-600 rounded-full px-3 sm:hover:bg-red-600">
-            並び替え
+          <div className="text-red-600 sm:hover:text-netflix border-2 border-red-600 rounded-lg px-3 sm:hover:bg-red-600">
+            {sort}
           </div>
         </Button>
         <Menu
@@ -104,21 +116,13 @@ const SortMovie = () => {
             "aria-labelledby": "basic-button",
           }}
         >
-          <MenuItem onClick={sortTitleAsc}>タイトル昇順</MenuItem>
-          <MenuItem onClick={sortTitleDsc}>タイトル降順</MenuItem>
-          <MenuItem onClick={sortYearAsc}>公開年の早い順</MenuItem>
-          <MenuItem onClick={sortYearDsc}>公開年の遅い順</MenuItem>
+          <MenuItem onClick={sortTitleAsc}>タイトル降順</MenuItem>
+          <MenuItem onClick={sortTitleDsc}>タイトル昇順</MenuItem>
+          <MenuItem onClick={sortYearAsc}>古い順</MenuItem>
+          <MenuItem onClick={sortYearDsc}>新しい順</MenuItem>
           <MenuItem onClick={sortAddAsc}>追加日の早い順</MenuItem>
           <MenuItem onClick={sortAddDsc}>追加日の遅い順</MenuItem>
         </Menu>
-        {/* <div>
-          {flag === 1 && <div className="text-white">: タイトル昇順</div>}
-          {flag === 2 && <div className="text-white">: タイトル降順</div>}
-          {flag === 3 && <div className="text-white">: 公開年の早い順</div>}
-          {flag === 4 && <div className="text-white">: 公開年の遅い順</div>}
-          {flag === 5 && <div className="text-white">: 追加日の早い順</div>}
-          {flag === 6 && <div className="text-white">: 追加日の遅い順</div>}
-        </div> */}
       </div>
 
       <div className="pt-4 mb-20">

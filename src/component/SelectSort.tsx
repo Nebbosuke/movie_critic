@@ -1,79 +1,92 @@
 import * as React from "react";
-import List from "@mui/material/List";
-import ListItemButton from "@mui/material/ListItemButton";
-import ListItemText from "@mui/material/ListItemText";
+import Box from "@mui/material/Box";
+import InputLabel from "@mui/material/InputLabel";
 import MenuItem from "@mui/material/MenuItem";
-import Menu from "@mui/material/Menu";
+import FormControl from "@mui/material/FormControl";
+import Select, { SelectChangeEvent } from "@mui/material/Select";
+import db from "../db/halloffame.json";
+import HOFPosterDialog from "./HOFPosterDialog";
 
-const options = [
-  "Show some love to MUI",
-  "Show all notification content",
-  "Hide sensitive notification content",
-  "Hide all notification content",
-];
+type movie = {
+  id: number;
+  image: string;
+  title: any;
+  year: string;
+  director: string;
+  star: string;
+  src: string;
+  sum?: string;
+  overview?: string;
+  co?: string[];
+};
 
-export default function SimpleListMenu() {
-  const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
-  const [selectedIndex, setSelectedIndex] = React.useState(1);
-  const open = Boolean(anchorEl);
-  const handleClickListItem = (event: React.MouseEvent<HTMLElement>) => {
-    setAnchorEl(event.currentTarget);
+const record: { [key: string]: movie[] } = db.movies;
+record.record.sort((a, b) =>
+  a.title.toUpperCase() < b.title.toUpperCase() ? -1 : 1
+);
+export default function BasicSelect() {
+  const [sort, setSort] = React.useState("1");
+  const [list, setList] = React.useState(record);
+  const handleChange = (event: SelectChangeEvent) => {
+    setSort(event.target.value as string);
+    judge();
   };
-
-  const handleMenuItemClick = (
-    event: React.MouseEvent<HTMLElement>,
-    index: number
-  ) => {
-    setSelectedIndex(index);
-    setAnchorEl(null);
+  const judge = () => {
+    if (sort === "1") {
+      list.record.sort((a, b) =>
+        a.title.toUpperCase() < b.title.toUpperCase() ? -1 : 1
+      );
+      setList(list);
+    } else if (sort === "2") {
+      list.record.sort((a, b) =>
+        a.title.toUpperCase() > b.title.toUpperCase() ? -1 : 1
+      );
+      setList(list);
+    }
   };
-
-  const handleClose = () => {
-    setAnchorEl(null);
-  };
-
+  React.useEffect(() => {}, [sort]);
   return (
-    <div>
-      <List
-        component="nav"
-        aria-label="Device settings"
-        sx={{ bgcolor: "background.paper" }}
-      >
-        <ListItemButton
-          id="lock-button"
-          aria-haspopup="listbox"
-          aria-controls="lock-menu"
-          aria-label="when device is locked"
-          aria-expanded={open ? "true" : undefined}
-          onClick={handleClickListItem}
-        >
-          <ListItemText
-            primary="When device is locked"
-            secondary={options[selectedIndex]}
-          />
-        </ListItemButton>
-      </List>
-      <Menu
-        id="lock-menu"
-        anchorEl={anchorEl}
-        open={open}
-        onClose={handleClose}
-        MenuListProps={{
-          "aria-labelledby": "lock-button",
-          role: "listbox",
-        }}
-      >
-        {options.map((option, index) => (
-          <MenuItem
-            key={option}
-            disabled={index === 0}
-            selected={index === selectedIndex}
-            onClick={(event) => handleMenuItemClick(event, index)}
+    <main className="text-white">
+      <Box sx={{ minWidth: 20 }}>
+        <FormControl sx={{ minWidth: 100 }}>
+          <InputLabel id="demo-simple-select-label" sx={{ color: "white" }}>
+            sort
+          </InputLabel>
+          <Select
+            labelId="demo-simple-select-label"
+            id="demo-simple-select"
+            value={sort}
+            label="Sort"
+            onChange={handleChange}
+            sx={{ color: "white", backgroundColor: "#070707" }}
+            variant="outlined"
           >
-            {option}
-          </MenuItem>
+            <MenuItem value={"1"}>タイトル降順</MenuItem>
+            <MenuItem value={"2"}>タイトル昇順</MenuItem>
+          </Select>
+        </FormControl>
+      </Box>
+      <div className="pt-4 mb-20">
+        {Object.keys(list).map((month, index) => (
+          <div key={index} className="pb-6">
+            {list[month].map((movie, index) => (
+              <span key={index} className="">
+                <HOFPosterDialog
+                  image={movie.image}
+                  title={movie.title}
+                  year={movie.year}
+                  director={movie.director}
+                  star={movie.star}
+                  src={movie.src}
+                  sum={movie.sum}
+                  overview={movie.overview}
+                  co={movie.co}
+                />
+              </span>
+            ))}
+          </div>
         ))}
-      </Menu>
-    </div>
+      </div>
+    </main>
   );
 }

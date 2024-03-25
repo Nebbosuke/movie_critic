@@ -182,6 +182,18 @@
         "co": ["annapurna", "warner"]
       },
       {
+        "id": 14.1,
+        "title": "Fight Club",
+        "year": "1999",
+        "director": "David Fincher",
+        "star": "Edward Norton, Brad Pitt, Helena Bonham Carter, Jared Leto",
+        "src": "https://www.youtube.com/embed/0mRZd3ggnYg?si=f9DVFBFsWz-F8tE3",
+        "image": "https://image.tmdb.org/t/p/original/a26cQPRhJPX6GbWfQbvZdrrp9j9.jpg",
+        "sum": "You do not talk about Fight Club.",
+        "overview": "空虚な生活を送るヤング・エグゼクティブのジャックは、謎の男テイラーに導かれるまま、謎の秘密組織「ファイト・クラブ」のメンバーになる。そこは鍛え抜かれた男達が己の拳のみを武器に闘いを繰り広げる、壮絶で危険な空間だった。",
+        "co": ["regency", "fox"]
+      },
+      {
         "id": 15,
         "title": "Interstellar",
         "year": "2014",
@@ -290,6 +302,18 @@
         "co": ["blumhouse", "sony"]
       },
       {
+        "id": 23.1,
+        "title": "Chronicle",
+        "year": "2012",
+        "director": "Josh Trank",
+        "star": "Dane DeHaan, Michael B. Jordan, Alex Russell",
+        "src": "https://www.youtube.com/embed/blWBATSOCtA?si=oZcYsunQVSOVmMMD",
+        "image": "https://image.tmdb.org/t/p/original/6wEegj9nwjyWmmOcJ5MENPldCBr.jpg",
+        "sum": "What are you capable of?",
+        "overview": "母が病で倒れたままで、酒に溺れる父と暮らす孤独な高校生アンドリュー。いとこのマットに誘われてパーティーに行くが楽しめない。マットや人気者の同級生スティーヴと近くで見つけた洞窟の中を探検するが、そこにあった不思議な物質に触れた3人は、触らずに物を動かせるように。その能力を使ういたずらを楽しむようになった3人だが、いつしか空を飛べるようになる。自分の能力に酔ったアンドリューは暴走を始める。",
+        "co": ["fox"]
+      },
+      {
         "id": 24,
         "title": "Men In Black (film series)",
         "year": "1997",
@@ -372,6 +396,18 @@
         "sum": "Welcome to the Isle of Dogs.",
         "overview": "近未来の日本。ドッグ病が大流行するメガ崎市では、人間への感染を恐れた小林市長が、すべての犬を“犬ヶ島”に追放する。ある時、12歳の少年がたった一人で小型飛行機に乗り込み、その島に向かった。愛犬で親友のスポッツを救うためにやって来た、市長の養子で孤児のアタリだ。島で出会った勇敢で心優しい5匹の犬たちを新たな相棒とし、スポッツの探索を始めたアタリは、メガ崎の未来を左右する大人たちの陰謀へと近づいていく─。",
         "co": ["indian", "searchlight"]
+      },
+      {
+        "id": 27.1,
+        "title": "Sicario",
+        "year": "2015",
+        "director": "Denis Villeneuve",
+        "star": "Emily Blunt, Benicio del Toro, Josh Brolin",
+        "src": "https://www.youtube.com/embed/IBJbqV3IROM?si=3hP3intoGCRLBGne",
+        "image": "https://image.tmdb.org/t/p/original/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+        "sum": "The border is just another line to cross.",
+        "overview": "エリートＦＢＩ捜査官のケイトは、肥大化するメキシコの麻薬組織“ソノラ・カルテル”撲滅という極秘任務を負う特別部隊に選抜された。謎のコロンビア人アレハンドロと共に、麻薬戦争の最前線であるアメリカとメキシコの国境付近に向かうが、そこは仲間の動きも掴めず、人の命が簡単に奪われる無法地帯。そんな中、巨悪を追えば追うほど合法的手段だけで悪を制することができるかと、ケイトの倫理観が揺らいでゆく。",
+        "co": ["lionsgate"]
       },
       {
         "id": 28,
@@ -540,6 +576,18 @@
         "sum": "Unmask the truth.",
         "overview": "青年ブルース・ウェインがバットマンになろうとしていく姿と、社会に蔓延する嘘を暴いていく知能犯リドラーによってブルースの人間としての本性がむき出しにされていく様を描く。両親を殺された過去を持つ青年ブルースは復讐を誓い、夜になると黒いマスクで素顔を隠し、犯罪者を見つけては力でねじ伏せる「バットマン」となった。ブルースがバットマンとして悪と対峙するようになって2年目になったある日、権力者を標的とした連続殺人事件が発生。史上最狂の知能犯リドラーが犯人として名乗りを上げる。リドラーは犯行の際、必ず「なぞなぞ」を残し、警察やブルースを挑発する。やがて権力者たちの陰謀やブルースにまつわる過去、ブルースの亡き父が犯した罪が暴かれていく。",
         "co": ["warner", "dc"]
+      },
+      {
+        "id": 40.2,
+        "title": "The Girl with the Dragon Tattoo",
+        "year": "2011",
+        "director": "David Fincher",
+        "star": "Daniel Craig, Rooney Mara",
+        "src": "https://www.youtube.com/embed/Tn0NLIahWek?si=SCJdatM6rh_U-827",
+        "image": "https://image.tmdb.org/t/p/original/ex917803pTDHNkvLLmmSxpfzY6X.jpg",
+        "sum": "What is hidden in snow, comes forth in the thaw.",
+        "overview": "社会派ジャーナリストと天才的な資料収集能力を持つ女が手を組み、40年前の少女失踪事件に隠されたある財閥一族の血塗られた歴史を紐解いていく。",
+        "co": ["columbia", "goldwyn", "sony"]
       },
       {
         "image": "https://image.tmdb.org/t/p/original/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",

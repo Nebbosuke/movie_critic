@@ -38,6 +38,18 @@
         "co": ["fox", "dreamworks"]
       },
       {
+        "id": 3.1,
+        "title": "Harry Potter(Film Series)",
+        "year": "2000",
+        "director": "Chris Columbus",
+        "star": "Daniel Radcliffe, Rupert Grint, Emma Watson",
+        "src": "https://www.youtube.com/embed/02pr2W7FT-c?si=IVc1upPO7vu5yc50",
+        "image": "https://image.tmdb.org/t/p/original/jltsWuPiQhXK8bDdQubUU8xb7UY.jpg",
+        "sum": "Let the magic begin.",
+        "overview": "両親の死後、親戚の家に預けられたハリー・ポッター少年。そこでは階段下の物置部屋をあてがわれ、何かとこき使われる毎日。そんなある日、ハリーの11歳の誕生日に一通の手紙が届いた。中身はなんと、魔法魔術学校の入学許可証だった。実は、ハリーの両親は優秀な魔法使いだったのだ。手紙に導かれるままホグワーツ魔法魔術学校にたどり着いたハリーは、さっそく魔法使いになるための勉強を始める。ロンとハーマイオニーという友達もでき、楽しい毎日を送るハリーだったが、やがて学校に隠された驚くべき秘密に気づくのだった……。",
+        "co": ["warner"]
+      },
+      {
         "id": 4,
         "title": "The Green Mile",
         "year": "1999",
@@ -48,6 +60,30 @@
         "sum": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
         "overview": "大恐慌中の1935年。コールドマウンテン刑務所にあり、処刑室に続く通路があせた緑色であるため、“グリーンマイル”と呼ばれる死刑囚専用棟に殺人犯コーフィが収監される。だが、幼女惨殺の罪状とは裏腹に、コーフィは素晴らしい力を持っていた。彼は看守長ポールの重度の尿路感染症を治癒し、残忍な看守パーシーに踏み殺されたネズミをよみがえらせる。奇跡を目の当たりにしたポールはコーフィが本当に殺人犯なのか疑いだす。",
         "co": ["castlerock", "warner", "universal"]
+      },
+      {
+        "id": 4.1,
+        "title": "Jurassic Park(Film Series)",
+        "year": "1993",
+        "director": "Michael Crichton",
+        "star": "Sam Neill, Laura Dern, Jeff Goldblum",
+        "src": "https://www.youtube.com/embed/CBU6HgXzxo0?si=pde1Ep5dynUa3DW8",
+        "image": "https://image.tmdb.org/t/p/original/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+        "sum": "An adventure 65 million years in the making.",
+        "overview": "大富豪ジョン・ハモンドの招待で、古生物学者グラントとサトラー、そして数学者マルコムが南米コスタリカの沖合いに浮かぶ島を訪れた。そこは太古の琥珀に閉じ込められたDNAから遺伝子工学によって蘇った恐竜たちが生息する究極のアミューズメント・パークだったのだ。だがオープンを控えたその“ジュラシック・パーク”に次々とトラブルが襲いかかる。嵐の迫る中、ついに檻から解き放たれた恐竜たちは一斉に人間に牙を剥き始めた。",
+        "co": ["universal", "amblin"]
+      },
+      {
+        "id": 4.2,
+        "title": "Finding Nemo",
+        "year": "2003",
+        "director": "Andrew Stanton",
+        "star": "Albert Brooks, Ellen DeGeneres",
+        "src": "https://www.youtube.com/embed/IezD9WMvULM?si=gHYBoaef-J_nioL8",
+        "image": "https://image.tmdb.org/t/p/original/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+        "sum": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+        "overview": "オーストラリア、グレートバリアリーフ。広大な海の中でカクレクマノミの400個の卵が孵化しようとしていた。しかし、無事に生まれたのは母親の命と引き換えに助かったたった1つだけ。父マーリンは、この子を“ニモ”と名付け、同じ悲劇を繰り返さないと誓い過保護なまでに大事に育てていく。そして6歳になったニモに、初めて学校へ行く日がやって来る。しかし、突然の悲劇がニモを襲う。彼は、人間のダイバーにさらわれてしまったのだ。打ちひしがれるマーリンだったが、陽気なナンヨウハギ、ドリーの助けを借りてニモを取り戻す旅へと出るのだった。",
+        "co": ["disney", "pixar"]
       },
       {
         "id": 5,
@@ -110,6 +146,18 @@
         "co": ["bandapart", "miramax"]
       },
       {
+        "id": 9.1,
+        "title": "The Terminator(Film Series)",
+        "year": "1984",
+        "director": "James Cameron",
+        "star": "Arnold Schwarzenegger, Linda Hamilton",
+        "src": "https://www.youtube.com/embed/6g2vqQtb274?si=4rs2VkJule9e7_ln",
+        "image": "https://image.tmdb.org/t/p/original/km2OqfSlv9vnqNDCF3w99Y4T5go.jpg",
+        "sum": "I'll be back.",
+        "overview": "アメリカのとある街、深夜突如奇怪な放電と共に屈強な肉体をもった男が現れる。同じくして放電の中からもう一人の男カイル・リースが現れる。屈強な肉体を持った男はモラルや常識もない。あるのはただ１つの目的アメリカ人女性サラ・コナーという名の人物の殺害だった。電話帳名簿から「サラ・コナー」の名を持つ女性をかたっぱしから銃殺していく男。その頃カイルは目的のサラ・コナーと接触し間一髪で彼女を救う。カイルはサラに、サラを狙っているのは近未来から送られた人類殺戮ロボット「ターミネーター」であり、未来ではロボットの反乱による機械対人類の最終戦争が起こっている事、そしてサラは人類軍の希望のリーダー　ジョン・コナーの母親である事を告げる。　サラを連れカイルはターミネーターからの逃亡を開始する。",
+        "co": ["tristar"]
+      },
+      {
         "id": 10,
         "title": "The Transporter (film series)",
         "year": "2002",
@@ -134,6 +182,18 @@
         "co": ["troublemaker", "dimension"]
       },
       {
+        "id": 11.1,
+        "title": "Predators",
+        "year": "2007",
+        "director": "Nimród Antal",
+        "star": "Adrien Brody, Alice Braga, Topher Grace, Laurence Fishburne, Mahershala Ali, Walton Goggins, Danny Trejo",
+        "src": "https://www.youtube.com/embed/lYWrewrQ9PI?si=4WZjTxEtqsuYIZRc",
+        "image": "https://image.tmdb.org/t/p/original/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
+        "sum": "They are the most dangerous killers on the planet. But this is not our planet.",
+        "overview": "傭兵のロイスは突如閃光に包まれ、気がつくとどこかの上空を落下していた。なんとかパラシュートを開き、着陸するがそこは得体の知れないジャングル。その後、すぐに同じように落下してきたエドウィン；クッチーロ；イサベル；ニコライ；ハンゾー；スタンズ；モンバサと合流し、医師と名乗ったエドウィン以外は、軍人や殺し屋など「殺人」のプロフェッショナルであるという共通点を持っていることが判明する。 8名はジャングルを脱出するため行動を共にし、やがて開けた場所に到着するが、空を見ると幾つかの大きな衛星が浮かんでおり、そこが地球でないことを理解する。さらに謎の狩猟動物の襲撃に遭い、自らが“狩りの獲物”であることに気づく。そしてロイス達は多数の生物が殺され展示されている場所に到達する。そこは謎の狩人の「狩猟キャンプ」であった。そこで奇怪なオブジェクトにくくりつけられたプレデターを発見する。イサベルによるとそれは、かつてアメリカの特殊部隊員を襲った生命体の特徴に酷似しているという。 その後、10シーズンもの間この惑星で生き抜いてきたというノーランドと合流、彼の隠れ家で敵の正体や特徴を知り、地球に帰還するために「彼ら」の宇宙船を奪うことを決意する。",
+        "co": ["troublemaker", "fox"]
+      },
+      {
         "id": 12,
         "title": "Hancock",
         "year": "2008",
@@ -144,6 +204,18 @@
         "sum": "There are heroes. There are superheroes. And then there's Hancock.",
         "overview": "強大な力を持つヒーロー、ハンコックだが、酒好きでキレやすく市民には歓迎されていない。ある日、事故を防ぐために電車をエルボーで止めたハンコック。このときに助けられたPRマンのレイは、嫌われ者のハンコックに真のヒーローになってもらうべくさまざまな戦略を練る。",
         "co": ["columbia", "sony"]
+      },
+      {
+        "id": 12.1,
+        "title": "Pirates of the Caribbean(Film Series)",
+        "year": "2003",
+        "director": "Gore Verbinski",
+        "star": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
+        "src": "https://www.youtube.com/embed/YOUU4R-WGqM?si=QTwdhdDX9HrbhU73",
+        "image": "https://image.tmdb.org/t/p/original/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+        "sum": "Savy?",
+        "overview": "17世紀、海賊たちが大海原を荒らしまわっていた遥かなる時代。カリブ海の港町ポートロイヤル。美しい総督の娘エリザベスはかつて海上で助けた少年ウィルが身につけていた黄金のメダルを手に入れ、今も密かに保管していた。そんなある日、突然ブラックパール号に乗ったキャプテン・バルボッサ率いる冷酷な海賊たちが町に現われ、エリザベスがさらわれてしまう。海賊の目的は、彼女がその時身につけていた例のメダルだった。一方、鍛冶屋で働く逞しい若者へと成長したウィルは、幽閉されていた元ブラックパール号船長で一匹狼の海賊ジャック・スパロウと手を組み、エリザベスの救出に向かうのだが…。",
+        "co": ["disney", "jerry"]
       },
       {
         "id": 13,
@@ -159,6 +231,30 @@
       },
       {
         "id": 13.1,
+        "title": "Up",
+        "year": "2009",
+        "director": "Pete Docter",
+        "star": "Ed Asner, Christopher Plummer, Jordan Nagai",
+        "src": "https://www.youtube.com/embed/4-kEQgp1X_k?si=kwowf0CqKD7I3s6D",
+        "image": "https://image.tmdb.org/t/p/original/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+        "sum": "The greatest adventure is just getting back home.",
+        "overview": "愛する妻に先立たれ、古い一軒家にひとりで住むカールじいさん。彼の家がある地区に開発の波が押し寄せ、ついにカールじいさんも立ち退きを余儀なくされる。そこでカールじいさんは亡き妻エリーと約束を交わしたが実現しなかった、南米の美しい秘境、パラダイスの滝への旅を思い立ち、彼女との思い出が詰まった家に無数の風船をつけて空に飛び上がると南に向かう。ところが家にはいつの間にか近所のラッセルが入り込んでいてた。",
+        "co": ["disney", "pixar"]
+      },
+      {
+        "id": 13.2,
+        "title": "Avatar(Film Series)",
+        "year": "2009",
+        "director": "James Cameron",
+        "star": "Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang",
+        "src": "https://www.youtube.com/embed/ZM2k1UmcCXg?si=I0k0AAby8P-lODiW",
+        "image": "https://image.tmdb.org/t/p/original/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg",
+        "sum": "Enter the world of Pandora.",
+        "overview": "西暦2154年。人類は惑星ポリフェマスの最大衛星パンドラに鉱物採掘基地を開いている。この星は熱帯雨林のような未開のジャングル覆われていて獰猛な動物と”ナヴィ”という先住種族が暮らしており、森の奥には地球のエネルギー問題解決の鍵となる希少鉱物の鉱床がある。この星の大気は人間に適さないので屋外活動にはマスクを着用する必要があり、ナヴィと意思疎通し交渉するために人間とナヴィの遺伝子を組み合わせて人間が作りあげた”アバター”が用いられた。",
+        "co": ["fox", "lightstorm", "ingenious"]
+      },
+      {
+        "id": 13.3,
         "title": "Prisoners",
         "year": "2013",
         "director": "Denis Villeneuve",
@@ -168,6 +264,18 @@
         "sum": "Every moment matters.",
         "overview": "工務店を営むケラーの娘が友だちと出掛けたまま行方不明に。警察はある青年を拘束するも2日後に釈放され、ケラーは自らの手で娘の居場所を聞き出そうとするが…。",
         "co": ["alcon", "warner"]
+      },
+      {
+        "id": 13.4,
+        "title": "The Incredibles",
+        "year": "2004",
+        "director": "Brad Bird",
+        "star": "Craig T. Nelson, Holly Hunter",
+        "src": "https://www.youtube.com/embed/t5v2qBBD-gE?si=QxUOPWMMpSRRX_gm",
+        "image": "https://image.tmdb.org/t/p/original/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+        "sum": "Meet the Parrs, a family of superheroes.",
+        "overview": "Mr.インクレディブルことボブ・パーと妻のヘレンは、かつて世の中の平和を乱す悪と闘い、人々を危機から救い出す大活躍をしていた。ところが、15年前のスーパー・ヒーロー制度廃止を機に、夫妻は一般市民として暮らすことを余儀なくされ、3人の子供たちヴァイオレット、ダッシュ、ジャック・ジャックと共に、“普通”の家族生活を送ろうと努力していた。再び世界を救うことを夢見続けるボブの元に、ある日、謎の手紙が届く。それは、彼と彼の愛する家族にとって、想像を絶する冒険の始まりだった…。",
+        "co": ["disney", "pixar"]
       },
       {
         "id": 14,
@@ -206,6 +314,18 @@
         "co": ["paramount", "legendary", "syncopy"]
       },
       {
+        "id": 15.1,
+        "title": "Lucy",
+        "year": "2014",
+        "director": "Luc Besson",
+        "star": "Scarlett Johansson, Morgan Freeman",
+        "src": "https://www.youtube.com/embed/61MOf_2fwng?si=vF1LBlovRj3dz3Gp",
+        "image": "https://image.tmdb.org/t/p/original/dhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg",
+        "sum": "The average person uses 10% of their brain capacity. Imagine what she could do with 100%.",
+        "overview": "ごく普通の平凡な女性ルーシーは、訪れた台北のホテルでマフィアの闇取引に巻き込まれ、下腹部にCPH4という新種の麻薬が入った袋を埋め込まれてしまう。この麻薬は通常10%までしか活用できない人間の脳の潜在能力を極限まで高めることができる恐ろしいものだった。運び屋として体内の麻薬と共に移動するよう命じられたルーシーだったが、麻薬を狙うマフィアに捕まってしまう。ルーシーは激しい拷問を受けるが、その拍子に体内の袋が破れ、彼女の脳は麻薬の力で覚醒し、超人的な力を発揮してその場から脱出する。",
+        "co": ["europacorp", "tf1", "universal"]
+      },
+      {
         "id": 16,
         "title": "Inglourious Basterds",
         "year": "2009",
@@ -216,6 +336,18 @@
         "sum": "A basterd's work is never done.",
         "overview": "1941年、ナチス占領下のフランスの田舎町で、家族を虐殺されたユダヤ人のショシャナはランダ大佐の追跡を逃れる。一方、“イングロリアス・バスターズ”と呼ばれるレイン中尉率いる連合軍の極秘部隊は、次々とナチス兵を血祭りにあげていた。やがて彼らはパリでの作戦を実行に移す。",
         "co": ["weinstein", "universal", "bandapart"]
+      },
+      {
+        "id": 16.1,
+        "title": "John Wick(Film Series)",
+        "year": "2014",
+        "director": "Chad Stahelski",
+        "star": "Keanu Reeves, Ian McShane, Lance Reddick",
+        "src": "https://www.youtube.com/embed/0L9SzBANF0w?si=N4gUxT-fdlZCOg-y",
+        "image": "https://image.tmdb.org/t/p/original/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+        "sum": "Don't set him off.",
+        "overview": "伝説的な暗殺者として裏社会にその名をとどろかせるも、殺しの仕事から手を引いたジョン・ウィック。暴力から遠く慣れた毎日に安らぎを覚えていた彼だったが、それをロシアン・マフィアによって奪われる。怒りと憎しみに支配された彼は、封印していた殺しのスキルをよみがえらせ、ロシアン・マフィアへのリベンジを果たすことを決意する。",
+        "co": ["summit", "lionsgate"]
       },
       {
         "id": 17,
@@ -314,6 +446,42 @@
         "co": ["fox"]
       },
       {
+        "id": 23.2,
+        "title": "Rango",
+        "year": "2011",
+        "director": "Gore Verbinski",
+        "star": "Johnny Depp",
+        "src": "https://www.youtube.com/embed/xCCpL_8KAIQ?si=aSOf97LjGpnHA5Xn",
+        "image": "https://image.tmdb.org/t/p/original/vGujQOfGIaZx5UWxf9JdNEOxl7B.jpg",
+        "sum": "Heroes come in all different colors.",
+        "overview": "人間にペットとして飼われているが、TV番組のヒーローに憧れるカメレオン。車で飼い主と移動中に事故に遭い、入っていた水槽ごと砂漠に放り出されてしまう。初めて広い世界に出たカメレオンは途方に暮れるが、寂れた荒野の町“ダートタウン”にさまよい着く。酒場で町の住人たちにランゴと名乗ったカメレオンは、でたらめな武勇伝を語った結果、町の保安官に任命されてしまう。その頃、町は深刻な水不足に見舞われていた。",
+        "co": ["paramount"]
+      },
+      {
+        "id": 23.3,
+        "title": "Nightcrawler",
+        "year": "2014",
+        "director": "Dan Gilroy",
+        "star": "Jake Gyllenhaal, Riz Ahmed",
+        "src": "https://www.youtube.com/embed/x48m7w9boo0?si=_gt04touLrYbuqwa",
+        "image": "https://image.tmdb.org/t/p/original/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+        "sum": "The city shines brightest at night.",
+        "overview": "人脈も学歴もないために、仕事にありつけないルイス。たまたま事故現場に出くわした彼は、そこで衝撃的な映像を撮ってはマスコミに売るナイトクローラーと呼ばれるパパラッチの姿を目にする。ルイスもビデオカメラを手に入れ、警察無線を傍受しては、事件現場、事故現場に駆け付ける。その後、過激さを誇る彼の映像は、高値でテレビ局に買い取られるように。やがて局の要望はエスカレートし、それに応えようとルイスもとんでもない行動を取る。",
+        "co": ["bold", "openroad"]
+      },
+      {
+        "id": 23.4,
+        "title": "The Revenant",
+        "year": "2015",
+        "director": "Alejandro González Iñárritu",
+        "star": "Leonardo DiCaprio, Tom Hardy",
+        "src": "https://www.youtube.com/embed/DzT57pziwkE?si=Q2vc_p-78qgVfMit",
+        "image": "https://image.tmdb.org/t/p/original/wkA03WX3IdHYMX2gIxaCwqowQX.jpg",
+        "sum": "Blood lost. Life found.",
+        "overview": "アメリカ西部の原野、ハンターのヒュー・グラスは狩猟の最中に熊の襲撃を受けて瀕死の重傷を負うが、同行していた仲間のジョン・フィッツジェラルドに置き去りにされてしまう。かろうじて死のふちから生還したグラスは、自分を見捨てたフィッツジェラルドにリベンジを果たすべく、大自然の猛威に立ち向かいながらおよそ300キロに及ぶ過酷な道のりを突き進んでいく。",
+        "co": ["regency", "appianway", "fox"]
+      },
+      {
         "id": 24,
         "title": "Men In Black (film series)",
         "year": "1997",
@@ -338,7 +506,7 @@
         "co": ["paramount", "filmnation"]
       },
       {
-        "id": 24.1,
+        "id": 24.2,
         "title": "Shutter Island",
         "year": "2010",
         "director": "Martin Scorsese",
@@ -350,7 +518,7 @@
         "co": ["appianway", "paramount"]
       },
       {
-        "id": 24.2,
+        "id": 24.3,
         "title": "Oldboy",
         "year": "2003",
         "director": "Park Chan-wook",
@@ -384,6 +552,30 @@
         "sum": "The crime is bigger than you think",
         "overview": "緊急通報司令室のオペレーターが、今まさに誘拐されているという女性本人からの通報を受ける。車の発射音や女性のおびえる声、犯人の息遣いなど僅かな音を頼りに、主人公が事件に挑む姿を描く新感覚サスペンス。",
         "co": ["nordisk"]
+      },
+      {
+        "id": 26.1,
+        "title": "Training Day",
+        "year": "2001",
+        "director": "Antoine Fuqua",
+        "star": "Ethan Hawke, Denzel Washington",
+        "src": "https://www.youtube.com/embed/rEg_6Hs71Cg?si=TPERJvAOTIcNyNMt",
+        "image": "https://image.tmdb.org/t/p/original/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+        "sum": "The only thing more dangerous than the line being crossed, is the cop who will cross it.",
+        "overview": "念願のロス市警麻薬捜査課勤務となった新人刑事ジェイク。伝説のベテラン刑事アロンゾのパートナーとなって意気揚々と現場に趣くが、信じられない現実が待ち受けていて……。",
+        "co": ["village", "warner"]
+      },
+      {
+        "id": 26.2,
+        "title": "Mission: Impossible",
+        "year": "1996",
+        "director": "Brian De Palma",
+        "star": "Tom Cruise",
+        "src": "https://www.youtube.com/embed/ifwngc8FHZM?si=oISv1hRAh3eCNKo0",
+        "image": "https://image.tmdb.org/t/p/original/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+        "sum": "Mission accomplished!!",
+        "overview": "秘密諜報員イーサン・ハントの仲間は次々に傷つき、自らも負傷した。にもかかわらず、ハントは二重スパイの汚名を着せられる。追跡者から逃がれ、厳重な警備のCIAの金庫室に忍び込み、疾走する列車の屋根にしがみつき、ハントは独力で事件の謎を解明しようとする。やがて驚くべき真相が明らかに…。",
+        "co": ["paramount"]
       },
       {
         "id": 27,
@@ -420,6 +612,18 @@
         "sum": "Stories live forever. People don't.",
         "overview": "荒唐無稽なものから深遠な話まで、コーエン兄弟ならではの味わいあふれるアンソロジー。アメリカ西部を駆け抜けた無法者や開拓者たちの6つの冒険物語。",
         "co": ["annapurna", "mike"]
+      },
+      {
+        "id": 28.1,
+        "title": "The Matrix(Film Series)",
+        "year": "1999",
+        "director": "Lana Wachowski",
+        "star": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "src": "https://www.youtube.com/embed/uXGE0vuuaDo?si=OCcD5AvAx_n0nCcr",
+        "image": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "sum": "He is the one!",
+        "overview": "トーマス・アンダーソンは、大手ソフトウェア会社に勤めるプログラマである。しかし彼には天才ハッカー、ネオというもう一つの顔があった。ある日、彼はとある人物から連絡を受け、警察に追われる。そして彼から衝撃的な世界の真実を告げられた。",
+        "co": ["warner", "village", "silver"]
       },
       {
         "id": 29,
@@ -468,6 +672,18 @@
         "sum": "There are no clean getaways.",
         "overview": "狩りをしていたルウェリンは、死体の山に囲まれた大量のヘロインと200万ドルの大金を発見する。危険なにおいを感じ取りながらも金を持ち去った彼は、謎の殺し屋シガーに追われることになる。事態を察知した保安官ベルは、2人の行方を追い始めるが……。",
         "co": ["paramount", "mike", "miramax"]
+      },
+      {
+        "id": 32.1,
+        "title": "007(Daniel Craig)",
+        "year": "2006",
+        "director": "Martin Campbell",
+        "star": "Daniel Craig",
+        "src": "https://www.youtube.com/embed/cbqv1kbsNUY?si=tAsgaEACahU01d_T",
+        "image": "https://image.tmdb.org/t/p/original/zfUXj6bfT5Qj5IW6UbQAcJ6a8O3.jpg",
+        "sum": "Everyone has a past. Every legend has a beginning.",
+        "overview": "内部汚職の根を絶ち、殺しのライセンス・00（ダブルオー）を得たボンドはマダガスカルである男の監視をしていた。その男の携帯電話から得た情報、「エリプシス」の糸を手繰りバハマへ。そこでメッセージの送信者で、武器の売人のディミトリオスおよびその妻ソランジュと接触。マイアミ国際空港で披露される超大型旅客機の爆破計画を知る。この計画に絡んでいるとしてル・シッフルという男の情報をMから得る。ル・シッフルは世界各国のテロ組織から預かった資金をマネーロンダリングしつつ運用しており、旅客機製造会社の株のカラ売りを仕込んだ上で、同社が製造した超大型旅客機をお披露目式で爆破して、巨額の利益を得ようとしていた。しかし爆破をボンドに阻止されたことで大金を失い、テロ組織に返却する資金を取り戻そうとモンテネグロの「カジノ・ロワイヤル」にて開催されるポーカーゲームに参加することになった。ボンドはそのゲームに参加し、国の資金を使ってテロ資金稼ぎを阻止するよう命じられ、監視役として送られて来た金融活動部（FATF）のヴェスパー・リンドとともにゲームへ挑む。",
+        "co": ["goldwyn", "columbia", "sony"]
       },
       {
         "id": 33,
@@ -612,6 +828,18 @@
         "sum": "A sublime trip to a fine new world",
         "overview": "仏のSF作家ステファン・ウルの長編小説を、マンガ家ローラン・トポールの絵でアニメ化した異色のファンタジー作品。未開の惑星イガムを舞台に人間型のオム族と、彼らを奴隷のように扱うドラーグ族の戦いと協調を描く。SF的イマジネーションの凄さと特異なアニメーション映像には目を見張るものがある。",
         "co": []
+      },
+      {
+        "image": "https://image.tmdb.org/t/p/original/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+        "title": "The Big Lebowski",
+        "year": "1998",
+        "director": "Coen Brothers",
+        "star": "Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi",
+        "src": "https://www.youtube.com/embed/jo11SqLmuGc?si=fjnh91_3OH4uOKsA",
+        "id": 42.1,
+        "sum": "They figured he was a lazy, time-wasting slacker. They were right.",
+        "overview": "無職で気ままに暮らす“デュード”こと、ジャフ・リボウスキ。彼の家に突然、２人のチンピラがやって来る。女房の借金を返せと怒鳴るチンピラに、全く身に覚えがなく呆然とするリボウスキ。その後彼は、同姓同名の大金持ちと間違えられたと気づく。",
+        "co": ["workingtitle", "gramercy"]
       },
       {
         "id": 43,

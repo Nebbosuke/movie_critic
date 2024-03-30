@@ -25,7 +25,7 @@ const Selection: React.FC = () => {
           2024
         </div>
         <span className="w-max text-white text-base sm:text-2xl">
-          2024年にみた映画、ドラマ。０～５点で評価。
+          2024年に観た映画、ドラマの一覧です。０～５点で評価しています。
         </span>
       </div>
       <div className="mb-10">

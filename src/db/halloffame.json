@@ -179,7 +179,7 @@
         "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/b4XbiwY3xRH7A4442XPkvzWuMik.jpg",
         "sum": "A crash course in revenge",
         "overview": "スゴ腕スタントマンのマイクは、愛車“デス・プルーフ”に乗り、美女をナンパしては死のドライブに誘っていた。ある日マイクは、テネシー州で豪快なスタントライドを楽しむ3人の女性たちに目をつける。いきなり車をぶつけ、しつこく追い回すマイクにキレたゾーイたちは、決死の猛反撃に挑む。",
-        "co": ["troublemaker", "dimension"]
+        "co": ["dimension"]
       },
       {
         "id": 11.1,
@@ -191,7 +191,7 @@
         "image": "https://image.tmdb.org/t/p/original/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
         "sum": "They are the most dangerous killers on the planet. But this is not our planet.",
         "overview": "傭兵のロイスは突如閃光に包まれ、気がつくとどこかの上空を落下していた。なんとかパラシュートを開き、着陸するがそこは得体の知れないジャングル。その後、すぐに同じように落下してきたエドウィン；クッチーロ；イサベル；ニコライ；ハンゾー；スタンズ；モンバサと合流し、医師と名乗ったエドウィン以外は、軍人や殺し屋など「殺人」のプロフェッショナルであるという共通点を持っていることが判明する。 8名はジャングルを脱出するため行動を共にし、やがて開けた場所に到着するが、空を見ると幾つかの大きな衛星が浮かんでおり、そこが地球でないことを理解する。さらに謎の狩猟動物の襲撃に遭い、自らが“狩りの獲物”であることに気づく。そしてロイス達は多数の生物が殺され展示されている場所に到達する。そこは謎の狩人の「狩猟キャンプ」であった。そこで奇怪なオブジェクトにくくりつけられたプレデターを発見する。イサベルによるとそれは、かつてアメリカの特殊部隊員を襲った生命体の特徴に酷似しているという。 その後、10シーズンもの間この惑星で生き抜いてきたというノーランドと合流、彼の隠れ家で敵の正体や特徴を知り、地球に帰還するために「彼ら」の宇宙船を奪うことを決意する。",
-        "co": ["troublemaker", "fox"]
+        "co": ["fox"]
       },
       {
         "id": 12,
@@ -216,6 +216,30 @@
         "sum": "Savy?",
         "overview": "17世紀、海賊たちが大海原を荒らしまわっていた遥かなる時代。カリブ海の港町ポートロイヤル。美しい総督の娘エリザベスはかつて海上で助けた少年ウィルが身につけていた黄金のメダルを手に入れ、今も密かに保管していた。そんなある日、突然ブラックパール号に乗ったキャプテン・バルボッサ率いる冷酷な海賊たちが町に現われ、エリザベスがさらわれてしまう。海賊の目的は、彼女がその時身につけていた例のメダルだった。一方、鍛冶屋で働く逞しい若者へと成長したウィルは、幽閉されていた元ブラックパール号船長で一匹狼の海賊ジャック・スパロウと手を組み、エリザベスの救出に向かうのだが…。",
         "co": ["disney", "jerry"]
+      },
+      {
+        "id": 12.2,
+        "title": "Unbreakable",
+        "year": "2000",
+        "director": "M. Night Shyamalan",
+        "star": "Bruce Willis, Samuel L. Jackson",
+        "src": "https://www.youtube.com/embed/fFTvDvWlwww?si=Ndw2WMHkwIs8yUjW",
+        "image": "https://image.tmdb.org/t/p/original/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+        "sum": "Some things are only revealed by accident.",
+        "overview": "フィラデルフィアで、131人もの乗員・乗客が死亡するという凄惨な列車事故が発生。だが、たった一人、奇跡の生存者がいた。その男デヴィッド(ブルース・ウィリス)は、マスコミや周囲の者たちの異様な視線に戸惑う。「なぜ、俺だけが?」誰よりも彼自身がその答えを求めていた。ある日、イライジャ(サミュエル・L・ジャクソン)と名乗る男が現れ、デヴィッドこそ不滅の肉体を持つ者≪アンブレイカブル≫であると告げる。その言葉をきっかけに、デヴィッドは自己の存在意義を問うようになる。そして、それは恐るべき真実への幕開けだった・・・。",
+        "co": ["touchstone"]
+      },
+      {
+        "id": 12.3,
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "director": "Bryan Singer",
+        "star": "Kevin Spacey, Benicio del Toro",
+        "src": "https://www.youtube.com/embed/tDfZ5HmA6fs?si=wJ_-djVfwzsH6gjP",
+        "image": "https://image.tmdb.org/t/p/original/rWbsxdwF9qQzpTPCLmDfVnVqTK1.jpg",
+        "sum": "Five criminals. One line up. No coincidence.",
+        "overview": "船舶の炎上事故を調べていた捜査官クラインは尋問していたヴァーバルから奇妙な話を聞かされる。6週間前に銃器強奪事件の容疑者として集められた5人が、釈放後、協力して宝石強奪を決行。ブツをさばくためにLAの故買屋と接触した5人は、そこで新たなヤマを依頼されるが、宝石と聞かされていた獲物は麻薬で、トラブルから相手を射殺してしまう。そして恐慌状態の彼らの前に、伝説のギャング“カイザー・ソゼ”の右腕と名乗る弁護士が現れたというのだ。",
+        "co": ["gramercy"]
       },
       {
         "id": 13,
@@ -278,6 +302,18 @@
         "co": ["disney", "pixar"]
       },
       {
+        "id": 13.5,
+        "title": "Scarface",
+        "year": "1983",
+        "director": "Brian De Palma",
+        "star": "Al Pacino, Steven Bauer",
+        "src": "https://www.youtube.com/embed/AVQ8byG2mY8?si=1q0vFAChIWzP7nZc",
+        "image": "https://image.tmdb.org/t/p/original/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "sum": "Say Hello To My Little Friend.",
+        "overview": "1980年春、キューバから何千もの人間が自由を求めてアメリカを目指した。その中に、太陽が降り注ぐマイアミに一攫千金を夢見る男がいた。彼の名は、トニー・モンタナ。彼の野望と情熱は、白い粉’コカイン’の一大大国を築き上げていくこと。無一文から暗黒街のボスにのし上がっていくが、頂点に上り詰めた彼を待ち受けた末路とは・・・。",
+        "co": ["universal"]
+      },
+      {
         "id": 14,
         "title": "her",
         "year": "2014",
@@ -295,7 +331,7 @@
         "year": "1999",
         "director": "David Fincher",
         "star": "Edward Norton, Brad Pitt, Helena Bonham Carter, Jared Leto",
-        "src": "https://www.youtube.com/embed/0mRZd3ggnYg?si=f9DVFBFsWz-F8tE3",
+        "src": "https://www.youtube.com/embed/WWNrPCakd2I?si=reF1h2tDZdQl7TB9",
         "image": "https://image.tmdb.org/t/p/original/a26cQPRhJPX6GbWfQbvZdrrp9j9.jpg",
         "sum": "You do not talk about Fight Club.",
         "overview": "空虚な生活を送るヤング・エグゼクティブのジャックは、謎の男テイラーに導かれるまま、謎の秘密組織「ファイト・クラブ」のメンバーになる。そこは鍛え抜かれた男達が己の拳のみを武器に闘いを繰り広げる、壮絶で危険な空間だった。",
@@ -470,18 +506,6 @@
         "co": ["bold", "openroad"]
       },
       {
-        "id": 23.4,
-        "title": "The Revenant",
-        "year": "2015",
-        "director": "Alejandro González Iñárritu",
-        "star": "Leonardo DiCaprio, Tom Hardy",
-        "src": "https://www.youtube.com/embed/DzT57pziwkE?si=Q2vc_p-78qgVfMit",
-        "image": "https://image.tmdb.org/t/p/original/wkA03WX3IdHYMX2gIxaCwqowQX.jpg",
-        "sum": "Blood lost. Life found.",
-        "overview": "アメリカ西部の原野、ハンターのヒュー・グラスは狩猟の最中に熊の襲撃を受けて瀕死の重傷を負うが、同行していた仲間のジョン・フィッツジェラルドに置き去りにされてしまう。かろうじて死のふちから生還したグラスは、自分を見捨てたフィッツジェラルドにリベンジを果たすべく、大自然の猛威に立ち向かいながらおよそ300キロに及ぶ過酷な道のりを突き進んでいく。",
-        "co": ["regency", "appianway", "fox"]
-      },
-      {
         "id": 24,
         "title": "Men In Black (film series)",
         "year": "1997",
@@ -540,6 +564,19 @@
         "sum": "The key to the future is finally unearthed.",
         "overview": "2022年にアメリカ西海岸で大規模な停電が起きたのをきっかけに世界は食物供給が混乱するなど危機的状況を迎える。2025年、科学者ウォレスが遺伝子組み換え食品を開発し、人類の危機を救う。そして、元捜査官デッカードが突然行方をくらませて以来30年の月日が流れた2049年には、レプリカント（人造人間）の寿命に制限がなくなっていた。",
         "co": ["alcon", "columbia", "scottfree", "warner", "sony"]
+      },
+
+      {
+        "id": 25.1,
+        "title": "Parasite",
+        "year": "2019",
+        "director": "Bong Joon-ho",
+        "star": "Song Kang-ho",
+        "src": "https://www.youtube.com/embed/5xH0HfJHsaY?si=K4B5b2mrqjEwjmj0",
+        "image": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "sum": "Act like you own the place.",
+        "overview": "過去に度々事業に失敗、計画性も仕事もないが楽天的な父キム・ギテク。そんな甲斐性なしの夫に強くあたる母チュンスク。大学受験に落ち続け、若さも能力も持て余している息子ギウ。美大を目指すが上手くいかず、予備校に通うお金もない娘ギジョンは、“ 半地下住宅”で 暮らす貧しい4人家族だ。“半地下”の家は、暮らしにくい。窓を開ければ、路上で散布される消毒剤が入ってくる。電波が悪い。Wi-Fiも弱い。水圧が低いからトイレが家の一番高い位置に鎮座している。家族全員、ただただ“普通の暮らし”がしたい。受験経験は豊富だが学歴のないギウは、ある時、エリート大学生の友人から留学中の代打を頼まれる。ギウが向かった先は、IT企業の社長パク・ドンイク一家が暮らす高台の大豪邸だった。",
+        "co": ["cj"]
       },
       {
         "id": 26,
@@ -686,6 +723,18 @@
         "co": ["goldwyn", "columbia", "sony"]
       },
       {
+        "id": 32.2,
+        "title": "Pan's Labyrinth",
+        "year": "2006",
+        "director": "Guillermo del Toro",
+        "star": "Ivana Baquero",
+        "src": "https://www.youtube.com/embed/ioe5bgRq30Q?si=oiJfPQ-0uw2GjCet",
+        "image": "https://image.tmdb.org/t/p/original/s8C4whhKtDaJvMDcyiMvx3BIF5F.jpg",
+        "sum": "What happens when make-believe believes it's real?",
+        "overview": "1944年のスペイン。内戦終結後もフランコ政権の圧政に反発する人々がゲリラ闘争を繰り広げる山間部。内戦で父を亡くした少女オフェリアは、臨月の母カルメンと共にこの山奥へとやって来る。この地でゲリラの鎮圧にあたるビダル将軍と母が再婚したのだった。冷酷で残忍な義父に恐怖と憎しみを募らせるオフェリア。その夜、彼女は昆虫の姿をした不思議な妖精に導かれ、謎めいた迷宮へと足を踏み入れる。そこでオフェリアを出迎えたパン＜牧神＞は、彼女が地底の魔法の国のプリンセスの生まれ変わりで、満月の夜までに３つの試練を乗り越えれば、魔法の国に帰ることが出来ると告げる。オフェリアはその言葉を信じて、与えられた３つの試練に立ち向かう決意を固めるのだったが…。",
+        "co": ["warner"]
+      },
+      {
         "id": 33,
         "title": "Brawl In Cell Block 99",
         "year": "2017",
@@ -758,6 +807,18 @@
         "co": ["searchlight", "tsg"]
       },
       {
+        "id": 38.1,
+        "title": "Nope",
+        "year": "2022",
+        "director": "Jordan Peele",
+        "star": "Daniel Kaluuya, Keke Palmer, Steven Yeun",
+        "src": "https://www.youtube.com/embed/Oo3PvNdimMs?si=Guz8Zt4lWDTCQlXi",
+        "image": "https://image.tmdb.org/t/p/original/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+        "sum": "What’s a bad miracle?",
+        "overview": "広大な田舎町の空に突如現れた不気味な飛行物体をめぐり、謎の解明のため動画撮影を試みる兄妹がたどる運命を描いた。 田舎町で広大な敷地の牧場を経営し、生計を立てている一家。ある日、一家の長男が、家業をサボって町に繰り出す妹にうんざりしていたところ、突然空から異物が降り注いでくる。その謎の現象が止んだかと思うと、直前まで会話していた父親が息絶えていた。長男は、父親の不可解な死の直前に、雲に覆われた巨大な飛行物体のようなものを目撃したことを妹に明かす。兄妹はその飛行物体の存在を収めた動画を撮影すればネットでバズるはずだと、飛行物体の撮影に挑むが、そんな彼らに想像を絶する事態が待ち受けていた。",
+        "co": ["universal", "monkeypaw"]
+      },
+      {
         "id": 39,
         "title": "Hereditary",
         "year": "2018",
@@ -768,6 +829,18 @@
         "sum": "Every family tree hides a secret.",
         "overview": "祖母エレンが亡くなったグラハム家。過去のある出来事により、母に対して愛憎交じりの感情を持ってた娘のアニーも、夫、2人の子どもたちとともに淡々と葬儀を執り行った。祖母が亡くなった喪失感を乗り越えようとするグラハム家に奇妙な出来事が頻発。最悪な事態に陥った一家は修復不能なまでに崩壊してしまうが、亡くなったエレンの遺品が収められた箱に「私を憎まないで」と書かれたメモが挟まれていた。",
         "co": ["a24"]
+      },
+      {
+        "id": 39.1,
+        "title": "Wrath of Man",
+        "year": "2021",
+        "director": "Guy Ritchie",
+        "star": "Jason Statham, Holt McCallany, Scott Eastwood",
+        "src": "https://www.youtube.com/embed/MZEzKoHStO4?si=DHaiWi0slEWepjaP",
+        "image": "https://image.tmdb.org/t/p/original/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+        "sum": "",
+        "overview": "LAにある現金輸送専門の警備会社フォーティコ・セキュリティ社。日々、現金輸送車(キャッシュトラック)を運転するのは、特殊な訓練を受け厳しい試験をくぐり抜けた強者の警備員たち。そこに雇われた新人パトリック・ヒル、通称H。試験をぎりぎりで合格した彼は周りから特に気に留められる存在ではなかった。しかし、彼の乗ったトラックが強盗に襲われた時、驚くほど高い戦闘スキルでそれを阻止する。彼は一体何者なのか？周囲が疑心暗鬼に陥る中、全米で最も現金が動く日ブラック・フライデーに集まる1億8000万ドルの大金を狙う強奪計画が進行していた…",
+        "co": ["goldwyn", "lionsgate"]
       },
       {
         "id": 40,
@@ -792,6 +865,18 @@
         "sum": "Unmask the truth.",
         "overview": "青年ブルース・ウェインがバットマンになろうとしていく姿と、社会に蔓延する嘘を暴いていく知能犯リドラーによってブルースの人間としての本性がむき出しにされていく様を描く。両親を殺された過去を持つ青年ブルースは復讐を誓い、夜になると黒いマスクで素顔を隠し、犯罪者を見つけては力でねじ伏せる「バットマン」となった。ブルースがバットマンとして悪と対峙するようになって2年目になったある日、権力者を標的とした連続殺人事件が発生。史上最狂の知能犯リドラーが犯人として名乗りを上げる。リドラーは犯行の際、必ず「なぞなぞ」を残し、警察やブルースを挑発する。やがて権力者たちの陰謀やブルースにまつわる過去、ブルースの亡き父が犯した罪が暴かれていく。",
         "co": ["warner", "dc"]
+      },
+      {
+        "id": 40.11,
+        "title": "The Host",
+        "year": "2006",
+        "director": "Bong Joon-ho",
+        "star": "Song Kang-ho, Go A-sung",
+        "src": "https://www.youtube.com/embed/L3-kGFkcG0E?si=_OXPNrK3v1krZdpa",
+        "image": "https://image.tmdb.org/t/p/original/cW8LhdihM83ucBAcmWj9qQBMO88.jpg",
+        "sum": "Monsters are real.",
+        "overview": "ソウルを流れる大河の漢江に、謎の怪物“グエムル”が現れ、次々と人を襲う。河川敷で売店を営むパク家の長男カンドゥの中学生の娘、ヒョンソも怪物にさらわれてしまう。カンドゥは妹ナムジュらとともに病院に隔離されていたが、携帯電話に娘からの連絡が入ったことから一家で脱出を試みるが……。",
+        "co": ["showbox"]
       },
       {
         "id": 40.2,

@@ -1,6 +1,5 @@
 import * as React from "react";
 import SortMovie from "./SortMovie";
-import SelectSort from "./SelectSort";
 
 const Selection = () => {
   return (

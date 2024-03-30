@@ -1,4 +1,19 @@
 import HallOfFame from "./HallOfFame";
+import db from "../db/halloffame.json";
+type movie = {
+  id: number;
+  image: string;
+  title: any;
+  year: string;
+  director: string;
+  star: string;
+  src: string;
+  sum?: string;
+  overview?: string;
+  co?: string[];
+};
+
+const record: { [key: string]: movie[] } = db.movies;
 
 const Main = () => {
   return (
@@ -8,7 +23,7 @@ const Main = () => {
       </div>
       <div className="flex flex-col gap-5">
         <span className="text-white text-base sm:text-2xl mb-3">
-          お気に入りの映画。
+          お気に入りの映画の一覧です。全部で{record.record.length}作品です。
         </span>
       </div>
       <HallOfFame />

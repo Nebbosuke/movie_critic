@@ -16,7 +16,7 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import neb from "../nebsite.png";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
 import { Link } from "react-router-dom";
-import Library from "./Library";
+import Library from "./diary/2024";
 
 const returnTop = () => {
   window.scrollTo({
@@ -130,7 +130,7 @@ export default function ResponsiveDrawer(props: Props) {
     window !== undefined ? () => window().document.body : undefined;
 
   return (
-    <Box sx={{ display: "flex" }}>
+    <div className="sm:w-full flex">
       <CssBaseline />
       <AppBar
         position="fixed"
@@ -237,6 +237,6 @@ export default function ResponsiveDrawer(props: Props) {
         <Toolbar />
         <Library />
       </Box>
-    </Box>
+    </div>
   );
 }

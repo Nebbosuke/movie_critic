@@ -17,7 +17,7 @@ import neb from "../nebsite.png";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
 import Movie from "./Movie";
 import Tvshow from "./Tvshow";
-import Library from "./Library";
+import Library from "./diary/2024";
 import Top from "./Top";
 
 const returnTop = () => {

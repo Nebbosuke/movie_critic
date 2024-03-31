@@ -14,12 +14,10 @@ const Main = (props: any) => {
     <main className="flex flex-col text-center items-center justify-center text-white gap-5 mb-32">
       <div className="flex flex-col items-center text-white mb-12 sm:mb-24 text-sm sm:text-3xl">
         <img src={image} alt=""></img>
-        {/* <div className="mb-3">
-          ねぼすけといいます。好きなものを何でも載せます。何が見つかるか見てみよう。
-        </div>
+
         <div className="text-gray-400 text-xs sm:text-2xl">
-          ...しかし、いったい何があなたをここに導いたのだろうか..
-        </div> */}
+          ...but, what brought you here?
+        </div>
       </div>
       {useWindowSize() === "s" && (
         <>

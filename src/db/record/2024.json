@@ -1,6 +1,6 @@
 {
   "record": {
-    "１月": [
+    "jan": [
       {
         "image": "https://image.tmdb.org/t/p/original/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
         "title": "Crimes of the Future",
@@ -9,7 +9,7 @@
         "star": "Vigo Mortensen, Léa Seydoux, Kristen Stewart",
         "src": "https://www.youtube.com/embed/QCr7zeNDv0k?si=5hlaPAK052T7263m",
         "rate": 4.5,
-        "overview": "鬼才デヴィッド・クローネンバーグ監督が強烈な近未来を描いてみせた、アート・パフォーマンス的SFホラー。人間が生物学的構造の変容を遂げた近未来で、臓器にタトゥーを施すショーを行なうアーティストの姿を描く。",
+        "overview": "人間が生物学的構造の変容を遂げた近未来で、臓器にタトゥーを施すショーを行なうアーティストの姿を描く。",
         "co": ["telefilm", "ingenious"]
       },
       {
@@ -133,7 +133,7 @@
         "co": ["fox"]
       }
     ],
-    "２月": [
+    "feb": [
       {
         "image": "https://www.themoviedb.org/t/p/w1280/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
         "title": "POOR THINGS",
@@ -234,7 +234,7 @@
         "co": ["solstice", "ingenious"]
       }
     ],
-    "３月": [
+    "mar": [
       {
         "image": "https://image.tmdb.org/t/p/original/yweHFOchVNJTJwkwrmVw3dpIAyw.jpg",
         "title": "Napoleon",
@@ -387,6 +387,17 @@
         "rate": 3.5,
         "overview": "元UFCファイターのダルトンが、フロリダキーズにある“ロードハウス”で用心棒の仕事に就く。しかし、この美しい島がただの楽園ではないことを知る。",
         "co": ["goldwyn", "silver", "amazon"]
+      },
+      {
+        "title": "American Fiction",
+        "year": "2023",
+        "director": "Cord Jefferson",
+        "star": "Jeffrey Wright, John Ortiz",
+        "src": "https://www.youtube.com/embed/i0MbLCpYJPA?si=nYIz4bsKC8fBnWEk",
+        "image": "https://image.tmdb.org/t/p/original/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+        "rate": 4,
+        "overview": "侮辱的な表現に頼る“黒人のエンタメ”から利益を得ている世間の風潮にうんざりし、不満を覚えていた小説家が、自分で奇抜な“黒人の本”を書いたことで、自身が軽蔑している偽善の核心に迫ることになる。",
+        "co": ["goldwyn", "mrc", "tstreet"]
       }
     ]
   }

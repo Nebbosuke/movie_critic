@@ -130,7 +130,7 @@ export default function ResponsiveDrawer(props: Props) {
     window !== undefined ? () => window().document.body : undefined;
 
   return (
-    <Box sx={{ display: "flex" }}>
+    <div className="sm:w-full flex">
       <CssBaseline />
       <AppBar
         position="fixed"
@@ -220,6 +220,6 @@ export default function ResponsiveDrawer(props: Props) {
         <Toolbar />
         <Movie />
       </Box>
-    </Box>
+    </div>
   );
 }

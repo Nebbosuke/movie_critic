@@ -5,6 +5,7 @@ import MenuItem from "@mui/material/MenuItem";
 import db from "../db/halloffame.json";
 import HOFPosterDialog from "./HOFPosterDialog";
 import { useEffect, useState } from "react";
+import ClearIcon from "@mui/icons-material/Clear";
 
 type movie = {
   id: number;
@@ -109,14 +110,23 @@ const SortMovie = () => {
   }, [keyword, list]);
   return (
     <div>
-      <div className="sm:flex sm:flex-row items-center gap-3">
-        <input
-          type="text"
-          value={keyword}
-          onChange={(e) => setKeyword(e.target.value)}
-          placeholder=" タイトル、監督、出演"
-          className="ml-2"
-        />
+      <div className="sm:flex sm:flex-row sm:items-center gap-3 mb-1">
+        <div className="w-full flex sm:w-1/5">
+          <input
+            type="text"
+            value={keyword}
+            onChange={(e) => setKeyword(e.target.value)}
+            placeholder=" 検索"
+            className="mx-2 w-full"
+          />
+          <button
+            onClick={() => setKeyword("")}
+            className="text-white hover:text-red-600"
+          >
+            <ClearIcon color="inherit" />
+          </button>
+        </div>
+
         <div>
           <Button
             id="basic-button"
@@ -126,7 +136,7 @@ const SortMovie = () => {
             onClick={handleClick}
             sx={{ color: "#101010" }}
           >
-            <div className="text-red-600 sm:hover:text-netflix border-2 border-red-600 px-3 mt-4 sm:mt-0 sm:hover:bg-red-600">
+            <div className="text-white sm:hover:text-netflix border-2 border-white rounded-md sm:rounded-none px-3 mt-4 sm:mt-0 sm:hover:bg-white">
               {sort}
             </div>
           </Button>
@@ -151,6 +161,9 @@ const SortMovie = () => {
 
       <div className="pt-4 mb-20">
         <div className="pb-6">
+          {list.length === 0 && (
+            <span className="text-white">一致する作品はありません。</span>
+          )}
           {list.map((movie, index) => (
             <span key={index} className="">
               <HOFPosterDialog

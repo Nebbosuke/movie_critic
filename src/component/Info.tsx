@@ -82,44 +82,6 @@ const Info: React.FC<InfoProps> = ({
               </div>
             ))}
         </div>
-        <div className="pt-6">
-          {/* <div className="flex flex-row items-center gap-1 text-lg sm:text-2xl text-yellow-100 border-b-2 border-yellow-100">
-            Trailer
-            <PlayCircleIcon />
-          </div> */}
-          {/* <div className="flex flex-col pt-3 w-full items-center">
-            {useWindowSize() === "l" && (
-              <iframe
-                width="1024"
-                height="576"
-                src={src}
-                title="YouTube video player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen
-              ></iframe>
-            )}
-            {useWindowSize() === "m" && (
-              <iframe
-                width="640"
-                height="360"
-                src={src}
-                title="YouTube video player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen
-              ></iframe>
-            )}
-            {useWindowSize() === "s" && (
-              <iframe
-                width="320"
-                height="180"
-                src={src}
-                title="YouTube video player"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen
-              ></iframe>
-            )}
-          </div> */}
-        </div>
       </div>
     </div>
   );

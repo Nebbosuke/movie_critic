@@ -110,24 +110,9 @@ const Star: React.FC<starprops> = ({ rate }) => {
           </div>
         )}
         {rate === 99 && (
-          <div className="text-sky-600 sm:text-2xl">OnGoing...</div>
+          <div className="text-white text-base sm:text-xl">onGoing...</div>
         )}
       </div>
-      {/* {useWindowSize() !== "l" && (
-        <div className="text-xs text-yellow-600">
-          {rate === 0 && <div>0/5</div>}
-          {rate === 0.5 && <div>0.5/5</div>}
-          {rate === 1 && <div>1/5</div>}
-          {rate === 1.5 && <div>1.5/5</div>}
-          {rate === 2 && <div>2/5</div>}
-          {rate === 2.5 && <div>2.5/5</div>}
-          {rate === 3 && <div>3/5</div>}
-          {rate === 3.5 && <div>3.5/5</div>}
-          {rate === 4 && <div>4/5</div>}
-          {rate === 4.5 && <div>4.5/5</div>}
-          {rate === 5 && <div>5/5</div>}
-        </div>
-      )} */}
     </div>
   );
 };

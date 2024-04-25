@@ -99,7 +99,7 @@
       },
       {
         "id": 6,
-        "title": "Spider-Man (film series)",
+        "title": "Spider-Man (Sam Raimi)",
         "year": "2002",
         "director": "Sam Raimi",
         "star": "Tobey Maguire, Kirsten Dunst, James Franco",
@@ -242,6 +242,18 @@
         "co": ["gramercy"]
       },
       {
+        "id": 12.4,
+        "title": "Drive",
+        "year": "2011",
+        "director": "Nicolas Winding Refn",
+        "star": "Carey Mulligan, Carey Mulligan",
+        "src": "https://www.youtube.com/embed/KBiOF3y1W0Y?si=ZfO5JW3tHAOx9rt_",
+        "image": "https://image.tmdb.org/t/p/original/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+        "sum": "There are no clean getaways.",
+        "overview": "自動車修理工場で働く寡黙な男性“ドライバー”は、映像業界でカースタントマンをする一方、強盗の逃走を手伝う“逃がし屋”の仕事もしている。ある日から彼は、同じアパートで暮らして幼い息子を育てる人妻アイリーンと距離を縮めるように。彼女の夫スタンダードは刑務所を出所するが、多額の借金を背負わされた彼は、強盗の仕事を強要される。“ドライバー”はアイリーンとその息子のため、強盗計画の“逃がし屋”を引き受ける。",
+        "co": ["bold"]
+      },
+      {
         "id": 13,
         "title": "Gravity",
         "year": "2013",
@@ -336,6 +348,18 @@
         "sum": "You do not talk about Fight Club.",
         "overview": "空虚な生活を送るヤング・エグゼクティブのジャックは、謎の男テイラーに導かれるまま、謎の秘密組織「ファイト・クラブ」のメンバーになる。そこは鍛え抜かれた男達が己の拳のみを武器に闘いを繰り広げる、壮絶で危険な空間だった。",
         "co": ["regency", "fox"]
+      },
+      {
+        "id": 14.2,
+        "title": "New Police Story",
+        "year": "2004",
+        "director": "Benny Chan",
+        "star": "Jackie Chan",
+        "src": "https://www.youtube.com/embed/3A5yZlMBAO8?si=C15269X4zdWe0OTO",
+        "image": "https://image.tmdb.org/t/p/original/ece4Ivxpt6GKVQaed9xQjKrUwun.jpg",
+        "sum": "Failures and suffering make a real hero.",
+        "overview": "ジョー率いる武装犯罪集団が、香港のとある銀行を襲撃。彼らは大胆不敵にも、自ら警察に通報して現場に駆けつけた警察官たちを撃退。香港警察のチャン警部は、特捜部を率いて彼らのアジトに踏み込むも、待ち構えていたジョー一味の罠にはまり、目の前で部下たちがあえなく皆殺しにされるのをなす術もなく見守ることに。事件後、すっかり絶望してどん底の人生を送っていたチャンに、ジョーから再び新たな挑戦状がたたきつけられ…。",
+        "co": []
       },
       {
         "id": 15,
@@ -446,6 +470,18 @@
         "co": ["newline"]
       },
       {
+        "id": 21.1,
+        "title": "Fast & Furious(Film Series)",
+        "year": "2001",
+        "director": "Gary Scott Thompson",
+        "star": "Vin Diesel, Michelle Rodriguez, Paul Walker",
+        "src": "https://www.youtube.com/embed/s2PiCJrdgFM?si=GTQM7w24FwmjnCb8",
+        "image": "https://image.tmdb.org/t/p/original/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+        "sum": "Ride or Die.",
+        "overview": "L.A.では深夜、若者たちが大金を賭けたストリート・カー・レースに熱狂していた。ドミニクは仲間たちから一目置かれる天才ドライバー。彼はレースを挑んでくる無謀な連中を相手に1度のレースで1万ドルを稼ぎ出す。そんなある夜、ブライアンという新顔がやって来る。彼もまたドミニクに負けない驚異のドライビングテクニックを披露、ギャラリーの注目を集める。しかし、誰も彼が警察官だとは想像もしなかった。ブライアンは実は、最近多発している高級品を積んだトラックがハイスピード状態のままジャックされるという事件を追って、潜入捜査を行っていたのだった。",
+        "co": ["universal"]
+      },
+      {
         "id": 22,
         "title": "Transformers (film series)",
         "year": "2007",
@@ -456,6 +492,18 @@
         "sum": "Their war. Our world.",
         "overview": "2003年、火星にビークル2号探知機を打ち上げるが、火星に到着後NASAとの交信が途絶えてしまう。その後、アメリカ、パリ、東京、さらにはアメリカ大統領の乗るエアフォース・ワンの機内など、世界中の至るところで同時期に奇妙な現象が起きる。人間たちは、それが地球上のあらゆるテクノロジーをスキャンする知能を持つ“金属生命体”のしわざだとは知らなかった。",
         "co": ["dreamworks", "paramount"]
+      },
+      {
+        "id": 22.1,
+        "title": "Inception",
+        "year": "2010",
+        "director": "Christopher Nolan",
+        "star": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ken Watanabe, Tom Hardy, Cillian Murphy",
+        "src": "https://www.youtube.com/embed/ZszlJQhj4aA?si=D_uVYrNaeTzKI7Az",
+        "image": "https://image.tmdb.org/t/p/original/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+        "sum": "Your mind is the scene of the crime.",
+        "overview": "他人の夢に潜入してアイデアを盗み出す企業スパイのコブは国際指名手配犯であるが、それと同時に妻モルを殺した容疑もかけられていた。そんな彼に日本人男性サイトーからある依頼が。それはこれまでのように思考を盗み出すのではなく、標的にした人物の潜在意識に、あるアイデアを移植する“インセプション”という仕事だった。コブはサイトーを含むスペシャリスト6人を集め、標的の男性ロバートの夢に潜入しようとする。",
+        "co": ["warner", "legendary", "syncopy"]
       },
       {
         "id": 23,
@@ -482,18 +530,6 @@
         "co": ["fox"]
       },
       {
-        "id": 23.2,
-        "title": "Rango",
-        "year": "2011",
-        "director": "Gore Verbinski",
-        "star": "Johnny Depp",
-        "src": "https://www.youtube.com/embed/xCCpL_8KAIQ?si=aSOf97LjGpnHA5Xn",
-        "image": "https://image.tmdb.org/t/p/original/vGujQOfGIaZx5UWxf9JdNEOxl7B.jpg",
-        "sum": "Heroes come in all different colors.",
-        "overview": "人間にペットとして飼われているが、TV番組のヒーローに憧れるカメレオン。車で飼い主と移動中に事故に遭い、入っていた水槽ごと砂漠に放り出されてしまう。初めて広い世界に出たカメレオンは途方に暮れるが、寂れた荒野の町“ダートタウン”にさまよい着く。酒場で町の住人たちにランゴと名乗ったカメレオンは、でたらめな武勇伝を語った結果、町の保安官に任命されてしまう。その頃、町は深刻な水不足に見舞われていた。",
-        "co": ["paramount"]
-      },
-      {
         "id": 23.3,
         "title": "Nightcrawler",
         "year": "2014",
@@ -504,6 +540,66 @@
         "sum": "The city shines brightest at night.",
         "overview": "人脈も学歴もないために、仕事にありつけないルイス。たまたま事故現場に出くわした彼は、そこで衝撃的な映像を撮ってはマスコミに売るナイトクローラーと呼ばれるパパラッチの姿を目にする。ルイスもビデオカメラを手に入れ、警察無線を傍受しては、事件現場、事故現場に駆け付ける。その後、過激さを誇る彼の映像は、高値でテレビ局に買い取られるように。やがて局の要望はエスカレートし、それに応えようとルイスもとんでもない行動を取る。",
         "co": ["bold", "openroad"]
+      },
+      {
+        "id": 23.4,
+        "title": "End of Watch",
+        "year": "2012",
+        "director": "David Ayer",
+        "star": "Jake Gyllenhaal, Michael Peña",
+        "src": "https://www.youtube.com/embed/uZe1pTX5O0Q?si=zwDBoOztqVKI-kGe",
+        "image": "https://image.tmdb.org/t/p/original/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg",
+        "sum": "Every moment of your life they stand watch.",
+        "overview": "ロサンゼルスの重犯罪多発地区を舞台に、パトロール警官たちの死と隣り合わせの日常と熱い友情をリアルに描いたポリスアクション。サウス・セントラル地区を担当する白人巡査テイラーとその相棒であるメキシコ系巡査ザバラ。パトロール中に思いがけずメキシコ麻薬カルテルの秘密に触れてしまった2人は、組織から命を狙われるようになり……。",
+        "co": ["openroad"]
+      },
+      {
+        "id": 23.5,
+        "title": "Seven",
+        "year": "1995",
+        "director": "David Fincher",
+        "star": "Morgan Freeman, Brad Pitt, Gwyneth Paltrow",
+        "src": "https://www.youtube.com/embed/kLyuSCcnlXg?si=zKqZTPN7GVV2zqN4",
+        "image": "https://image.tmdb.org/t/p/original/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+        "sum": "Seven deadly sins. Seven ways to die.",
+        "overview": "定年退職間近の刑事サマセットと新人のミルズは、ある殺人現場に向かう。そこには肥満の大男の凄惨な死体があった。またほどなくして、今度はビジネスマンの死体が発見される。サマセットはそれぞれの現場に残されていた文字から、犯人がキリスト教における七つの大罪(傲慢・嫉妬・憤怒・怠惰・強欲・暴食・色欲)に因んだ殺人に及んでいると分析、残るは5件となった。事件を未然に防ごうと犯人の特定を急ぐ2人。やがて一人の男が容疑者に浮上、しかし接近するも取り逃がし、さらなる犠牲者を出してしまう。そんな中、大罪に沿った犯行が残り2件となったところで、犯人を名乗る男が自首して来るのだが…。",
+        "co": ["newline"]
+      },
+      {
+        "id": 23.6,
+        "title": "Memento",
+        "year": "2000",
+        "director": "Christopher Nolan",
+        "star": "Guy Pearce, Carrie-Anne Moss",
+        "src": "https://www.youtube.com/embed/4CV41hoyS8A?si=gF-3Ne7_OKOixZ2A",
+        "image": "https://image.tmdb.org/t/p/original/3jFQqn81xdYqNquQZtsu8PJBPiB.jpg",
+        "sum": "Some memories are best forgotten.",
+        "overview": "ロサンジェルスで保険の調査員をしていたレナード。ある日、何者かが家に侵入し、妻がレイプされたうえ殺害されてしまう。その光景を目撃してしまったレナードはショックで前向性健忘となってしまう。彼は記憶を消さないためポラロイドにメモを書き、体にタトゥーを刻みながら犯人の手掛かりを追っていく……。",
+        "co": ["summit", "lionsgate"]
+      },
+      {
+        "id": 23.7,
+        "title": "The Shining",
+        "year": "1980",
+        "director": "Stanley Kubrick",
+        "star": "Jack Nicholson, Shelley Duvall",
+        "src": "https://www.youtube.com/embed/FZQvIJxG9Xs?si=_DEHHJdbEuqJZ-lq",
+        "image": "https://image.tmdb.org/t/p/original/9PtPnOJSH6pewElRlJPGqC5Gd3W.jpg",
+        "sum": "Here's Johnny!",
+        "overview": "冬の間は豪雪で閉鎖されるホテルの管理人職を得た小説家志望のジャック・トランスは、妻のウェンディーと心霊能力のある息子ダニーとともにホテルへやってくる。そのホテルでは、かつて精神に異常をきたした管理人が家族を惨殺するという事件が起きており、当初は何も気にしていなかったジャックも、次第に邪悪な意思に飲みこまれていく。",
+        "co": ["warner"]
+      },
+      {
+        "id": 23.8,
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "director": "Francis Ford Coppola",
+        "star": "Martin Sheen",
+        "src": "https://www.youtube.com/embed/9l-ViOOFH-s?si=Mx7syZZjSNI2s12j",
+        "image": "https://image.tmdb.org/t/p/original/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+        "sum": "This is the end...",
+        "overview": "ベトナム戦争が真っただ中のサイゴン。アメリカ陸軍情報部のウィラード大尉にある密命が下される。それは、カンボジアに特殊任務で赴いたままジャングル奥地に自らの王国を築き、カリスマ的な存在と化した危険人物カーツ大佐を暗殺せよ、というもの。任務を全うすべく、ウィラード大尉は4人の部下とともに哨戒艇に乗り込み川をさかのぼる。道中、極限状態に晒され続けた彼らは幾多の異常な世界を体験していく。やがて彼らはついに、ジャングルの奥深く、カーツ大佐が潜伏する“王国”へと辿り着くのだった。",
+        "co": ["unitedartists"]
       },
       {
         "id": 24,
@@ -552,6 +648,18 @@
         "sum": "Laugh, and the world laughs with you. Weep, and you weep alone.",
         "overview": "ごく平凡な人生を送っていた男オ・デスは、意識を取り戻すと、狭い監禁部屋にいた。その後15年間、理由も分からないまま監禁され続け突然解放される。いったい誰が！？何の目的で！？若い女性ミドの助けを借りて復讐を誓うデスのもとに現れた謎の男ウジン。彼はデスに5日間で監禁の理由を解き明かせと、お互いの命を賭けた「ゲーム」をもちかける。そこには想像を絶する、恐るべき策略がめぐらされていた…。",
         "co": [""]
+      },
+      {
+        "id": 24.4,
+        "title": "American Animals",
+        "year": "2018",
+        "director": "Bart Layton",
+        "star": "Evan Peters, Barry Keoghan",
+        "src": "https://www.youtube.com/embed/yAhruSwum1c?si=YdFenZyyTQFfMqv5",
+        "image": "https://image.tmdb.org/t/p/original/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg",
+        "sum": "You don't know where the line is until you cross it.",
+        "overview": "アメリカ・ケンタッキー州で退屈な大学生活を送るウォーレンとスペンサーは、自分が周りの人間と何一つ変わらない普通の大人になりかけていることを感じていた。そんなある日、2人は大学図書館に時価1200万ドル（およそ12億円相当）の超える画集「アメリカの鳥類」が保管されていることを知る。「その本が手に入れば、莫大な金で俺たちの人生は最高になる」そう確信したウォーレンとスペンサーは、大学の友人エリックとチャズに声をかける。『スナッチ』『レザボア・ドッグス』『オーシャンズ11』などの犯罪映画を参考に作戦を練ることにした4人は、特殊メイクで老人に扮し図書館に乗り込む計画を立てる。来たる決行日、老人の姿に変装した4人は図書館へと足を踏み入れる――。そこで彼らを待ち受ける運命とは？この前代未聞の強盗の結末は？",
+        "co": ["film4", "stx"]
       },
       {
         "id": 25,
@@ -615,6 +723,18 @@
         "co": ["paramount"]
       },
       {
+        "id": 26.3,
+        "title": "Gone Girl",
+        "year": "2014",
+        "director": "David Fincher",
+        "star": "Ben Affleck, Rosamund Pike",
+        "src": "https://www.youtube.com/embed/2-_-1nJf8Vg?si=Po7Mjd4AvkhhROGi",
+        "image": "https://image.tmdb.org/t/p/original/lv5xShBIDPe7m4ufdlV0IAc7Avk.jpg",
+        "sum": "You don't know what you've got 'til it's...",
+        "overview": "ニックとエイミーは誰もがうらやむ夫婦のはずだったが、結婚5周年の記念日に突然エイミーが行方をくらましてしまう。警察に嫌疑を掛けられ、日々続報を流すため取材を続けるメディアによって、ニックが話す幸せに満ちあふれた結婚生活にほころびが生じていく。うそをつき理解不能な行動を続けるニックに、次第に世間はエイミー殺害疑惑の目を向ける。",
+        "co": ["regency", "tsg", "fox"]
+      },
+      {
         "id": 27,
         "title": "Isle of Dogs",
         "year": "2018",
@@ -637,6 +757,18 @@
         "sum": "The border is just another line to cross.",
         "overview": "エリートＦＢＩ捜査官のケイトは、肥大化するメキシコの麻薬組織“ソノラ・カルテル”撲滅という極秘任務を負う特別部隊に選抜された。謎のコロンビア人アレハンドロと共に、麻薬戦争の最前線であるアメリカとメキシコの国境付近に向かうが、そこは仲間の動きも掴めず、人の命が簡単に奪われる無法地帯。そんな中、巨悪を追えば追うほど合法的手段だけで悪を制することができるかと、ケイトの倫理観が揺らいでゆく。",
         "co": ["lionsgate"]
+      },
+      {
+        "id": 27.2,
+        "title": "Fargo",
+        "year": "1996",
+        "director": "Coen Brothers",
+        "star": "Frances McDormand, William H. Macy, Steve Buscemi",
+        "src": "https://www.youtube.com/embed/huQ32MTOpA4?si=nVKuoFSMvqQ334Pr",
+        "image": "https://image.tmdb.org/t/p/original/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+        "sum": "人間はおかしくて、哀しい",
+        "overview": "ミネソタ州ミネアポリスに住むカー・ディーラーのジェリー・ランディガード（Ｗ・Ｈ・メイシー）は借金返済のために自分の妻ジーンを誘拐し、会社のオーナーでもある義父から身代金をいただこうと考えた。誘拐を実行するのは、前科者の従業員から紹介された妙な二人組、カール（Ｓ・ブシェミ）とグリムスラッド（Ｐ・ストーメア）。だがジーンを自宅から誘拐した二人は、隣町ブレイナードまで逃げたところで、停車を命じた警官と目撃者を射殺してしまう。ブレイナードの女性警察署長マージ・ガンダーソン（Ｆ・マクドーマンド）は事件を追ってミネアポリスに赴くが、その間にも狂い始めた誘拐計画は次々と犠牲者を産んでいく……。",
+        "co": ["workingtitle", "gramercy"]
       },
       {
         "id": 28,
@@ -819,6 +951,18 @@
         "co": ["universal", "monkeypaw"]
       },
       {
+        "id": 38.2,
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "director": "Stanley Kubrick",
+        "star": "Keir Dullea",
+        "src": "https://www.youtube.com/embed/oR_e9y-bka0?si=OKBvLTDonV2kQOfS",
+        "image": "https://image.tmdb.org/t/p/original/zmmYdPa8Lxx999Af9vnVP4XQ1V6.jpg",
+        "sum": "The ultimate trip.",
+        "overview": "月に人が住むようになった時代。月のティコクレーターの地中からの謎の石碑「モノリス」が発掘され、合衆国宇宙評議会のフロイド博士が調査に向かう。それから18カ月後、最新型人工知能「HAL 9000型コンピュータ」を搭載した宇宙船ディスカバリー号は、デビッド・ボウマン船長、フランク・プールら5人のクルーを乗せて木星探査に向けて航行していた。しかし、その途上でHALが探査計画に対して疑問を抱いていることを打ち明ける。ボウマンとプールはHALの不調を疑い、いざというときはHALの回路を切断することを決めるが、それを知ったHALは反乱を起こす。",
+        "co": ["goldwyn"]
+      },
+      {
         "id": 39,
         "title": "Hereditary",
         "year": "2018",
@@ -841,6 +985,30 @@
         "sum": "",
         "overview": "LAにある現金輸送専門の警備会社フォーティコ・セキュリティ社。日々、現金輸送車(キャッシュトラック)を運転するのは、特殊な訓練を受け厳しい試験をくぐり抜けた強者の警備員たち。そこに雇われた新人パトリック・ヒル、通称H。試験をぎりぎりで合格した彼は周りから特に気に留められる存在ではなかった。しかし、彼の乗ったトラックが強盗に襲われた時、驚くほど高い戦闘スキルでそれを阻止する。彼は一体何者なのか？周囲が疑心暗鬼に陥る中、全米で最も現金が動く日ブラック・フライデーに集まる1億8000万ドルの大金を狙う強奪計画が進行していた…",
         "co": ["goldwyn", "lionsgate"]
+      },
+      {
+        "id": 39.2,
+        "title": "Spider-Man:Spider-Verse",
+        "year": "2018",
+        "director": "Rodney Rothman",
+        "star": "Shameik Moore, Hailee Steinfeld",
+        "src": "https://www.youtube.com/embed/AFPLRIdn1pk?si=J29ckenYSyY1HCT0",
+        "image": "https://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "sum": "More than one wears the mask.",
+        "overview": "スパイダーマンことピーター・パーカーの突然の訃報により、ニューヨーク市民は悲しみに包まれる。13歳のマイルス・モラレスもその一人──彼こそがピーターの後を継ぐ“新生スパイダーマン”だが、その力を未だに上手くコントロール出来ずにいた。そんなある日、何者かにより時空が歪められる大事故が起こる。その天地を揺るがす激しい衝撃により歪められた時空から集められたのは、スパイダー・グウェン、スパイダーマン・ノワール、スパイダー・ハム、そしてペニー・パーカーと彼女が操るパワードスーツ。彼らは全く別の次元＝ユニバースで活躍する様々なスパイダーマン達だった。",
+        "co": ["columbia", "marvel", "sony"]
+      },
+      {
+        "id": 39.3,
+        "title": "The Killing of a Sacred Deer",
+        "year": "2017",
+        "director": "Yorgos Lanthimos",
+        "star": "Colin Farrell, Nicole Kidman, Barry Keoghan",
+        "src": "https://www.youtube.com/embed/CQFdGfwChtw?si=vnyM-UD-AZ0j2d2O",
+        "image": "https://image.tmdb.org/t/p/original/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+        "sum": "",
+        "overview": "美しい妻のアナ、そして娘のキム、息子のボブとともに郊外の豪邸で幸せな家庭生活を送る、心臓外科医のスティーヴン。その一方で彼は、自分の家族には内緒で親身に世話を焼く、マーティンというどこか謎めいた少年がいた。ある日スティーヴンは、マーティンを自分のかつての患者だといって自宅に招き、家族に紹介するが、やがてスティーヴンの子どもたちの身に異変が生じるようになり、マーティンの謎めいた正体が明らかになる。",
+        "co": ["film4", "a24"]
       },
       {
         "id": 40,
@@ -867,6 +1035,18 @@
         "co": ["warner", "dc"]
       },
       {
+        "id": 40.101,
+        "title": "The Banshees of Inisherin",
+        "year": "2022",
+        "director": "Martin McDonagh",
+        "star": "Colin Farrell, Brendan Gleeson, Barry Keoghan",
+        "src": "https://www.youtube.com/embed/7vg5URwH8EI?si=SWtmJyvG2WYW1a8H",
+        "image": "https://image.tmdb.org/t/p/original/6tgmoZtdRWerdmK1KPcdf87uZyE.jpg",
+        "sum": "Everything was fine yesterday.",
+        "overview": "本土が内戦に揺れる1923年、アイルランドの孤島・イニシェリン島。島民全員が知り合いである平和な島で、パードリック(コリン・ファレル)は長年の友人であるはずのコルム(ブレンダン・グリーソン)から突然絶縁されてしまう。理由も分からず動揺を隠せないパードリックは、妹のシボーンや隣人ドミニクの助けも借りて何とかしようとするも、コルムから「これ以上自分に関わると自分の指を切り落とす」と言い渡される。やがて島には、死を知らせると伝承される精霊が降り立つ。",
+        "co": ["film4", "tsg", "searchlight"]
+      },
+      {
         "id": 40.11,
         "title": "The Host",
         "year": "2006",
@@ -889,6 +1069,18 @@
         "sum": "What is hidden in snow, comes forth in the thaw.",
         "overview": "社会派ジャーナリストと天才的な資料収集能力を持つ女が手を組み、40年前の少女失踪事件に隠されたある財閥一族の血塗られた歴史を紐解いていく。",
         "co": ["columbia", "goldwyn", "sony"]
+      },
+      {
+        "id": 40.3,
+        "title": "Talk to Me",
+        "year": "2023",
+        "director": "Danny Philippou",
+        "star": "Sophie Wilde",
+        "src": "https://www.youtube.com/embed/aLAKJu9aJys?si=El7OurSEg5GvXWWi",
+        "image": "https://image.tmdb.org/t/p/original/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+        "sum": "You call. They'll answer.",
+        "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+        "co": ["a24"]
       },
       {
         "image": "https://image.tmdb.org/t/p/original/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
@@ -984,6 +1176,30 @@
         "sum": "",
         "overview": "コニー・アイランドの寂れた海岸。古いアパートに住む孤独な未亡人サラは、ある日、大好きなTVのクイズ番組から出演依頼の電話を受け、ダイエットを決意する。一方その一人息子ハリーと恋人マリオンのもとに、友人のタイロンが麻薬密売の話を持ちかける。一時はそれぞれに人生がうまく回り始めたかに思えたのだが……。",
         "co": ["artisan", "summit"]
+      },
+      {
+        "id": 47,
+        "title": "Touch of Evil",
+        "year": "1958",
+        "director": "Orson Welles",
+        "star": "Charlton Heston, Janet Leigh, Orson Welles",
+        "src": "https://www.youtube.com/embed/RqOyFEopYfI?si=F4ujfvLhyhM4YXlP",
+        "image": "https://image.tmdb.org/t/p/original/mhE1p0cVrclbenqciiJOeFB7qxe.jpg",
+        "sum": "The strangest vengeance ever planned!",
+        "overview": "メキシコ国境の小さな町で起こった車の爆殺事件。偶然にも現場を目撃したメキシコ政府の特別犯罪調査官ヴァルガスは事件の捜査に乗り出すが、アメリカ側の担当者であるクインラン警部はヴァルガスの介入を露骨に拒否。だが上司の命令で、クインランはやむなくヴァルガスと共同捜査を開始する……。",
+        "co": ["universal"]
+      },
+      {
+        "id": 48,
+        "title": "Pearl",
+        "year": "2022",
+        "director": "Ti West",
+        "star": "Mia Goth",
+        "src": "https://www.youtube.com/embed/L5PW5r3pEOg?si=io3zfqE3eIERcfyE",
+        "image": "https://image.tmdb.org/t/p/original/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+        "overview": "孤立した家族の農場で、厳しい母の監視のもと、病気の父の世話をする少女・パール。自分の生活と対象的である映画のような華やかな生活に憧れる彼女は、やがて野望、誘惑、抑圧のすべてを残酷な形でぶつけていく。",
+        "co": ["a24", "universal"],
+        "platform": "4"
       }
     ]
   },

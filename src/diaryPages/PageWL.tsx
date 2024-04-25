@@ -1,6 +1,6 @@
 "use client";
-import ShowPage from "./Movie";
-import Page from "./Page";
+import ShowPage from "../diary/WatchList";
+import Page from "../component/Page";
 
 interface Props {
   window?: () => Window;

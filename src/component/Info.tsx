@@ -13,6 +13,7 @@ type InfoProps = {
   sum?: string;
   overview?: string;
   co?: string[];
+  platform?: string;
 };
 
 const Info: React.FC<InfoProps> = ({
@@ -25,18 +26,67 @@ const Info: React.FC<InfoProps> = ({
   sum,
   overview,
   co,
+  platform,
 }) => {
   var jp = require("jsonpath");
   return (
     <div className="flex flex-col gap-6">
       <div className="flex flex-col gap-0.5 sm:gap-2  items-start">
-        <div className="text-sm sm:text-2xl text-gray-100">({year})</div>
-        <div className="text-xl sm:text-5xl text-gray-100 sm:pb-2 w-full text-left border-b-4 sm:border-b-8 font-bold border-red-600">
+        {year === "0" && (
+          <div className="text-sm sm:text-2xl text-gray-100">
+            ( 公開日未定 )
+          </div>
+        )}
+        {year === "1" && (
+          <div className="text-sm sm:text-2xl text-gold">( 公開中 )</div>
+        )}
+        {year === "2" && (
+          <div className="text-sm sm:text-2xl text-gray-100">( 配信待ち )</div>
+        )}
+        {year !== "0" && year !== "1" && year !== "2" && (
+          <div className="text-sm sm:text-2xl text-gray-100">( {year} )</div>
+        )}
+
+        <div className="text-xl sm:text-5xl text-gray-100 sm:pb-2 w-full text-left border-b-4 sm:border-b-8 font-bold border-red-600 border-double">
           {title}
         </div>
-        {rate && (
-          <div className="mt-1">
-            <Star rate={rate} />
+        {platform && (
+          <div className="items-center justify-center text-base sm:text-xl text-gray-100 sm:mb-2">
+            {rate && (
+              <div className="my-1">
+                <Star rate={rate} />
+              </div>
+            )}
+            {platform === "0" && (
+              <div className="text-sky-300 flex flex-row">
+                watched at<div className="text-gray-100 ml-2">Theater</div>{" "}
+              </div>
+            )}
+            {platform === "1" && (
+              <div className="text-sky-300 flex flex-row">
+                watched on <div className="text-gray-100 ml-2">NETFLIX</div>
+              </div>
+            )}
+            {platform === "2" && (
+              <div className="text-sky-300 flex flex-row">
+                watched on <div className="text-gray-100 ml-2">Prime Video</div>
+              </div>
+            )}
+            {platform === "3" && (
+              <div className="text-sky-300 flex flex-row">
+                watched on <div className="text-gray-100 ml-2">Disney+</div>
+              </div>
+            )}
+            {platform === "4" && (
+              <div className="text-sky-300 flex flex-row">
+                watched on <div className="text-gray-100 ml-2">U-NEXT</div>
+              </div>
+            )}
+            {platform === "5" && (
+              <div className="text-sky-300 flex flex-row">
+                watched on <div className="text-gray-100 ml-2">Apple TV+</div>
+              </div>
+            )}
           </div>
         )}
         {sum && (

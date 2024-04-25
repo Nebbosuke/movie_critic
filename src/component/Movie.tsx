@@ -22,7 +22,7 @@ const Main = () => {
         映画
       </div>
       <div className="flex flex-col gap-5">
-        <span className="text-white text-base sm:text-2xl mb-3">
+        <span className=" text-gray-300 text-base sm:text-2xl mb-3">
           お気に入りの映画の一覧です。全部で{record.record.length}作品です。
         </span>
       </div>

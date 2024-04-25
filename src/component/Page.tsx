@@ -15,10 +15,7 @@ import AccordionDetails from "@mui/material/AccordionDetails";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import neb from "../nebsite.png";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
-import Movie from "./Movie";
-import Tvshow from "./Tvshow";
-import Library from "./diary/2024";
-import Top from "./Top";
+import { Link } from "react-router-dom";
 
 const returnTop = () => {
   window.scrollTo({
@@ -43,11 +40,15 @@ interface Props {
   window?: () => Window;
 }
 
-export default function ResponsiveDrawer(props: Props) {
+type PageProps = {
+  props: Props;
+  lamda: JSX.Element;
+};
+
+const Page: React.FC<PageProps> = ({ props, lamda }) => {
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
   const [isClosing, setIsClosing] = React.useState(false);
-  const [page, setPage] = React.useState(0);
 
   const handleDrawerClose = () => {
     setIsClosing(true);
@@ -64,12 +65,6 @@ export default function ResponsiveDrawer(props: Props) {
     }
   };
 
-  const makePage = (num: number) => {
-    setPage(num);
-    returnTop2();
-    setMobileOpen(false);
-  };
-
   const drawer = (
     <div>
       <Toolbar />
@@ -83,24 +78,28 @@ export default function ResponsiveDrawer(props: Props) {
             sx={{ backgroundColor: "#070707" }}
           >
             <div className="text-red-600">
-              <button>My Favorites</button>
+              <button>お気に入り</button>
             </div>
           </AccordionSummary>
           <AccordionDetails sx={{ backgroundColor: "#070707" }}>
-            <div
-              className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
-              onClick={() => makePage(1)}
-            >
-              Movie
-            </div>
+            <Link to={"/movie"}>
+              <div
+                className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
+                onClick={returnTop2}
+              >
+                映画
+              </div>
+            </Link>
           </AccordionDetails>
           <AccordionDetails sx={{ backgroundColor: "#070707" }}>
-            <div
-              className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
-              onClick={() => makePage(2)}
-            >
-              TV Show
-            </div>
+            <Link to={"/tvshow"}>
+              <div
+                className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
+                onClick={returnTop2}
+              >
+                ドラマ
+              </div>
+            </Link>
           </AccordionDetails>
         </Accordion>
       </List>
@@ -112,15 +111,28 @@ export default function ResponsiveDrawer(props: Props) {
             id="panel1-header"
             sx={{ backgroundColor: "#070707" }}
           >
-            <div className="text-red-600">Movie Diary</div>
+            <div className="text-red-600">映画日記</div>
           </AccordionSummary>
+
           <AccordionDetails sx={{ backgroundColor: "#070707" }}>
-            <div
-              className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
-              onClick={() => makePage(3)}
-            >
-              2024
-            </div>
+            <Link to={"/watchlist"}>
+              <div
+                className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
+                onClick={returnTop2}
+              >
+                アップカミング
+              </div>
+            </Link>
+          </AccordionDetails>
+          <AccordionDetails sx={{ backgroundColor: "#070707" }}>
+            <Link to={"/2024"}>
+              <div
+                className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
+                onClick={returnTop2}
+              >
+                2024
+              </div>
+            </Link>
           </AccordionDetails>
         </Accordion>
       </List>
@@ -133,7 +145,7 @@ export default function ResponsiveDrawer(props: Props) {
     window !== undefined ? () => window().document.body : undefined;
 
   return (
-    <Box sx={{ display: "flex" }}>
+    <div className="sm:w-full flex">
       <CssBaseline />
       <AppBar
         position="fixed"
@@ -154,10 +166,12 @@ export default function ResponsiveDrawer(props: Props) {
             <MenuIcon />
           </IconButton>
           <div className="flex flex-row w-full">
-            <div className="text-red-600 text-4xl font-bold">
-              <button onClick={() => makePage(0)}>
-                <img src={neb} alt="" width={125}></img>
-              </button>
+            <div className="text-red-600 text-4xl font-bold min-w-max">
+              <Link to={"/"}>
+                <button onClick={returnTop2}>
+                  <img src={neb} alt="" width={125}></img>
+                </button>
+              </Link>
             </div>
             <div className="flex w-full items-center justify-end text-gray-400">
               <button onClick={returnTop}>
@@ -219,17 +233,9 @@ export default function ResponsiveDrawer(props: Props) {
         }}
       >
         <Toolbar />
-        {page === 0 && (
-          <Top
-            movie={() => makePage(1)}
-            tv={() => makePage(2)}
-            d24={() => makePage(3)}
-          />
-        )}
-        {page === 1 && <Movie />}
-        {page === 2 && <Tvshow />}
-        {page === 3 && <Library />}
+        {lamda}
       </Box>
-    </Box>
+    </div>
   );
-}
+};
+export default Page;

@@ -25,10 +25,9 @@ type ShowDialogProps = {
   director: string;
   star: string;
   src: string;
-  rate: number;
+  sum?: string;
   overview?: string;
   co?: string[];
-  platform?: string;
 };
 
 const ShowDialog: React.FC<ShowDialogProps> = ({
@@ -38,10 +37,9 @@ const ShowDialog: React.FC<ShowDialogProps> = ({
   director,
   star,
   src,
-  rate,
+  sum,
   overview,
   co,
-  platform,
 }) => {
   const [open, setOpen] = React.useState(false);
 
@@ -109,10 +107,9 @@ const ShowDialog: React.FC<ShowDialogProps> = ({
             director={director}
             star={star}
             src={src}
-            rate={rate}
+            sum={sum}
             overview={overview}
             co={co}
-            platform={platform}
           />
         </div>
       </Dialog>

@@ -19,6 +19,9 @@ module.exports = {
         side: {
           DEFAULT: "#070707",
         },
+        info: {
+          DEFAULT: "#252525",
+        },
       },
       backgroundImage: {
         top: "url('/src/top.png')",

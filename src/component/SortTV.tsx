@@ -6,6 +6,7 @@ import db from "../db/halloffame.json";
 import HOFPosterDialog from "./HOFPosterDialog";
 import { useEffect, useState } from "react";
 import ClearIcon from "@mui/icons-material/Clear";
+import SortIcon from "@mui/icons-material/Sort";
 
 type movie = {
   id: number;
@@ -28,7 +29,7 @@ record.record.sort((a, b) =>
 const SortMovie = () => {
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
   const [list, setList] = useState(record.record);
-  const [sort, setSort] = useState("並び替え");
+  const [sort, setSort] = useState<React.ReactNode>(<SortIcon />);
   const [keyword, setKeyword] = useState("");
   const open = Boolean(anchorEl);
   const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
@@ -111,7 +112,7 @@ const SortMovie = () => {
   return (
     <div>
       <div className="flex flex-col sm:flex-row sm:items-center gap-3 mb-1">
-        <div className="w-full flex sm:w-1/5">
+        <div className="w-full flex sm:w-2/5">
           <input
             type="text"
             value={keyword}
@@ -121,24 +122,23 @@ const SortMovie = () => {
           />
           <button
             onClick={() => setKeyword("")}
-            className="text-white hover:text-red-600"
+            className="text-white sm:hover:text-red-600"
           >
-            <ClearIcon color="inherit" />
+            <div className="rounded-full bg-gray-600">
+              <ClearIcon color="inherit" />
+            </div>
           </button>
         </div>
         <div>
-          <Button
+          <button
             id="basic-button"
             aria-controls={open ? "basic-menu" : undefined}
             aria-haspopup="true"
             aria-expanded={open ? "true" : undefined}
             onClick={handleClick}
-            sx={{ color: "#101010" }}
           >
-            <div className="text-white sm:hover:text-netflix border-2 border-white rounded-md sm:rounded-none px-3 mt-4 sm:mt-0 sm:hover:bg-white">
-              {sort}
-            </div>
-          </Button>
+            <div className="text-white sm:hover:text-red-600 ml-1">{sort}</div>
+          </button>
           <Menu
             id="basic-menu"
             anchorEl={anchorEl}
@@ -158,7 +158,7 @@ const SortMovie = () => {
         </div>
       </div>
 
-      <div className="pt-4 mb-20">
+      <div className="sm:mt-10 mb-20">
         <div className="pb-6">
           {list.length === 0 && (
             <span className="text-white">一致する作品はありません。</span>

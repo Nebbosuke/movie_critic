@@ -28,12 +28,12 @@ const Trailer: React.FC<InfoProps> = ({ src }) => {
   };
   return (
     <div className="flex flex-col">
-      {/* <div className="flex flex-row items-center gap-1 text-lg sm:text-2xl text-red-600">
+      {/* <div className="flex flex-row items-center gap-1 text-lg sm:text-2xl text-black">
         トレーラー
       </div> */}
       <div className="flex flex-col pt-3 w-full items-center">
         {useWindowSize() === "l" && (
-          <div className="border-8 border-red-600 rounded-xl">
+          <div className="border-8 border-black rounded-xl">
             <iframe
               width="1024"
               height="576"
@@ -45,7 +45,7 @@ const Trailer: React.FC<InfoProps> = ({ src }) => {
           </div>
         )}
         {useWindowSize() === "m" && (
-          <div className="border-8 border-red-600 rounded-xl">
+          <div className="border-8 border-black rounded-xl">
             <iframe
               width="640"
               height="360"
@@ -57,7 +57,7 @@ const Trailer: React.FC<InfoProps> = ({ src }) => {
           </div>
         )}
         {useWindowSize() === "s" && (
-          <div className="border-4 border-red-600 rounded-md">
+          <div className="border-4 border-black rounded-md">
             <iframe
               width="320"
               height="180"

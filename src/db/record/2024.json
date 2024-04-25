@@ -5,12 +5,13 @@
         "image": "https://image.tmdb.org/t/p/original/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
         "title": "Crimes of the Future",
         "year": "2022",
-        "director": "David Clonenberg",
+        "director": "David Cronenberg",
         "star": "Vigo Mortensen, Léa Seydoux, Kristen Stewart",
         "src": "https://www.youtube.com/embed/QCr7zeNDv0k?si=5hlaPAK052T7263m",
-        "rate": 4.5,
+        "rate": 4,
         "overview": "人間が生物学的構造の変容を遂げた近未来で、臓器にタトゥーを施すショーを行なうアーティストの姿を描く。",
-        "co": ["telefilm", "ingenious"]
+        "co": ["telefilm", "ingenious"],
+        "platform": "4"
       },
       {
         "image": "https://www.themoviedb.org/t/p/w1280/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg",
@@ -20,7 +21,8 @@
         "star": "Gary Oldman",
         "src": "https://www.youtube.com/embed/O9ZJChzPn0U?si=f7UEcVBUSs_mcYZF",
         "rate": 3.5,
-        "overview": "ＭＩ5（英国情報局保安部）の落ちこぼれエージェントたちと、彼らを率いる傲慢で悪名高いチームリーダーのジャクソン･ラム。スパイの世界の策略をかいくぐり、危険分子から英国を守る彼らの姿を、ダークなユーモアを効かせて軽快に描くドラマ。"
+        "overview": "ＭＩ5（英国情報局保安部）の落ちこぼれエージェントたちと、彼らを率いる傲慢で悪名高いチームリーダーのジャクソン･ラム。スパイの世界の策略をかいくぐり、危険分子から英国を守る彼らの姿を、ダークなユーモアを効かせて軽快に描くドラマ。",
+        "platform": "5"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/lr11mCT85T1JanlgjMuhs9nMht4.jpg",
@@ -31,7 +33,8 @@
         "src": "https://www.youtube.com/embed/3eGP6im8AZA?si=3ymw3hnhzs-e-e6j",
         "rate": 3,
         "overview": "不気味なマスク男にさらわれてしまった少年と、その行方を探す中で不思議な予知夢を見る妹が、それぞれ対峙する恐怖を描く。ジョー・ヒルの短編小説を、スコット・デリクソン監督が映画化したサイコ・スリラー。",
-        "co": ["universal", "blumhouse"]
+        "co": ["universal", "blumhouse"],
+        "platform": "4"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/pi0kmFJAEcHpTjqITHPFUic9omf.jpg",
@@ -42,7 +45,8 @@
         "src": "https://www.youtube.com/embed/AGvOCZ42Ric?si=nZzzr4TtekdqA3nF",
         "rate": 4,
         "overview": "1920年代、オクラホマ州オーセージ郡。先住民であるオーセージ族は、石油の発掘によって一夜にして莫大な富を得た。その財産に目をつけた白人たちは彼らを巧みに操り、脅し、ついには殺人にまで手を染める。",
-        "co": ["apple", "paramount"]
+        "co": ["apple", "paramount"],
+        "platform": "5"
       },
       {
         "image": "https://www.themoviedb.org/t/p/w1280/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
@@ -53,7 +57,8 @@
         "src": "https://www.youtube.com/embed/JLHsM4bpfxY?si=D_lKY6CFMtoilNU9",
         "rate": 3.5,
         "overview": "ゴジラのサンフランシスコ襲来を生き延びたケイトだったが、その後、驚くべき秘密に触れ、更なる衝撃を受ける。迫り来る危機に怯えながら、自身の家族の真実、そしてモナークという秘密に満ちた組織の実態を知ろうと、世界を駆けるケイトの旅が始まった。",
-        "co": ["apple"]
+        "co": ["apple"],
+        "platform": "5"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/r3M676oPdEBwjpjHAUAoEWobcBM.jpg",
@@ -64,7 +69,8 @@
         "src": "https://www.youtube.com/embed/tC-rRhQcnlI?si=BeY7JGWCrKXYCudh",
         "rate": 3.5,
         "overview": "退役した元軍の警察官ジャック・リーチャーは身に覚えのない殺人容疑で逮捕される。そして自分が汚職警官や怪しいビジネスマン、策謀をめぐらせる政治家などがひしめきあい、命も落としかねない陰謀のまっただ中にいることを知る。ジョージア州マーグレイヴで起きていることを解明するしかない彼にとって、頼れるのは自分自身の頭脳だけ。",
-        "co": ["paramount", "skydance", "amazon"]
+        "co": ["paramount", "skydance", "amazon"],
+        "platform": "2"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
@@ -75,7 +81,8 @@
         "src": "https://www.youtube.com/embed/l09T87hEstI?si=TA3pJlFc2UfqZpD0",
         "rate": 3.5,
         "overview": "アフガニスタンでの任務に就いていた軍人のマークスは、妻が列車事故で亡くなったという報せを受け、悲しみに暮れる娘の元に帰国する。そんなマークスのもとに数学者のオットーが訪ねてくる。妻と同じ列車に乗っていたというオットーは、事故は「ライダーズ・オブ・ジャスティス」という犯罪組織が、殺人事件の重要証人を暗殺するために計画された事件だとマークスに告げる。怒りに震えるマークスは妻の無念を晴らすため、オットーらの協力を得て復讐に身を投じる。",
-        "co": ["nordisk"]
+        "co": ["nordisk"],
+        "platform": "4"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
@@ -86,7 +93,8 @@
         "src": "https://www.youtube.com/embed/jo11SqLmuGc?si=fjnh91_3OH4uOKsA",
         "rate": 4,
         "overview": "無職で気ままに暮らす“デュード”こと、ジャフ・リボウスキ。彼の家に突然、２人のチンピラがやって来る。女房の借金を返せと怒鳴るチンピラに、全く身に覚えがなく呆然とするリボウスキ。その後彼は、同姓同名の大金持ちと間違えられたと気づく。",
-        "co": ["workingtitle", "gramercy"]
+        "co": ["workingtitle", "gramercy"],
+        "platform": "4"
       },
       {
         "image": "https://www.themoviedb.org/t/p/w1280/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
@@ -97,7 +105,8 @@
         "src": "https://www.youtube.com/embed/Iu6v1XB-BiU?si=j0owGEEAieZx1AsX",
         "rate": 4.5,
         "overview": "仏のSF作家ステファン・ウルの長編小説を、マンガ家ローラン・トポールの絵でアニメ化した異色のファンタジー作品。未開の惑星イガムを舞台に人間型のオム族と、彼らを奴隷のように扱うドラーグ族の戦いと協調を描く。SF的イマジネーションの凄さと特異なアニメーション映像には目を見張るものがある。",
-        "co": []
+        "co": [],
+        "platform": "4"
       },
       {
         "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg",
@@ -108,7 +117,8 @@
         "src": "https://www.youtube.com/embed/pDak4qLyF4Q?si=gOUKypa5Lu3LUx8q",
         "rate": 3.5,
         "overview": "1972年、ウルグアイ空軍機がアンデス山脈の奥深く、人里離れた山地に墜落。過酷なサバイバルに直面した生存者たちは、互いを鼓舞し合い、極限の試練を生き延びた。",
-        "co": ["netflix"]
+        "co": ["netflix"],
+        "platform": "1"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/nCPRdM23hLnwADuDhZE2DPIKUc7.jpg",
@@ -119,7 +129,8 @@
         "src": "https://www.youtube.com/embed/1-xZrghaYAw?si=H0u_ybL-MtnO_o87",
         "rate": 5,
         "overview": "世界が注目するジュリア・デュクルノー監督による、カンヌ映画祭パルムドールに輝く衝撃作。幼い頃の交通事故で頭蓋骨にチタンプレートを埋め込まれた女性がたどる、狂気と愛に満ちた数奇な運命を描いていく。",
-        "co": ["arte", "voo"]
+        "co": ["arte", "voo"],
+        "platform": "4"
       },
       {
         "image": "https://www.themoviedb.org/t/p/w1280/hazd5nnOvjYEYYM6cSXFM3avTht.jpg",
@@ -130,7 +141,8 @@
         "src": "https://www.youtube.com/embed/NMs2yuXIfno?si=Drlws1eZblVrjz0h",
         "rate": 3.5,
         "overview": "1941年のニューヨーク。社会派劇作家のバートン・フィンクは、ハリウッドに招かれて映画のシナリオを依頼された。早速ホテルにチェック・インしたが、そこは薄暗く、不気味な雰囲気が漂っていた。とりあえず部屋に入った彼だったが……。蚊の飛ぶ音、暑さ、息苦しさ－－それらの生理的な感覚を、主人公の悪夢になぞり、独自の映像センスで描いたコーエン兄弟の傑作。",
-        "co": ["fox"]
+        "co": ["fox"],
+        "platform": "4"
       }
     ],
     "feb": [
@@ -143,7 +155,8 @@
         "src": "https://www.youtube.com/embed/ZFu7ZH4y6J4?si=vPBG-yCrblw4bTpk",
         "rate": 4.5,
         "overview": "天才外科医によってよみがえった若き女性ベラ・バクスターの驚くべき進化を描く。未知なる世界を知るため、ベラは大陸横断の冒険に出る。時代の偏見から解き放たれ、ベラは平等と自由のために立ち上がる。",
-        "co": ["film4", "tsg", "searchlight"]
+        "co": ["film4", "tsg", "searchlight"],
+        "platform": "0"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/yqsNIspvw4lDxgWmIjPekBoVNWu.jpg",
@@ -154,7 +167,8 @@
         "src": "https://www.youtube.com/embed/I4ISTHi45_s?si=Zo1WjuYzyrU_qoDw",
         "rate": 5,
         "overview": "1950年のミズーリ州カンザスシティを舞台とし、ギャング間の抗争を描く。当地のギャング団の間には息子を交換することで抗争を避ける習慣があるが、それにもかかわらずユダヤ系ギャングとアイルランド系ギャングは壊滅している。イタリア系ギャングのファッダ家と黒人ギャング団のキャノン有限会社は息子のゼロとサッチェルを交換する。",
-        "co": ["mike"]
+        "co": ["mike"],
+        "platform": "2"
       },
       {
         "image": "https://www.themoviedb.org/t/p/w1280/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
@@ -165,7 +179,8 @@
         "src": "https://www.youtube.com/embed/uwmDH12MAA4?si=VmstD-_heU6uVJ1l",
         "rate": 1.5,
         "overview": "キャプテン・マーベルの前に突如、“過去の因縁”から復讐を誓う謎の敵が現れる。その狙いは、地球をはじめ彼女が守ってきたすべてを滅ぼすことだった…。最凶最悪の敵サノスを圧倒する力でも救えない危機が迫るなか、力を覚醒させた敏腕エージェント〈モニカ・ランボー〉、アベンジャーズオタクの高校生ヒーロー〈ミズ・マーベル〉と、3人が入れ替わる謎の現象が発生する。これまで一人で戦ってきた彼女だが、この“運命的なつながり”からチームを結成し、新たな“強さ”に目覚めていく――。",
-        "co": ["marvel"]
+        "co": ["marvel"],
+        "platform": "3"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/kdkk7OBnIL1peW2zwcAAp6O54Jo.jpg",
@@ -176,7 +191,8 @@
         "src": "https://www.youtube.com/embed/UBUfCL_tvro?si=RwkBDtGZKuCZjs5f",
         "rate": 3.5,
         "overview": "アンディはロンドンでも人気の高級レストランのオーナー・シェフだが、この数ヶ月は絶不調だった。妻子と別居して家を出たがアパートを借りる算段もろくに出来ずに、店の事務所で寝起きし、寝不足で頭が回らず愛する息子との面会もすっぽかした。一年で一番忙しいクリスマス前の金曜日に、遅刻して出勤すると、仕込み中の店には保健所の査察が入っていた。ずっと維持して来た最高評価の5点から、3点に下げられてショックを受けるスタッフたち。原因の大半は、アンディが義務の書類の記入を怠ったためだった。",
-        "co": ["vertigo"]
+        "co": ["vertigo"],
+        "platform": "4"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
@@ -187,7 +203,8 @@
         "src": "https://www.youtube.com/embed/0VH9WCFV6XQ?si=qa8ZTctHmilNXBTm",
         "rate": 2.5,
         "overview": "弟が謎の失踪を遂げ、事件の悲しい記憶から立ち直れずにいる青年マイク。妹アビーの親代わりとして生計を立てるため必死に仕事を探す彼は、廃墟となったレストラン「フレディ・ファズベアーズ・ピザ」の夜間警備員として働くことに。「モニターを監視するだけ」という簡単な仕事のはずだったが、妹を連れて深夜勤務に就いたマイクは、かつてそのレストランの人気者だった機械仕掛けのマスコットたちが眼を怪しく光らせながら自ら動き出す姿を目撃。マスコットたちはかわいらしい姿から一転して凶暴化し、マイクや廃墟の侵入者を襲い始める。",
-        "co": ["blumhouse"]
+        "co": ["blumhouse"],
+        "platform": "0"
       },
       {
         "image": "https://www.themoviedb.org/t/p/w1280/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
@@ -198,7 +215,8 @@
         "src": "https://www.youtube.com/embed/d2k4QAItiSA?si=4EdXMwG1i-ZNDgZk",
         "rate": 3.5,
         "overview": "1944年、ソ連に侵攻されナチスドイツに国土を焼き尽くされたフィンランド。老兵アアタミ・コルピは掘り当てた金塊を隠し持ち、愛犬ウッコとともに凍てつく荒野を旅していた。やがて彼はブルーノ・ヘルドルフ中尉率いるナチスの戦車隊に遭遇し金塊と命を狙われるが、実はアアタミはかつて精鋭部隊の一員として名を馳せた伝説の兵士だった。アアタミは使い古したツルハシ1本と不屈の精神を武器に、次々と敵を血祭りにあげていく。",
-        "co": ["nordisk", "lionsgate", "sony"]
+        "co": ["nordisk", "lionsgate", "sony"],
+        "platform": "4"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
@@ -209,7 +227,8 @@
         "src": "https://www.youtube.com/embed/8ZdK87tfv6k?si=GnrYhrFc7LOP2o7w",
         "rate": 5,
         "overview": "2019年のミネソタ州とノースダコタ州。 ドロシー・ドット・ライオンが予期せぬ出来事の連続で警察との間でモメた後、この一見典型的な中西部の主婦は、捨て去ったと思っていた人生に突然舞い戻る。",
-        "co": ["mike"]
+        "co": ["mike"],
+        "platform": "2"
       },
       {
         "image": "https://www.themoviedb.org/t/p/w1280/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
@@ -220,7 +239,8 @@
         "src": "https://www.youtube.com/embed/02PPMPArNEQ?si=Xa7DMgUhqHLejtE5",
         "rate": 4,
         "overview": "2018年、アフガニスタン紛争に派遣されていたアメリカ陸軍のジョン・キンリー軍曹は、最後の任務で部隊が壊滅するが、キンリーは同行した現地通訳のアーメッドに助けられる。アメリカに帰還したキンリーはアーメッドが自身を助けたせいでターリバーンに狙われている事を知り、自らアフガニスタンに戻り彼を救出しようと奔走する。",
-        "co": ["stx", "goldwyn"]
+        "co": ["stx", "goldwyn"],
+        "platform": "0"
       },
       {
         "image": "https://image.tmdb.org/t/p/original/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",
@@ -231,7 +251,8 @@
         "src": "https://www.youtube.com/embed/CDFoQYFBDkE?si=mJs2HZas3DIMMOUp",
         "rate": 3,
         "overview": "刑事のダニー・ロークは、最愛の娘ミニーを失った悲しみから立ち直ることができずにいる。そんなある日、強盗計画が立てられていると匿名の通報を受けたロークは相棒と銀行へ。そこで見かけた怪しげな男が娘の行方に関与していることを確信したロークは、2人の警官と共に男を追って屋上に向かう。しかし突如、警官たちは暗示をかけられたように互いを撃ち殺し、肝心の男は屋上から飛び降り姿を消してしまう。",
-        "co": ["solstice", "ingenious"]
+        "co": ["solstice", "ingenious"],
+        "platform": "4"
       }
     ],
     "mar": [
@@ -244,7 +265,8 @@
         "src": "https://www.youtube.com/embed/OAZWXUkrjPc?si=eH1jcxzGLO09dtVp",
         "rate": 4,
         "overview": "歴史に名を刻むフランスの皇帝ナポレオン・ボナパルトは、いかにして皇帝の座へ上りつめたのか―。彼が唯一愛した妻ジョゼフィーヌとの波乱万丈な愛憎関係の中で、大いなる野望と驚くべき戦略思考をもって、歴史に残る数々の戦争を仕掛けた、類まれなる＜軍人ナポレオンの真の姿＞を壮大なスケールで描いた超大作！",
-        "co": ["apple", "scottfree", "columbia", "sony"]
+        "co": ["apple", "scottfree", "columbia", "sony"],
+        "platform": "5"
       },
       {
         "title": "O Brother, Where Art Thou?",
@@ -255,7 +277,8 @@
         "image": "https://image.tmdb.org/t/p/original/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
         "rate": 4.5,
         "overview": "大恐慌に喘ぐ1930年代のアメリカ南部。ミシシッピ州で服役する詐欺師のエヴェレットは、共に鎖でつながれた囚人ピートとデルマーと共に脱獄を図る。 三人が目指すのは、昔エヴェレットが埋めたという120万ドルの大金。だが、その隠し場所は人造湖建設の予定地であり、あと4日で水没する運命にあった。目標に向かって邁進する三人は、旅の途中で様々な人物と出会う。",
-        "co": ["touchstone", "universal"]
+        "co": ["touchstone", "universal"],
+        "platform": "4"
       },
       {
         "title": "The Tragedy of Macbeth",
@@ -266,7 +289,8 @@
         "image": "https://image.tmdb.org/t/p/original/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
         "rate": 3.5,
         "overview": "グラミスの柵王マクベスは、3人の魔女から「いつかスコットランドの王になる」という予言を受ける。野望に燃えるマクベスは、妻によって行動に移され、王を殺害し、王座を手に入れる。",
-        "co": ["a24", "apple"]
+        "co": ["a24", "apple"],
+        "platform": "5"
       },
       {
         "title": "The Ladykillers ",
@@ -275,30 +299,10 @@
         "star": "Tom Hanks, Irma P. Hall, J.K. Simmons, Tzi Ma",
         "src": "https://www.youtube.com/embed/5AE-_Rt_s0s?si=XnQy2gwBhVso-hla",
         "image": "https://image.tmdb.org/t/p/original/jEaEghD0JxNQZ7ei1PIa7OImQXX.jpg",
-        "rate": 4,
+        "rate": 4.5,
         "overview": "敬虔なクリスチャンであるマンソン夫人はミシシッピ州に住む未亡人。彼女の元に「貸し部屋」の張り紙を見つけた、非の打ち所のない態度の紳士が現れる。彼はゴースウェイト・ヒギンソン・ドア博士と名乗り、音楽仲間とともにルネサンス後期の音楽の練習をしたいと言って寝室と地下室を借りる。",
-        "co": ["touchstone", "mike"]
-      },
-      {
-        "title": "The Ones Who Live",
-        "year": "2024",
-        "director": "Andrew Lincoln",
-        "star": "Andrew Lincoln, Danai Gurira",
-        "src": "https://www.youtube.com/embed/CSiSA-D207o?si=v-WHUWFiQ-vWhNNb",
-        "image": "https://image.tmdb.org/t/p/original/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
-        "rate": 99,
-        "overview": "橋の爆破から５年。リックは市民共同体軍、CRM（シビック・リパブリック・ミリタリー）に救助され、市民権の無い受託人として市民共同体の維持に関わる仕事に従事し、ミショーンの元へ帰るため何度も脱走を試みるが逃げ出すことができないでいた。"
-      },
-      {
-        "title": "Constellation",
-        "year": "2024",
-        "director": "Peter Harness",
-        "star": "Noomi Rapace, Jonathan Banks, James D'Arcy",
-        "src": "https://www.youtube.com/embed/4dAaLbsQSzI?si=_8jWShyMcyjwiV9j",
-        "image": "https://image.tmdb.org/t/p/original/21ICs3fxlxGslbzS4moCHk9HNo6.jpg",
-        "rate": 99,
-        "overview": "国際宇宙ステーションで死亡事故が起こり、独り取り残された宇宙飛行士が奇跡の生還を果たす。しかし地球に戻った彼女が見た世界は、重要な点がいくつか変わってしまっていた。愛する幼い娘までも。",
-        "co": ["apple"]
+        "co": ["touchstone", "mike"],
+        "platform": "3"
       },
       {
         "title": "Dune: Part Two",
@@ -309,7 +313,8 @@
         "image": "https://image.tmdb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
         "rate": 4.5,
         "overview": "その惑星を制する者が全宇宙を制すると言われる砂の惑星デューンで繰り広げられたアトレイデス家とハルコンネン家の戦い。ハルコンネン家の陰謀により一族を滅ぼされたアトレイデス家の後継者ポールは、ついに反撃の狼煙を上げる。砂漠の民フレメンのチャニと心を通わせながら、救世主として民を率いていくポールだったが、宿敵ハルコンネン家の次期男爵フェイド＝ラウサがデューンの新たな支配者として送り込まれてくる。",
-        "co": ["legendary", "warner"]
+        "co": ["legendary", "warner"],
+        "platform": "0"
       },
       {
         "title": "Enemy",
@@ -320,7 +325,8 @@
         "image": "https://image.tmdb.org/t/p/original/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
         "rate": 2.5,
         "overview": "何も刺激のない日々に空虚なものを感じている、大学で歴史を教えているアダム・ベル。ある日、何げなく映画のDVDを観ていた彼は、劇中に出てくる俳優が自分自身とうり二つであることに驚く。彼がアンソニー・クレアという名だと知ったアダムは、さまざまな手を尽くして彼との面会を果たす。顔の作りのみならず、ひげの生やし方や胸にある傷痕までもが同じであることに戦慄する。",
-        "co": ["eone", "telefilm", "a24"]
+        "co": ["eone", "telefilm", "a24"],
+        "platform": "4"
       },
       {
         "title": "Une belle course",
@@ -331,7 +337,8 @@
         "image": "https://image.tmdb.org/t/p/original/bmS09aAOFfUZ7QdzchHbBRITqac.jpg",
         "rate": 4,
         "overview": "パリでタクシー運転手をしているシャルルは、金もなければ休暇もなく、免許停止寸前という人生がけっぷちの状態にあった。ある日彼に、92歳のマドレーヌをパリの反対側まで送り届けるという仕事が舞い込んでくる。彼女の頼みでパリの街のあちこちに立ち寄るうちに、マドレーヌの知られざる過去が明らかになっていく。",
-        "co": ["pathe", "tf1"]
+        "co": ["pathe", "tf1"],
+        "platform": "4"
       },
       {
         "title": "A Man Called Otto",
@@ -342,7 +349,8 @@
         "image": "https://image.tmdb.org/t/p/original/1Wq9BJXw77p4IL7LAsihgWkqQJz.jpg",
         "rate": 4,
         "overview": "オットーは町内イチの嫌われ者でいつもご機嫌斜め。曲がったことが大っ嫌いで、近所を毎日パトロール、ルールを守らない人には説教三昧、挨拶をされても仏頂面、野良猫には八つ当たり、なんとも面倒で近寄りがたい…。それが《オットーという男》。",
-        "co": ["sony", "columbia", "playtone", "tsg", "stx"]
+        "co": ["sony", "columbia", "playtone", "tsg", "stx"],
+        "platform": "4"
       },
       {
         "title": "Thanksgiving",
@@ -353,7 +361,8 @@
         "image": "https://image.tmdb.org/t/p/original/w3Bf1Fjn4NYrHW1NMziDWoW6HSL.jpg",
         "rate": 3.5,
         "overview": "「感謝祭（＝サンクスギビング）」発祥の地とされるアメリカ・マサチューセッツの田舎町。感謝祭とは、家族や愛する人々と共に日々の収穫や恩恵に感謝し祝福する、一年でもっとも盛大な祝祭。ハッピーなお祭りムードを楽しんでいた人々だったが、突如として現れた清教徒＜ピルグリム・ファーザーズ＞の指導者ジョン・カーヴァーのお面に身を隠した連続殺人鬼によって、町は恐怖のどん底へと突き落される。残虐なやり口で殺人鬼の犠牲になった人々は何者かによって謎のインスタグラムの投稿にタグ付けされていた。感謝祭のおしゃれな食卓が映る投稿には、意味深に配された住民たちの名札が！　なぜ彼らは狙われるのか──。饗宴が狂宴と化し、一夜が永遠のトラウマとなる史上最悪の感謝祭＜サンクスギビング＞が始まる！",
-        "co": ["sony", "spyglass", "tristar"]
+        "co": ["sony", "spyglass", "tristar"],
+        "platform": "4"
       },
       {
         "title": "Requiem for a Dream",
@@ -364,18 +373,32 @@
         "image": "https://image.tmdb.org/t/p/original/a1BrBoErndBAYEZZEJaotIJ6CE1.jpg",
         "rate": 4.5,
         "overview": "コニー・アイランドの寂れた海岸。古いアパートに住む孤独な未亡人サラは、ある日、大好きなTVのクイズ番組から出演依頼の電話を受け、ダイエットを決意する。一方その一人息子ハリーと恋人マリオンのもとに、友人のタイロンが麻薬密売の話を持ちかける。一時はそれぞれに人生がうまく回り始めたかに思えたのだが……。",
-        "co": ["artisan", "summit"]
+        "co": ["artisan", "summit"],
+        "platform": "4"
       },
       {
-        "title": "3 Body Problem",
+        "title": "3 Body Problem(S1)",
         "year": "2024",
         "director": "David Benioff",
         "star": "Jovan Adepo, John Bradley, Eiza González, Jess Hong, Alex Sharp",
         "src": "https://www.youtube.com/embed/5lj99Uz1d50?si=SCF3-qATmdr7R0Sx",
         "image": "https://image.tmdb.org/t/p/original/sphnjjiYb50SbWMToW7fyGigH1n.jpg",
-        "rate": 99,
+        "rate": 3.5,
         "overview": "才能豊かな5人の友が、天地を揺るがす恐るべき事実を発見。時空をまたぐ壮大なスケールで、科学の法則が解明され、人類存亡の危機が明らかになっていく。",
-        "co": ["netflix"]
+        "co": ["netflix"],
+        "platform": "1"
+      },
+      {
+        "title": "Constellation(S1)",
+        "year": "2024",
+        "director": "Peter Harness",
+        "star": "Noomi Rapace, Jonathan Banks, James D'Arcy",
+        "src": "https://www.youtube.com/embed/4dAaLbsQSzI?si=_8jWShyMcyjwiV9j",
+        "image": "https://image.tmdb.org/t/p/original/21ICs3fxlxGslbzS4moCHk9HNo6.jpg",
+        "rate": 3,
+        "overview": "国際宇宙ステーションで死亡事故が起こり、独り取り残された宇宙飛行士が奇跡の生還を果たす。しかし地球に戻った彼女が見た世界は、重要な点がいくつか変わってしまっていた。愛する幼い娘までも。",
+        "co": ["apple"],
+        "platform": "5"
       },
       {
         "title": "Road House",
@@ -386,7 +409,8 @@
         "image": "https://image.tmdb.org/t/p/original/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg",
         "rate": 3.5,
         "overview": "元UFCファイターのダルトンが、フロリダキーズにある“ロードハウス”で用心棒の仕事に就く。しかし、この美しい島がただの楽園ではないことを知る。",
-        "co": ["goldwyn", "silver", "amazon"]
+        "co": ["goldwyn", "silver", "amazon"],
+        "platform": "2"
       },
       {
         "title": "American Fiction",
@@ -397,8 +421,210 @@
         "image": "https://image.tmdb.org/t/p/original/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
         "rate": 4,
         "overview": "侮辱的な表現に頼る“黒人のエンタメ”から利益を得ている世間の風潮にうんざりし、不満を覚えていた小説家が、自分で奇抜な“黒人の本”を書いたことで、自身が軽蔑している偽善の核心に迫ることになる。",
-        "co": ["goldwyn", "mrc", "tstreet"]
+        "co": ["goldwyn", "mrc", "tstreet"],
+        "platform": "2"
+      },
+      {
+        "title": "Oppenheimer",
+        "year": "2023",
+        "director": "Christopher Nolan",
+        "star": "Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh",
+        "src": "https://www.youtube.com/embed/uYPbbksJxIg?si=Fae2CdFrc6L_xoK9",
+        "image": "https://image.tmdb.org/t/p/original/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+        "rate": 4,
+        "overview": "第2次世界大戦中、才能にあふれた物理学者のロバート・オッペンハイマーは、核開発を急ぐ米政府のマンハッタン計画において、原爆開発プロジェクトの委員長に任命される。しかし、実験で原爆の威力を目の当たりにし、さらにはそれが実戦で投下され、恐るべき大量破壊兵器を生み出したことに衝撃を受けたオッペンハイマーは、戦後、さらなる威力をもった水素爆弾の開発に反対するようになるが……。",
+        "co": ["syncopy", "universal"],
+        "platform": "0"
       }
-    ]
+    ],
+    "apr": [
+      {
+        "title": "Touch of Evil",
+        "year": "1958",
+        "director": "Orson Welles",
+        "star": "Charlton Heston, Janet Leigh, Orson Welles",
+        "src": "https://www.youtube.com/embed/RqOyFEopYfI?si=F4ujfvLhyhM4YXlP",
+        "image": "https://image.tmdb.org/t/p/original/mhE1p0cVrclbenqciiJOeFB7qxe.jpg",
+        "rate": 4.5,
+        "overview": "メキシコ国境の小さな町で起こった車の爆殺事件。偶然にも現場を目撃したメキシコ政府の特別犯罪調査官ヴァルガスは事件の捜査に乗り出すが、アメリカ側の担当者であるクインラン警部はヴァルガスの介入を露骨に拒否。だが上司の命令で、クインランはやむなくヴァルガスと共同捜査を開始する……。",
+        "co": ["universal"],
+        "platform": "4"
+      },
+      {
+        "title": "The Ones Who Live",
+        "year": "2024",
+        "director": "Andrew Lincoln",
+        "star": "Andrew Lincoln, Danai Gurira",
+        "src": "https://www.youtube.com/embed/CSiSA-D207o?si=v-WHUWFiQ-vWhNNb",
+        "image": "https://image.tmdb.org/t/p/original/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
+        "rate": 3.5,
+        "overview": "橋の爆破から５年。リックは市民共同体軍、CRM（シビック・リパブリック・ミリタリー）に救助され、市民権の無い受託人として市民共同体の維持に関わる仕事に従事し、ミショーンの元へ帰るため何度も脱走を試みるが逃げ出すことができないでいた。",
+        "platform": "4"
+      },
+      {
+        "title": "Sugar",
+        "year": "2024",
+        "director": "Mark Protosevich",
+        "star": "Colin Farrell",
+        "src": "https://www.youtube.com/embed/twvPGxuEOEA?si=G9fkXHUjUKYwUlDR",
+        "image": "https://image.tmdb.org/t/p/original/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+        "rate": 99,
+        "overview": "あるハリウッド･プロデューサーの最愛の孫娘が行方不明になり、内なる悪魔と戦う謎めいた私立探偵が捜査を担当する。",
+        "co": ["apple"],
+        "platform": "5"
+      },
+      {
+        "title": "Transformers: Rise of the Beasts",
+        "year": "2023",
+        "director": "Steven Caple Jr.",
+        "star": "Mark Protosevich, Dominique Fishback, Peter Cullen",
+        "src": "https://www.youtube.com/embed/itnqEauWQZM?si=EniB0jqMhqK93K-K",
+        "image": "https://image.tmdb.org/t/p/original/qBcIUgJmDGrcAKbhRwCd6AmO0ZW.jpg",
+        "rate": 3,
+        "overview": "舞台はオプティマスプライム率いるトランスフォーマー達が地球に来て間もない１９９４年。あらゆる星を丸呑みにして食べ尽くす、規格外サイズの最強・最悪の敵「ユニクロン」が地球を次の標的に動き出していた。危機に立ち向かうべく、プライムが仲間たちを集め、意図せず戦いに巻き込まれた人間のノア、エレーナや、そして地球を救う新たな希望“ビースト”たちとともに立ち上がる！",
+        "co": ["paramount", "skydance"],
+        "platform": "1"
+      },
+      {
+        "title": "RIPLEY",
+        "year": "2024",
+        "director": "Steven Zaillian",
+        "star": "Andrew Scott",
+        "src": "https://www.youtube.com/embed/0ri2biYLeaI?si=1BAcaZIDP502BN9v",
+        "image": "https://image.tmdb.org/t/p/original/rpSo8z9alultGVTqQ3dkLEyU8xx.jpg",
+        "rate": 99,
+        "overview": "特殊な仕事を引き受けたペテン師はイタリアに渡り、富と特権を享受する世界へと引き込まれてゆく。だが、彼が憧れる生活を手にするには、幾重にもうそを重ね続けなくてはならなかった。",
+        "co": ["netflix"],
+        "platform": "1"
+      },
+      {
+        "title": "Mona Lisa and the Blood Moon",
+        "year": "2022",
+        "director": "Ana Lily Amirpour",
+        "star": "Jun Jong-seo",
+        "src": "https://www.youtube.com/embed/GgBcdP5FGRA?si=vuQa4RYLfM9nfQU7",
+        "image": "https://image.tmdb.org/t/p/original/4hAbfpBqd8benyV0N2nYE2qU46M.jpg",
+        "rate": 2,
+        "overview": "A young woman with psychokinetic powers breaks out of a Louisiana asylum and makes her way to New Orleans, where she falls into the city’s netherworld of misfits and miscreants.",
+        "co": [""],
+        "platform": "4"
+      },
+      {
+        "title": "Pearl",
+        "year": "2022",
+        "director": "Ti West",
+        "star": "Mia Goth",
+        "src": "https://www.youtube.com/embed/L5PW5r3pEOg?si=io3zfqE3eIERcfyE",
+        "image": "https://image.tmdb.org/t/p/original/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+        "rate": 4,
+        "overview": "孤立した家族の農場で、厳しい母の監視のもと、病気の父の世話をする少女・パール。自分の生活と対象的である映画のような華やかな生活に憧れる彼女は、やがて野望、誘惑、抑圧のすべてを残酷な形でぶつけていく。",
+        "co": ["a24", "universal"],
+        "platform": "4"
+      },
+      {
+        "title": "Showing Up",
+        "year": "2022",
+        "director": "Kelly Reichardt",
+        "star": "Michelle Williams",
+        "src": "https://www.youtube.com/embed/wELPTxJ2YZY?si=GwOE8JGHx0jUiojI",
+        "image": "https://image.tmdb.org/t/p/original/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+        "rate": 3.5,
+        "overview": "美術学校で講師を務めるリジーは、来週の個展に向けて大忙し。思うように創作活動ができない彼女は、仕事を休み、地下のアトリエにこもって作業を始めてみる。だが、大家のジョーから預かったハトの様子がおかしく、病院へ連れていくことに…。",
+        "co": ["a24"],
+        "platform": "4"
+      },
+      {
+        "title": "Fallout (S1)",
+        "year": "2024",
+        "director": "Geneva Robertson-Dworet",
+        "star": "Ella Purnell, Walton Goggins, Aaron Moten",
+        "src": "https://www.youtube.com/embed/V-mugKDQDlg?si=dYmdx_ZTVMrP5j-s",
+        "image": "https://image.tmdb.org/t/p/original/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg",
+        "rate": 4.5,
+        "overview": "持てる物などほとんど残されていない不毛な世界を舞台にした、持てる者と持たざる者の物話だ。世界の終末から200年後、快適な地下施設に暮らしていたはずの居住者は、とてつもなく複雑で驚くほど奇妙で、そして暴力に満ちた世界へと足を踏み入れることになる。",
+        "co": ["amazon", "goldwyn"],
+        "platform": "2"
+      },
+      {
+        "title": "Infinity Pool",
+        "year": "2024",
+        "director": "Brandon Cronenberg",
+        "star": "Alexander Skarsgård, Mia Goth",
+        "src": "https://www.youtube.com/embed/PVnIMvVEkrA?si=xezLNGmM3baR5F4u",
+        "image": "https://image.tmdb.org/t/p/original/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg",
+        "rate": 4.5,
+        "overview": "裕福な若い夫婦が訪れた美しいリゾート地“リ・トルカ島”。その国では、観光客はどんな犯罪を起こしても大金を払えば自分のクローンを作ることができ、そのクローンを身代わりとして死刑に処すことで罪を免れることができるという身の毛もよだつ残酷なルールが存在していた……。",
+        "co": ["film4", "telefilm", "neon"],
+        "platform": "0"
+      },
+      {
+        "title": "ARGYLLE",
+        "year": "2024",
+        "director": "Matthew Vaughn",
+        "star": "Bryce Dallas Howard, Sam Rockwell, Bryan Cranston, Henry Cavill, John Cena, Samuel L. Jackson",
+        "src": "https://www.youtube.com/embed/7mgu9mNZ8Hk?si=GTIxnZ9pQE0Ihd4j",
+        "image": "https://image.tmdb.org/t/p/original/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+        "rate": 2.5,
+        "overview": "凄腕エージェントのアーガイルが世界中を飛び回り、謎のスパイ組織の正体に迫る大人気スパイアクション小説「アーガイル」。ハードなシリーズの作者エリー・コンウェイの素顔は、自宅で愛猫のアルフィーと過ごすのが至福の時という平和主義。しかし、新作の内容と実在するスパイ組織の活動がまさかの一致で、エリーの人生は大混乱に!物語の続きをめぐり命が狙われる事になった危機的状況をエイダンと名乗るスパイに助けられる。果たして、出会うはずのなかった二人と一匹の猫の危険なミッションの行方は...!?",
+        "co": ["apple", "universal"],
+        "platform": "5"
+      },
+      {
+        "title": "Rebel Moon - Part Two: The Scargiver ",
+        "year": "2024",
+        "director": "Zack Snyder",
+        "star": "Sofia Boutella, Ed Skrein, Djimon Hounsou",
+        "src": "https://www.youtube.com/embed/UEJuNHOd8Dw?si=CQ9vv7qQC-zQFcB3",
+        "image": "https://image.tmdb.org/t/p/original/cxevDYdeFkiixRShbObdwAHBZry.jpg",
+        "rate": 2,
+        "overview": "The rebels gear up for battle against the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made.",
+        "co": ["stonequarry", "netflix"],
+        "platform": "1"
+      },
+      {
+        "title": "The Thing",
+        "year": "1982",
+        "director": "John Carpenter",
+        "star": "Kurt Russell",
+        "src": "https://www.youtube.com/embed/ebMgBIy6mTo?si=77VV3cC___iMmC7K",
+        "image": "https://image.tmdb.org/t/p/original/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+        "rate": 4,
+        "overview": "1982年の南極。ノルウェー隊のヘリが、1匹の犬を追ってアメリカ南極観測隊第4基地へ現れた。銃や手榴弾を使い執拗に犬を狙うが失敗し、手違いからヘリは爆発。一人生き残ったノルウェー隊員は基地内へ逃げた犬を追って銃撃を続け、基地の隊員を負傷させるが基地の隊長により射殺される。ノルウェー基地へ向かったヘリ操縦士のマクレディらが見つけたものは、自殺し凍りついた隊員の死体、何かを取り出したと思しき氷塊、そして異様に変形し固まったおぞましい焼死体だった。一行は調査のため、記録フィルムと焼死体を持ち帰る。",
+        "co": ["universal"],
+        "platform": "4"
+      },
+      {
+        "title": "Mama",
+        "year": "2013",
+        "director": "Andy Muschietti",
+        "star": "Jessica Chastain",
+        "src": "https://www.youtube.com/embed/1lNyP7w3CuQ?si=DO8jGroYR2ga-E53",
+        "image": "https://image.tmdb.org/t/p/original/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg",
+        "rate": 3,
+        "overview": "Guillermo del Toro presents Mama, a supernatural thriller that tells the haunting tale of two little girls who disappeared into the woods the day that their parents were killed. When they are rescued years later and begin a new life, they find that someone or something still wants to come tuck them in at night.",
+        "co": ["universal"],
+        "platform": "2"
+      },
+      {
+        "title": "The Thing",
+        "year": "2011",
+        "director": "Matthijs van Heijningen Jr.",
+        "star": "Mary Elizabeth Winstead, Joel Edgerton",
+        "src": "https://www.youtube.com/embed/zzqem5BRzCc?si=dQbFT0Di4E7ErMnS",
+        "image": "https://image.tmdb.org/t/p/original/dmn2nVo8h7LMnk694JxCRIwK06p.jpg",
+        "rate": 3,
+        "overview": "ノルウェーの南極観測隊が、氷の中に閉じ込められた未知の生命体を発見。古代の生物ではないかと推測され、その調査のために考古生物学者ケイトが彼らの基地に向かう。だが、生命体は解凍されて長い眠りから覚醒。しかも、それはほかの生物の体内に侵入しては、細胞を同化して宿主そのものに擬態する、宇宙からやって来た生命体だったのだ。突如として宿主の肉体を破壊するように変形しては襲い掛かる生命体によって、彼らは誰が同化されているのか判断できない状況になっていき……。",
+        "co": ["universal"],
+        "platform": "4"
+      }
+    ],
+    "may": [],
+    "jun": [],
+    "jul": [],
+    "aug": [],
+    "sep": [],
+    "oct": [],
+    "nov": [],
+    "dec": []
   }
 }

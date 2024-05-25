@@ -113,17 +113,6 @@ const Page: React.FC<PageProps> = ({ props, lamda }) => {
           >
             <div className="text-red-600">映画日記</div>
           </AccordionSummary>
-
-          <AccordionDetails sx={{ backgroundColor: "#070707" }}>
-            <Link to={"/watchlist"}>
-              <div
-                className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
-                onClick={returnTop2}
-              >
-                アップカミング
-              </div>
-            </Link>
-          </AccordionDetails>
           <AccordionDetails sx={{ backgroundColor: "#070707" }}>
             <Link to={"/2024"}>
               <div
@@ -136,7 +125,29 @@ const Page: React.FC<PageProps> = ({ props, lamda }) => {
           </AccordionDetails>
         </Accordion>
       </List>
-      <List></List>
+      <List>
+        <Accordion defaultExpanded>
+          <AccordionSummary
+            expandIcon={<ExpandMoreIcon sx={{ color: "red" }} />}
+            aria-controls="panel1-content"
+            id="panel1-header"
+            sx={{ backgroundColor: "#070707" }}
+          >
+            <div className="text-red-600">その他</div>
+          </AccordionSummary>
+
+          <AccordionDetails sx={{ backgroundColor: "#070707" }}>
+            <Link to={"/watchlist"}>
+              <div
+                className="w-full text-gray-400 hover:text-red-600 cursor-pointer"
+                onClick={returnTop2}
+              >
+                アップカミング
+              </div>
+            </Link>
+          </AccordionDetails>
+        </Accordion>
+      </List>
     </div>
   );
 

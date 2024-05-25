@@ -1,8 +1,9 @@
 import image from "../top1.png";
 import movie from "../movie.png";
 import MenuBookIcon from "@mui/icons-material/MenuBook";
-import useWindowSize from "./useWindowsSize";
+import useWindowSize from "./WindowsSize";
 import { Link } from "react-router-dom";
+import CategoryIcon from "@mui/icons-material/Category";
 
 const Main = () => {
   const returnTop = () => {
@@ -30,7 +31,7 @@ const Main = () => {
               <Link to={"/movie"}>
                 <button
                   onClick={returnTop}
-                  className="text-sm sm:text-xl text-gray-300 hover:text-red-600 border-2 border-gray-300 hover:border-red-600 rounded-full px-3 hover:bg-netflix"
+                  className="text-sm sm:text-xl text-white hover:text-red-600 border-2 border-white hover:border-red-600 hover:bg-netflix rounded-full px-3 "
                 >
                   映画
                 </button>
@@ -38,7 +39,7 @@ const Main = () => {
               <Link to={"/tvshow"}>
                 <button
                   onClick={returnTop}
-                  className="text-sm sm:text-xl text-gray-300 hover:text-red-600 border-2 border-gray-300 hover:border-red-600 rounded-full px-3 hover:bg-netflix"
+                  className="text-sm sm:text-xl text-white hover:text-red-600 border-2 border-white hover:border-red-600 hover:bg-netflix rounded-full px-3 "
                 >
                   ドラマ
                 </button>
@@ -46,7 +47,7 @@ const Main = () => {
             </div>
           </div>
         </div>
-        <div className="flex flex-col">
+        <div className="flex flex-col gap-6 mb-8 sm:mb-32">
           <div className="flex flex-col items-center justify-center">
             <MenuBookIcon sx={{ fontSize: `${width}px`, color: "#ED1C24" }} />
           </div>
@@ -60,20 +61,40 @@ const Main = () => {
               </div>
             </div> */}
             <div className="flex flex-row gap-8 my-8 text-lg sm:text-2xl">
-              <Link to={"/watchlist"}>
+              {/* <Link to={"/watchlist"}>
                 <button
                   onClick={returnTop}
-                  className="text-sm sm:text-xl text-gray-300 hover:text-red-600 border-2 border-gray-300 hover:border-red-600 rounded-full px-3 hover:bg-netflix"
+                  className="text-sm sm:text-xl text-white hover:text-red-600 border-2 border-white hover:border-red-600 hover:bg-netflix rounded-full px-3 "
                 >
                   アップカミング
                 </button>
-              </Link>
+              </Link> */}
               <Link to={"/2024"}>
                 <button
                   onClick={returnTop}
-                  className="text-sm sm:text-xl text-gray-300 hover:text-red-600 border-2 border-gray-300 hover:border-red-600 rounded-full px-3 hover:bg-netflix"
+                  className="text-sm sm:text-xl text-white hover:text-red-600 border-2 border-white hover:border-red-600 hover:bg-netflix rounded-full px-3 "
                 >
                   2024
+                </button>
+              </Link>
+            </div>
+          </div>
+        </div>
+        <div className="flex flex-col gap-6 mb-8 sm:mb-32">
+          <div className="flex flex-col items-center justify-center">
+            <CategoryIcon sx={{ fontSize: `${width}px`, color: "#ED1C24" }} />
+          </div>
+          <div className="flex flex-col items-center">
+            <div className="text-red-600 sm:mb-3 font-bold text-xl sm:text-4xl">
+              その他
+            </div>
+            <div className="flex flex-row gap-8 my-8 text-lg sm:text-2xl">
+              <Link to={"/watchlist"}>
+                <button
+                  onClick={returnTop}
+                  className="text-sm sm:text-xl text-white hover:text-red-600 border-2 border-white hover:border-red-600 hover:bg-netflix rounded-full px-3 "
+                >
+                  アップカミング
                 </button>
               </Link>
             </div>
@@ -87,9 +108,9 @@ const Main = () => {
       <div className="flex flex-col items-center text-white mb-12 sm:mb-24 text-sm sm:text-3xl">
         <img src={image} alt=""></img>
 
-        <div className="text-gray-400 text-xs sm:text-2xl">
+        {/* <div className="text-gray-400 text-xs sm:text-2xl">
           ...but, what brought you here?
-        </div>
+        </div> */}
       </div>
       {useWindowSize() === "s" && <>{showPage(150)}</>}
       {useWindowSize() === "m" && <>{showPage(200)}</>}

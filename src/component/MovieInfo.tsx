@@ -47,8 +47,8 @@ const MovieInfo: React.FC<movieProps> = ({
     };
   }, [blockBrowserBack]);
   return (
-    <main className="flex flex-col items-center pt-8 px-8 pb-64 md:pt-12 md:px-12 md:pb-32 bg-netflix min-h-screen">
-      <div className="flex lg:flex-row flex-col sm:gap-16 gap-8 mb-4 sm:mb-24 2xl:px-56">
+    <main className="flex flex-col items-center px-8 pb-64 md:px-12 md:pb-32 bg-netflix min-h-screen">
+      <div className="flex lg:flex-row flex-col sm:gap-16 gap-8 mb-4 sm:mb-24 ">
         <div className="flex flex-col items-center">
           <img src={image} alt="" width={800}></img>
         </div>

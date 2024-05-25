@@ -1229,17 +1229,6 @@
         "overview": "21世紀、陸軍の軍医としてアフガン戦争に従軍したジョン・ワトソンは、戦傷によりイギリス本国に送還され、トラウマを抱えたままロンドンで苦しい生活を送っていた。そんな中、研修生時代の古い知り合いと出会い、自分と同じくルームメイトを探しているらしいシャーロック・ホームズという変わった男を紹介される。頭脳明晰なシャーロックは、スマートフォンやGPSといった現代の技術を駆使し、周囲の人々を戸惑わせながらもその天才的なひらめきと推理力でジョンと共に数々の事件を解決していく。"
       },
       {
-        "id": 3,
-        "title": "The Walking Dead",
-        "year": "2010",
-        "director": "Frank Darabont",
-        "star": "Andrew Lincoln, Norman Reedus, Danai Gurira, Lauren Cohan",
-        "src": "https://www.youtube.com/embed/W9sahJH9t3s?si=utUulzdlw7VFd1-o",
-        "image": "https://image.tmdb.org/t/p/original/ngMDACe8IOpiSuCW3NGtS8kkztc.jpg",
-        "sum": "Fight the dead. Fear the living.",
-        "overview": "ある日死者が次々と蘇り、死者に噛まれると死に至りゾンビとなってしまう現象が世界で大量発生した未来が舞台である。生き残った人々は成すすべも無くただ社会文明が崩壊してくなか、必死に生きていく。元保安官リックとその家族もまた生き残るための戦いを続けていく。"
-      },
-      {
         "id": 4,
         "title": "Luther",
         "year": "2010",
@@ -1400,6 +1389,17 @@
         "image": "https://image.tmdb.org/t/p/original/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
         "overview": "江戸時代の日本で世間から見捨てられ、忌み嫌われてきた若き剣士。そんな人生を強いた者たちへのあだ討ちを誓う彼女は、己のさだめを全うすべく血塗られた道を突き進む。",
         "co": ["netflix"]
+      },
+      {
+        "id": 18,
+        "title": "Sugar",
+        "year": "2024",
+        "director": "Mark Protosevich",
+        "star": "Colin Farrell",
+        "src": "https://www.youtube.com/embed/twvPGxuEOEA?si=G9fkXHUjUKYwUlDR",
+        "image": "https://image.tmdb.org/t/p/original/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+        "overview": "あるハリウッド･プロデューサーの最愛の孫娘が行方不明になり、内なる悪魔と戦う謎めいた私立探偵が捜査を担当する。",
+        "co": ["apple"]
       }
     ]
   }

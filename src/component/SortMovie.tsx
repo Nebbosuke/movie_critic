@@ -29,7 +29,9 @@ record.record.sort((a, b) =>
 const SortMovie = () => {
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
   const [list, setList] = React.useState(record.record);
-  const [sort, setSort] = React.useState<React.ReactNode>(<SortIcon />);
+  const [sort, setSort] = React.useState<React.ReactNode>(
+    <SortIcon fontSize="large" />
+  );
   const [keyword, setKeyword] = useState("");
   const open = Boolean(anchorEl);
   const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
@@ -138,7 +140,9 @@ const SortMovie = () => {
             aria-expanded={open ? "true" : undefined}
             onClick={handleClick}
           >
-            <div className="text-white sm:hover:text-red-600 ml-1">{sort}</div>
+            <div className="text-white sm:hover:text-red-600 ml-1 mb-3 sm:mb-0">
+              {sort}
+            </div>
           </button>
           <Menu
             id="basic-menu"

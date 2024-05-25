@@ -462,18 +462,6 @@
         "platform": "4"
       },
       {
-        "title": "Sugar",
-        "year": "2024",
-        "director": "Mark Protosevich",
-        "star": "Colin Farrell",
-        "src": "https://www.youtube.com/embed/twvPGxuEOEA?si=G9fkXHUjUKYwUlDR",
-        "image": "https://image.tmdb.org/t/p/original/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
-        "rate": 99,
-        "overview": "あるハリウッド･プロデューサーの最愛の孫娘が行方不明になり、内なる悪魔と戦う謎めいた私立探偵が捜査を担当する。",
-        "co": ["apple"],
-        "platform": "5"
-      },
-      {
         "title": "Transformers: Rise of the Beasts",
         "year": "2023",
         "director": "Steven Caple Jr.",
@@ -618,7 +606,152 @@
         "platform": "4"
       }
     ],
-    "may": [],
+    "may": [
+      {
+        "title": "Godzilla x Kong: The New Empire",
+        "year": "2024",
+        "director": "Adam Wingard",
+        "star": "Rebecca Hall, Brian Tyree Henry",
+        "src": "https://www.youtube.com/embed/lV1OOlGwExM?si=mihxisB0iPpf2ueM",
+        "image": "https://image.tmdb.org/t/p/original/nVOZuxRiBygJ3VmXc9QcDGZfHzD.jpg",
+        "rate": 3.5,
+        "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+        "co": ["legendary", "warner"],
+        "platform": "0"
+      },
+      {
+        "title": "Kandahar",
+        "year": "2023",
+        "director": "Ric Roman Waugh",
+        "star": "Gerard Butler",
+        "src": "https://www.youtube.com/embed/WHs6z9RPGtA?si=_vXtnh4QhYEy8BHl",
+        "image": "https://image.tmdb.org/t/p/original/ir7JSmbUmYgYYZHqjFoIf3a9C3i.jpg",
+        "rate": 3,
+        "overview": "イラン国内に潜入中のCIA工作員トム・ハリス（ジェラルド・バトラー）は、核開発施設の破壊工作に成功した直後、CIAの内部告発により機密情報が漏洩し全世界に正体が明かされてしまう。即刻ミッションを中止し中東からの脱出を図るトムが目指すのは、アフガニスタン南部のカンダハルにあるCIA基地。30時間後に離陸する英国SAS連隊の飛行機に乗らなければ、生き残るチャンスはない。イランの精鋭集団・コッズ部隊のほか、パキスタン軍統合情報局（ISI）も絶好の「金づる」になりうるトムの捕獲に乗り出し、さらに、タリバンの息がかかったゲリラ、金次第で敵にも味方にもなるウォーロード率いる武装集団など、トムの行く手にはさまざまな勢力が立ちはだかり、敵味方の入り乱れる壮絶な死闘へと追跡劇が繰り広げられるのだった。はたして執拗に襲いかかる敵の追跡をかわし、無事カンダハルに辿り着くことができるのか？",
+        "co": ["thunder", "openroad"],
+        "platform": "2"
+      },
+      {
+        "title": "Plane",
+        "year": "2023",
+        "director": "Charles Cumming",
+        "star": "Gerard Butler, Mike Colter",
+        "src": "https://www.youtube.com/embed/M25zXBIUVr0?si=jvW50pTbyPkUwsjs",
+        "image": "https://image.tmdb.org/t/p/original/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+        "rate": 2.5,
+        "overview": "悪天候のなか、落雷でコントロールを失った航空機のブレイザー119便は、奇跡的にフィリピンのホロ島に不時着する。機長のトランスや乗客ら17名はからくも一命をとりとめたが、不時着した場所は凶暴な反政府ゲリラが支配する無法地帯だった。ゲリラたちが迫りくる中、トランス機長は生き残りをかけ、乗客の1人だった移送中の犯罪者ガスパールと手を組む。",
+        "co": ["lionsgate"],
+        "platform": "2"
+      },
+      {
+        "title": "ゴジラ-1.0",
+        "year": "2023",
+        "director": "山崎貴",
+        "star": "神木隆之介, 浜辺美波, 佐々木蔵之介",
+        "src": "https://www.youtube.com/embed/r7DqccP1Q_4?si=VDwzi1RPaIUNyzBW",
+        "image": "https://image.tmdb.org/t/p/original/buvBq2zLP7CcJth8tjrI4znvfEO.jpg",
+        "rate": 4,
+        "overview": "戦後、無になった日本へ追い打ちをかけるように現れたゴジラがこの国を 負 に叩き落す。史上最も絶望的な状況での襲来に、誰が?そしてどうやって?日本は立ち向かうのか―。",
+        "co": ["toho"],
+        "platform": "2"
+      },
+      {
+        "title": "Expend4bles",
+        "year": "2023",
+        "director": "Scott Waugh",
+        "star": "Jason Statham, Sylvester Stallone, Megan Fox",
+        "src": "https://www.youtube.com/embed/DhlaBO-SwVE?si=rprdVBIfBX7kd5z-",
+        "image": "https://image.tmdb.org/t/p/original/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+        "rate": 3,
+        "overview": "自らを“消耗品”と名乗る最強軍団＜エクスペンダブルズ＞を率いるバーニー・ロス（シルベスター・スタローン）はCIAから下された新たなミッションに挑むため、かつての相棒であるリー・クリスマス（ジェイソン・ステイサム）の元を訪ねる。 バーニーとともに再び組むことを決意したリーがアジトに足を運ぶと、そこにはかつての仲間だけではなく、新たなメンバーが顔を揃えていた。 新戦力を迎えたエクスペンダブルズが挑む今回のミッションは、テロリストが所有する核兵器を奪還すること――もし、失敗すれば第三次世界大戦が勃発しかねない危険なミッションに挑む彼らだが、大きな代償を払うことに…。",
+        "co": ["lionsgate"],
+        "platform": "4"
+      },
+      {
+        "title": "Aquaman and the Lost Kingdom",
+        "year": "2023",
+        "director": "James Wan",
+        "star": "Jason Momoa, Patrick Wilson",
+        "src": "https://www.youtube.com/embed/UGc5Tzz19UY?si=IGXI63uaVEJjhCoC",
+        "image": "https://image.tmdb.org/t/p/original/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+        "rate": 3.5,
+        "overview": "南極の氷河に眠る邪悪な海底王国に、海の生物を操るアクアマンが、５億の海の仲間とともに立ち向かう！監督×主演を『ワイルド・スピード』の最強コンビで放つ海中から陸、空へと広がる完全未体験のアクション・エンターテイメント！はるか昔、氷河の奥深くに“失われた王国”が封印された。世界を滅亡させる力を持つ古代兵器、ブラック・トライデントとともに——。しかし今その封印は解かれ、かつてない邪悪な力が解き放たれてしまう。立ち向かうのは、海の生物を操る海底アトランティスの王であり、ユーモア溢れるお調子者、アクアマン。５億の海の仲間とともに、かつてない脅威から海と地上の世界を守れるのか！？",
+        "co": ["dc", "warner"],
+        "platform": "4"
+      },
+      {
+        "title": "Dark Matter",
+        "year": "2024",
+        "director": "Blake Crouch",
+        "star": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson",
+        "src": "https://www.youtube.com/embed/j6ucGt_Xp14?si=bmd8iFWCWgZ_10hR",
+        "image": "https://image.tmdb.org/t/p/original/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
+        "rate": 99,
+        "overview": "ジェイソン・デスセンは“もう一つの人生”へと連れ去られた。本当の家族の元に戻り、想像し得る最も恐ろしい敵、つまり自分自身から家族を救うため苦難の旅に出る。",
+        "co": ["apple"],
+        "platform": "5"
+      },
+      {
+        "title": "Happy Death Day 2U",
+        "year": "2019",
+        "director": "Christopher Landon",
+        "star": "Jessica Rothe",
+        "src": "https://www.youtube.com/embed/MT9MBytHuOI?si=a5SBzB3EZQBHe8Km",
+        "image": "https://image.tmdb.org/t/p/original/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+        "rate": 3.5,
+        "overview": "何者かに殺される誕生日を繰り返すタイムループから抜け出したツリー(ジェシカ・ロース)は、恋人のカーター(イズラエル・ブルサード)と楽しく過ごすつもりだった。ところが彼のルームメイトのライアン(ファイ・ヴ)が殺人鬼に狙われるタイムループに陥り、理工学部で学ぶライアンたちが開発した量子冷却装置(SISSY)が原因だと判明する。彼らは研究室に行き、そこで装置から放たれたビームをツリーが浴びてしまう。",
+        "co": ["blumhouse", "universal"],
+        "platform": "4"
+      },
+      {
+        "title": "Sugar",
+        "year": "2024",
+        "director": "Mark Protosevich",
+        "star": "Colin Farrell",
+        "src": "https://www.youtube.com/embed/twvPGxuEOEA?si=G9fkXHUjUKYwUlDR",
+        "image": "https://image.tmdb.org/t/p/original/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+        "rate": 4.5,
+        "overview": "あるハリウッド･プロデューサーの最愛の孫娘が行方不明になり、内なる悪魔と戦う謎めいた私立探偵が捜査を担当する。",
+        "co": ["apple"],
+        "platform": "5"
+      },
+      {
+        "title": "Kingdom of the Planet of the Apes",
+        "year": "2024",
+        "director": "Wes Ball",
+        "star": "Owen Teague, Freya Allan, Kevin Durand, William H. Macy",
+        "src": "https://www.youtube.com/embed/XtFI7SNtVpY?si=lnweEmlVFmReg78x",
+        "image": "https://image.tmdb.org/t/p/original/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+        "rate": 4.5,
+        "overview": "今から300年後の世界、猿たちは絶対的支配を目論み、巨大な帝国＜キングダム＞を築こうとしていた。一方、人類は退化し、まるで野生動物のような存在となっていた。そんな世界で生きる若き猿ノアは、ある人間の女性と出会う。彼女は人間の中で“誰よりも賢い”とされ、猿たちから狙われていた。猿と人間の共存は不可能なのか。はたして、この世界で生き残るのは―。",
+        "co": ["fox"],
+        "platform": "0"
+      },
+      {
+        "title": "Outer Range (S2)",
+        "year": "2024",
+        "director": "Brian Watkins",
+        "star": "Josh Brolin, Lili Taylor, Tom Pelphrey",
+        "src": "https://www.youtube.com/embed/8UkDdTMZh14?si=UDeYL7067ugOKDbo",
+        "image": "https://image.tmdb.org/t/p/original/9leGmIDamsWJELYz0pZkr2EXUFf.jpg",
+        "rate": 4,
+        "overview": "A rancher fighting for his land and family stumbles upon an unfathomable mystery at the edge of Wyoming’s wilderness, forcing a confrontation with the Unknown in ways both intimate and cosmic in the untamable American West.",
+        "co": ["amazon"],
+        "platform": "2"
+      },
+      {
+        "title": "首",
+        "year": "2023",
+        "director": "北野武",
+        "star": "北野武",
+        "src": "https://www.youtube.com/embed/vcGZ8m7tqDI?si=X9RPGYpFSL0edc9h",
+        "image": "https://image.tmdb.org/t/p/original/nx03gunzZ2YHkeR7j8EAzBVx9eG.jpg",
+        "rate": 4,
+        "overview": "戦国時代、全国統一を目指す信長に対して反乱を起こした村重。だが失敗の末、逃亡。信長は光秀に捜索を命じるが、秀吉は村重を利用して光秀と信長を陥れようと画策する。",
+        "co": ["toho"],
+        "platform": "4"
+      }
+    ],
     "jun": [],
     "jul": [],
     "aug": [],

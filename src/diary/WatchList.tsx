@@ -23,7 +23,9 @@ const Main = () => {
   const [narrow, setNarrow] = useState(0);
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
   const [list, setList] = React.useState(record);
-  const [sort, setSort] = React.useState<React.ReactNode>(<CategoryIcon />);
+  const [sort, setSort] = React.useState<React.ReactNode>(
+    <CategoryIcon fontSize="large" />
+  );
   const [keyword, setKeyword] = useState("");
   const open = Boolean(anchorEl);
   const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {
@@ -34,7 +36,7 @@ const Main = () => {
   };
   const showAll = () => {
     setNarrow(0);
-    setSort(<CategoryIcon />);
+    setSort(<CategoryIcon fontSize="large" />);
     handleClose();
   };
   const theater = () => {
@@ -116,7 +118,9 @@ const Main = () => {
             aria-expanded={open ? "true" : undefined}
             onClick={handleClick}
           >
-            <div className="text-white sm:hover:text-red-600 ml-1">{sort}</div>
+            <div className="text-white sm:hover:text-red-600 ml-1 mb-3 sm:mb-0">
+              {sort}
+            </div>
           </button>
           <Menu
             id="basic-menu"
@@ -130,8 +134,8 @@ const Main = () => {
             <MenuItem onClick={showAll}>すべて</MenuItem>
             <MenuItem onClick={theater}>公開中</MenuItem>
             <MenuItem onClick={coming}>近日公開</MenuItem>
-            <MenuItem onClick={streaming}>配信待ち</MenuItem>
             <MenuItem onClick={tbd}>公開日未定</MenuItem>
+            <MenuItem onClick={streaming}>配信待ち</MenuItem>
           </Menu>
         </div>
       </div>

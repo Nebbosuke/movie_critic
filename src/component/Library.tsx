@@ -3,6 +3,19 @@ import PosterDialog from "../component/PosterDialog";
 import { useEffect, useState } from "react";
 import ClearIcon from "@mui/icons-material/Clear";
 import SwapVertIcon from "@mui/icons-material/SwapVert";
+import janImg from "./month/jan.png";
+import febImg from "./month/feb.png";
+import marImg from "./month/mar.png";
+import aprImg from "./month/apr.png";
+import mayImg from "./month/may.png";
+import junImg from "./month/jun.png";
+import julImg from "./month/jul.png";
+import augImg from "./month/aug.png";
+import sepImg from "./month/sep.png";
+import octImg from "./month/oct.png";
+import novImg from "./month/nov.png";
+import decImg from "./month/dec.png";
+import WindowSize from "./WindowsSize";
 
 type movie = {
   image: string;
@@ -20,6 +33,7 @@ type movie = {
 type movies = { [key: string]: movie[] };
 
 const Selection = (year: string, record: movies) => {
+  const size = WindowSize();
   const [jan, setJan] = useState(record.jan);
   const [feb, setFeb] = useState(record.feb);
   const [mar, setMar] = useState(record.mar);
@@ -34,116 +48,6 @@ const Selection = (year: string, record: movies) => {
   const [dec, setDec] = useState(record.dec);
   const [keyword, setKeyword] = useState("");
   const [toggle, setToggle] = useState(0);
-
-  const toggleClick = () => {
-    if (toggle === 0) {
-      setToggle(1);
-    } else if (toggle === 1) {
-      setToggle(0);
-    }
-  };
-
-  const showToggleButton = (): React.ReactNode => {
-    return (
-      <div>
-        {toggle === 0 && (
-          <div>
-            <button
-              id="basic-button"
-              aria-haspopup="true"
-              onClick={toggleClick}
-            >
-              <div className="text-white sm:hover:text-red-600">
-                <SwapVertIcon />
-              </div>
-            </button>
-          </div>
-        )}
-        {toggle === 1 && (
-          <div>
-            <button
-              id="basic-button"
-              aria-haspopup="true"
-              onClick={toggleClick}
-            >
-              <div className="text-white sm:hover:text-red-600">
-                <SwapVertIcon />
-              </div>
-            </button>
-          </div>
-        )}
-      </div>
-    );
-  };
-
-  const showRecord = (): React.ReactNode => {
-    return (
-      <>
-        {toggle === 0 && (
-          <span>
-            {showSection("１", jan)}
-            {showSection("２", feb)}
-            {showSection("３", mar)}
-            {showSection("４", apr)}
-            {showSection("５", may)}
-            {showSection("６", jun)}
-            {showSection("７", jul)}
-            {showSection("８", aug)}
-            {showSection("９", sep)}
-            {showSection("１０", oct)}
-            {showSection("１１", nov)}
-            {showSection("１２", dec)}
-          </span>
-        )}
-        {toggle === 1 && (
-          <span>
-            {showSection("１２", dec)}
-            {showSection("１１", nov)}
-            {showSection("１０", oct)}
-            {showSection("９", sep)}
-            {showSection("８", aug)}
-            {showSection("７", jul)}
-            {showSection("６", jun)}
-            {showSection("５", may)}
-            {showSection("４", apr)}
-            {showSection("３", mar)}
-            {showSection("２", feb)}
-            {showSection("１", jan)}
-          </span>
-        )}
-      </>
-    );
-  };
-
-  const count =
-    record.jan.length +
-    record.feb.length +
-    record.mar.length +
-    record.apr.length +
-    record.may.length +
-    record.jun.length +
-    record.jul.length +
-    record.aug.length +
-    record.sep.length +
-    record.oct.length +
-    record.nov.length +
-    record.dec.length;
-
-  const setList = () => {
-    setJan(record.jan);
-    setFeb(record.feb);
-    setMar(record.mar);
-    setApr(record.apr);
-    setMay(record.may);
-    setJun(record.jun);
-    setJul(record.jul);
-    setAug(record.aug);
-    setSep(record.sep);
-    setOct(record.oct);
-    setNov(record.nov);
-    setDec(record.dec);
-  };
-
   useEffect(() => {
     if (keyword === "") {
       setList();
@@ -180,8 +84,116 @@ const Selection = (year: string, record: movies) => {
     setOct(filterMovie(record.oct));
     setNov(filterMovie(record.nov));
     setDec(filterMovie(record.dec));
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [keyword]);
+
+  const toggleClick = () => {
+    if (toggle === 0) {
+      setToggle(1);
+    } else if (toggle === 1) {
+      setToggle(0);
+    }
+  };
+
+  const showToggleButton = (): React.ReactNode => {
+    return (
+      <div>
+        {toggle === 0 && (
+          <div>
+            <button
+              id="basic-button"
+              aria-haspopup="true"
+              onClick={toggleClick}
+            >
+              <div className="text-white sm:hover:text-red-600 mb-3 sm:mb-0">
+                <SwapVertIcon fontSize="large" />
+              </div>
+            </button>
+          </div>
+        )}
+        {toggle === 1 && (
+          <div>
+            <button
+              id="basic-button"
+              aria-haspopup="true"
+              onClick={toggleClick}
+            >
+              <div className="text-white sm:hover:text-red-600">
+                <SwapVertIcon fontSize="large" />
+              </div>
+            </button>
+          </div>
+        )}
+      </div>
+    );
+  };
+
+  const showRecord = (): React.ReactNode => {
+    return (
+      <>
+        {toggle === 0 && (
+          <span>
+            {showPoster(`${janImg}`, jan)}
+            {showPoster(`${febImg}`, feb)}
+            {showPoster(`${marImg}`, mar)}
+            {showPoster(`${aprImg}`, apr)}
+            {showPoster(`${mayImg}`, may)}
+            {showPoster(`${junImg}`, jun)}
+            {showPoster(`${julImg}`, jul)}
+            {showPoster(`${augImg}`, aug)}
+            {showPoster(`${sepImg}`, sep)}
+            {showPoster(`${octImg}`, oct)}
+            {showPoster(`${novImg}`, nov)}
+            {showPoster(`${decImg}`, dec)}
+          </span>
+        )}
+        {toggle === 1 && (
+          <span>
+            {showPosterReverse(`${decImg}`, dec)}
+            {showPosterReverse(`${novImg}`, nov)}
+            {showPosterReverse(`${octImg}`, oct)}
+            {showPosterReverse(`${sepImg}`, sep)}
+            {showPosterReverse(`${augImg}`, aug)}
+            {showPosterReverse(`${julImg}`, jul)}
+            {showPosterReverse(`${junImg}`, jun)}
+            {showPosterReverse(`${mayImg}`, may)}
+            {showPosterReverse(`${aprImg}`, apr)}
+            {showPosterReverse(`${marImg}`, mar)}
+            {showPosterReverse(`${febImg}`, feb)}
+            {showPosterReverse(`${janImg}`, jan)}
+          </span>
+        )}
+      </>
+    );
+  };
+
+  const count =
+    record.jan.length +
+    record.feb.length +
+    record.mar.length +
+    record.apr.length +
+    record.may.length +
+    record.jun.length +
+    record.jul.length +
+    record.aug.length +
+    record.sep.length +
+    record.oct.length +
+    record.nov.length +
+    record.dec.length;
+
+  const setList = () => {
+    setJan(record.jan);
+    setFeb(record.feb);
+    setMar(record.mar);
+    setApr(record.apr);
+    setMay(record.may);
+    setJun(record.jun);
+    setJul(record.jul);
+    setAug(record.aug);
+    setSep(record.sep);
+    setOct(record.oct);
+    setNov(record.nov);
+    setDec(record.dec);
+  };
 
   const poster = (movie: movie) => {
     return (
@@ -200,18 +212,66 @@ const Selection = (year: string, record: movies) => {
     );
   };
 
-  const showSection = (month: string, movies: movie[]): React.ReactNode => {
+  const monthPoster = (image: string) => {
     return (
-      <section id={month} className="mb-10">
+      <span>
+        <button className="text-blue-600 mx-3 mb-6 cursor-default">
+          {size === "s" && (
+            <div>
+              <img src={image} alt="" width={110}></img>
+            </div>
+          )}
+          {size === "m" && (
+            <div>
+              <img src={image} alt="" width={160}></img>
+            </div>
+          )}
+          {size === "l" && (
+            <div>
+              <img src={image} alt="" width={250}></img>
+            </div>
+          )}
+        </button>
+      </span>
+    );
+  };
+
+  const showPoster = (image: string, movies: movie[]): React.ReactNode => {
+    return (
+      <span className="mb-10">
         {movies.length !== 0 && (
-          <div className="text-white text-xl sm:text-2xl mb-2 font-bold">
-            {month}月
-          </div>
+          <>
+            {monthPoster(image)}
+            {movies.map((movie, index) => (
+              <span key={index}>{poster(movie)}</span>
+            ))}
+          </>
         )}
-        {movies.map((movie, index) => (
-          <span key={index}>{poster(movie)}</span>
-        ))}
-      </section>
+      </span>
+    );
+  };
+
+  const showPosterReverse = (
+    image: string,
+    movies: movie[]
+  ): React.ReactNode => {
+    const array: movie[] = movies;
+    const array2: movie[] = [];
+    for (let i = 0; i < array.length; i++) {
+      array2[i] = array[array.length - 1 - i];
+    }
+
+    return (
+      <span className="mb-10">
+        {movies.length !== 0 && (
+          <>
+            {monthPoster(image)}
+            {array2.map((movie, index) => (
+              <span key={index}>{poster(movie)}</span>
+            ))}
+          </>
+        )}
+      </span>
     );
   };
 

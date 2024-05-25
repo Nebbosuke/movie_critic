@@ -29,7 +29,9 @@ record.record.sort((a, b) =>
 const SortMovie = () => {
   const [anchorEl, setAnchorEl] = React.useState<null | HTMLElement>(null);
   const [list, setList] = useState(record.record);
-  const [sort, setSort] = useState<React.ReactNode>(<SortIcon />);
+  const [sort, setSort] = useState<React.ReactNode>(
+    <SortIcon fontSize="large" />
+  );
   const [keyword, setKeyword] = useState("");
   const open = Boolean(anchorEl);
   const handleClick = (event: React.MouseEvent<HTMLButtonElement>) => {

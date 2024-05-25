@@ -7,7 +7,7 @@ import CloseIcon from "@mui/icons-material/Close";
 import Slide from "@mui/material/Slide";
 import { TransitionProps } from "@mui/material/transitions";
 import MovieInfo from "./MovieInfo";
-import useWindowSize from "./useWindowsSize";
+import WindowSize from "./WindowsSize";
 
 const Transition = React.forwardRef(function Transition(
   props: TransitionProps & {
@@ -52,23 +52,23 @@ const ShowDialog: React.FC<ShowDialogProps> = ({
   };
 
   return (
-    <span className="m-3">
+    <span className="">
       <button
-        className=" text-blue-600 hover:text-black pr-1"
+        className=" text-blue-600 hover:text-black mx-3 mb-12"
         onClick={handleClickOpen}
       >
-        {useWindowSize() === "s" && (
-          <div className="my-3">
+        {WindowSize() === "s" && (
+          <div>
             <img src={image} alt="" width={110}></img>
           </div>
         )}
-        {useWindowSize() === "m" && (
-          <div className="my-3">
+        {WindowSize() === "m" && (
+          <div>
             <img src={image} alt="" width={160}></img>
           </div>
         )}
-        {useWindowSize() === "l" && (
-          <div className="my-3">
+        {WindowSize() === "l" && (
+          <div>
             <img
               src={image}
               alt=""
@@ -79,27 +79,24 @@ const ShowDialog: React.FC<ShowDialogProps> = ({
         )}
       </button>
       <Dialog
-        fullScreen
         open={open}
         onClose={handleClose}
         aria-labelledby="scroll-dialog-title"
-        TransitionComponent={Transition}
+        // TransitionComponent={Transition}
+        maxWidth="xl"
+        scroll="body"
       >
-        <AppBar sx={{ position: "sticky" }} color="error">
-          <Toolbar>
-            <div className="flex flex-row justify-center w-full items-center text-netflix">
-              <IconButton
-                edge="start"
-                color="inherit"
-                onClick={handleClose}
-                aria-label="close"
-              >
-                <CloseIcon fontSize="large" />
-              </IconButton>
-            </div>
-          </Toolbar>
-        </AppBar>
         <div className="bg-netflix">
+          <div className="flex flex-row justify-center sm:justify-end w-full items-center text-red-600 sm:pr-8">
+            <IconButton
+              edge="start"
+              color="inherit"
+              onClick={handleClose}
+              aria-label="close"
+            >
+              <CloseIcon fontSize="large" />
+            </IconButton>
+          </div>
           <MovieInfo
             image={image}
             title={title}

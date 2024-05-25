@@ -59,8 +59,8 @@ const Trailer: React.FC<InfoProps> = ({ src }) => {
         {useWindowSize() === "s" && (
           <div className="border-4 border-black rounded-md">
             <iframe
-              width="320"
-              height="180"
+              width="300"
+              height="170"
               src={src}
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

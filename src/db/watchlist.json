@@ -1,17 +1,6 @@
 {
   "record": [
     {
-      "title": "The Zone of Interest",
-      "year": "1",
-      "director": "Jonathan Glazer",
-      "star": "Christian Friedel",
-      "src": "https://www.youtube.com/embed/r-vfg3KkV54?si=C347phLzixnMcQJ-",
-      "image": "https://image.tmdb.org/t/p/original/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
-      "sum": "",
-      "overview": "アウシュビッツの司令官ルドルフ・ヘスとその妻ヘドウィグは、収容所の隣にある家と庭で、家族のために夢のような生活を築こうと努力する。",
-      "co": []
-    },
-    {
       "title": "Deadpool & Wolverine",
       "year": "7/26",
       "director": "Shawn Levy",
@@ -20,17 +9,6 @@
       "image": "https://image.tmdb.org/t/p/original/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
       "sum": "Come together.",
       "overview": "Third entry in the Deadpool franchise. Plot TBA.",
-      "co": []
-    },
-    {
-      "title": "Furiosa: A Mad Max Saga",
-      "year": "5/31",
-      "director": "George Miller",
-      "star": "Anya Taylor-Joy、Chris Hemsworth",
-      "src": "https://www.youtube.com/embed/XJMuhwVlca4?si=NcysdSv1oCo_yIOl",
-      "image": "https://image.tmdb.org/t/p/original/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
-      "sum": "Remember her.",
-      "overview": "世界が崩壊する中、若きフュリオサは 「緑の母なる場所 」から、将軍デメンタス率いる暴走族の手にさらわれる。荒れ地を掃討する彼らは、イモータン・ジョーが統べる城塞都市に遭遇する。2人の暴君は覇権をめぐって抗争を繰り広げ、フュリオサは数々の試練を乗り越えながら、故郷への道を探さなければならない。",
       "co": []
     },
     {
@@ -100,17 +78,6 @@
       "co": []
     },
     {
-      "title": "The Book of Clarence",
-      "year": "0",
-      "director": "Jeymes Samuel",
-      "star": "LaKeith Stanfield",
-      "src": "https://www.youtube.com/embed/ntNS-ANoMyM?si=_Lp4Tr5RD1PZl8BX",
-      "image": "https://image.tmdb.org/t/p/original/hZuq34U1dWuIIWgTa6wZNPeDinS.jpg",
-      "sum": "How far would you go to prove you're not a nobody?",
-      "overview": "世渡り上手だが運に見放されたクラレンスは、家族のためにより良い生活を見つけようと奮闘する一方、借金から解放されようと戦っていた。新進のメシアとその使徒たちの力と栄光に魅了された彼は、すべてを賭けて神聖な人生への道を切り開こうとする。",
-      "co": []
-    },
-    {
       "title": "Love Lies Bleeding",
       "year": "0",
       "director": "Rose Glass",
@@ -156,7 +123,7 @@
     },
     {
       "title": "Kinds of Kindness",
-      "year": "0",
+      "year": "9/27",
       "director": "Yorgos Lanthimos",
       "star": "Emma Stone",
       "src": "https://www.youtube.com/embed/8fYtuE_ZJ4E?si=u5lBlPLkOLfsBt_f",
@@ -405,6 +372,72 @@
       "image": "https://image.tmdb.org/t/p/original/br67EKUD34UL3mihsHqJhDzJaIt.jpg",
       "sum": "",
       "overview": "1860年代、独立心旺盛なフランス系カナダ人のヴィヴィアン・ル・クーディは、デンマーク移民のホルガー・オルセンと旅に出る。ホルガーが勃発しつつある南北戦争で北軍のために戦う決意をしたとき、ヴィヴィアンは自活しなければならないが、腐敗した町長に支配された町では容易ではない。",
+      "co": []
+    },
+    {
+      "title": "Ferrari",
+      "year": "7/5",
+      "director": "Michael Mann",
+      "star": "Adam Driver",
+      "src": "https://www.youtube.com/embed/8oOVNMjM1Jk?si=hQCsH7WRnPnGXR9k",
+      "image": "https://image.tmdb.org/t/p/original/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "sum": "",
+      "overview": "舞台は1957年の夏。元レーサー、エンツォ・フェラーリは危機に瀕していた。彼と妻のローラが10年前にゼロから築き上げた会社には倒産がつきまとう。息子の死を悼みながらも、もう一人の息子を認めなければならない。",
+      "co": []
+    },
+    {
+      "title": "How to Blow Up a Pipeline",
+      "year": "6/14",
+      "director": "Daniel Goldhaber",
+      "star": "Ariela Barer",
+      "src": "https://www.youtube.com/embed/bSb585bGYmQ?si=84NSrzYE0x2NAArd",
+      "image": "https://image.tmdb.org/t/p/original/5HJF47ywTuxxouVdAHAZ7iPzB4T.jpg",
+      "sum": "",
+      "overview": "環境破壊に人生を狂わされたZ世代の環境活動家たちが、石油パイプラインを破壊する大胆な作戦を実行する。やがて過激な決意が、友人、恋人、苦難に満ちた物語を持つ仲間たちを巻き込みながら暴力の象徴(=パイプライン)を爆破するという大胆なミッションへと結びついてゆく。若い世代のエネルギーは、予期せぬ混乱を招きながら、爆発的フィナーレへと疾走する。",
+      "co": []
+    },
+    {
+      "title": "Wolfs",
+      "year": "0",
+      "director": "Jon Watts",
+      "star": "George Clooney, Brad Pitt",
+      "src": "https://www.youtube.com/embed/Y6sGIOY8TBs?si=TLp_eS-hJkZBrJZJ",
+      "image": "https://image.tmdb.org/t/p/original/LxJfs3YDDG0YCfXNG6d247bPr9.jpg",
+      "sum": "",
+      "overview": "",
+      "co": []
+    },
+    {
+      "title": "Anora",
+      "year": "0",
+      "director": "Sean Baker",
+      "star": "Mikey Madison",
+      "src": "https://www.youtube.com/embed/rf_tFQ0Oh5o?si=J-mWzwOVzLPYP3N5",
+      "image": "https://image.tmdb.org/t/p/original/ewNxjuvfDVYRngVPHsjZhH6QckE.jpg",
+      "sum": "",
+      "overview": "ブルックリン出身の若いセックスワーカー、アノラは、オリガルヒの息子と出会い、衝動的に結婚することでシンデレラストーリーを手に入れる。そのニュースがロシアに伝わると、結婚を無効にしてもらうために両親がニューヨークへ向かうため、彼女のおとぎ話は脅かされる。",
+      "co": []
+    },
+    {
+      "title": "The Shrouds",
+      "year": "0",
+      "director": "David Cronenberg",
+      "star": "Vincent Cassel",
+      "src": "https://www.youtube.com/embed/PCjquEVewMk?si=Og1UFHgB6OuPdte4",
+      "image": "https://image.tmdb.org/t/p/original/eZHKZuoOCDYCZbg9ovLdKFKHAiJ.jpg",
+      "sum": "",
+      "overview": "著名な実業家であるカルシュは、妻を亡くしてからというもの、悲しみに暮れることがなかった。ある夜、カルシュの妻の墓を含む複数の墓が荒らされ、カルシュは犯人を追う。",
+      "co": []
+    },
+    {
+      "title": "The Substance",
+      "year": "0",
+      "director": "Coralie Fargeat",
+      "star": "Demi Moore",
+      "src": "https://www.youtube.com/embed/U-RxVJrLKrk?si=M11dgZ0vDFO1Svsd",
+      "image": "https://image.tmdb.org/t/p/original/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg",
+      "sum": "",
+      "overview": "消えゆくセレブが、一時的に若く、より良い自分自身を作り出す、細胞を複製する物質である闇市場の薬を使うことにした。",
       "co": []
     }
   ]

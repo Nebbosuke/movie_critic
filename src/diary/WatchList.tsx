@@ -177,7 +177,6 @@ const Main = () => {
               movie.year !== "0" &&
               movie.year !== "2" && (
                 <span key={index} className="">
-                  {list.length}
                   <WLPosterDialog
                     image={movie.image}
                     title={movie.title}

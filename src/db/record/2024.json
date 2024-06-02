@@ -750,9 +750,46 @@
         "overview": "戦国時代、全国統一を目指す信長に対して反乱を起こした村重。だが失敗の末、逃亡。信長は光秀に捜索を命じるが、秀吉は村重を利用して光秀と信長を陥れようと画策する。",
         "co": ["toho"],
         "platform": "4"
+      },
+      {
+        "title": "The Zone of Interest",
+        "year": "2023",
+        "director": "Jonathan Glazer",
+        "star": "Christian Friedel",
+        "src": "https://www.youtube.com/embed/r-vfg3KkV54?si=C347phLzixnMcQJ-",
+        "image": "https://image.tmdb.org/t/p/original/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+        "rate": 3.5,
+        "overview": "アウシュビッツの司令官ルドルフ・ヘスとその妻ヘドウィグは、収容所の隣にある家と庭で、家族のために夢のような生活を築こうと努力する。",
+        "co": ["a24", "film4"],
+        "platform": "0"
       }
     ],
-    "jun": [],
+    "jun": [
+      {
+        "title": "Furiosa: A Mad Max Saga",
+        "year": "2024",
+        "director": "George Miller",
+        "star": "Anya Taylor-Joy、Chris Hemsworth",
+        "src": "https://www.youtube.com/embed/XJMuhwVlca4?si=NcysdSv1oCo_yIOl",
+        "image": "https://image.tmdb.org/t/p/original/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+        "rate": 4.5,
+        "overview": "世界が崩壊する中、若きフュリオサは 「緑の母なる場所 」から、将軍デメンタス率いる暴走族の手にさらわれる。荒れ地を掃討する彼らは、イモータン・ジョーが統べる城塞都市に遭遇する。2人の暴君は覇権をめぐって抗争を繰り広げ、フュリオサは数々の試練を乗り越えながら、故郷への道を探さなければならない。",
+        "co": ["warner"],
+        "platform": "0"
+      },
+      {
+        "title": "Eric",
+        "year": "2024",
+        "director": "Abi Morgan",
+        "star": "Benedict Cumberbatch、Gaby Hoffmann",
+        "src": "https://www.youtube.com/embed/eGaAl_8QW2c?si=pJBh-DB6wjHTn_Zu",
+        "image": "https://image.tmdb.org/t/p/original/miirxTJI3Dx6L9brMaypWsRzqqV.jpg",
+        "rate": 99,
+        "overview": "自暴自棄になった父親が、行方不明の息子を連れ戻すため、80年代ニューヨークの活気と危険と酩酊に満ちたストリートで悪魔と闘う。",
+        "co": ["netflix"],
+        "platform": "1"
+      }
+    ],
     "jul": [],
     "aug": [],
     "sep": [],

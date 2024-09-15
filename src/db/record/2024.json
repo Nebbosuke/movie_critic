@@ -15,13 +15,14 @@
       },
       {
         "image": "https://www.themoviedb.org/t/p/w1280/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg",
-        "title": "Slow Horses",
+        "title": "Slow Horses (S1,S2,S3)",
         "year": "2022",
         "director": "James Hawes",
         "star": "Gary Oldman",
         "src": "https://www.youtube.com/embed/O9ZJChzPn0U?si=f7UEcVBUSs_mcYZF",
         "rate": 3.5,
         "overview": "ＭＩ5（英国情報局保安部）の落ちこぼれエージェントたちと、彼らを率いる傲慢で悪名高いチームリーダーのジャクソン･ラム。スパイの世界の策略をかいくぐり、危険分子から英国を守る彼らの姿を、ダークなユーモアを効かせて軽快に描くドラマ。",
+        "co":["apple"],
         "platform": "5"
       },
       {
@@ -680,18 +681,6 @@
         "platform": "4"
       },
       {
-        "title": "Dark Matter",
-        "year": "2024",
-        "director": "Blake Crouch",
-        "star": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson",
-        "src": "https://www.youtube.com/embed/j6ucGt_Xp14?si=bmd8iFWCWgZ_10hR",
-        "image": "https://image.tmdb.org/t/p/original/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
-        "rate": 99,
-        "overview": "ジェイソン・デスセンは“もう一つの人生”へと連れ去られた。本当の家族の元に戻り、想像し得る最も恐ろしい敵、つまり自分自身から家族を救うため苦難の旅に出る。",
-        "co": ["apple"],
-        "platform": "5"
-      },
-      {
         "title": "Happy Death Day 2U",
         "year": "2019",
         "director": "Christopher Landon",
@@ -746,7 +735,7 @@
         "star": "北野武",
         "src": "https://www.youtube.com/embed/vcGZ8m7tqDI?si=X9RPGYpFSL0edc9h",
         "image": "https://image.tmdb.org/t/p/original/nx03gunzZ2YHkeR7j8EAzBVx9eG.jpg",
-        "rate": 4,
+        "rate": 3.5,
         "overview": "戦国時代、全国統一を目指す信長に対して反乱を起こした村重。だが失敗の末、逃亡。信長は光秀に捜索を命じるが、秀吉は村重を利用して光秀と信長を陥れようと画策する。",
         "co": ["toho"],
         "platform": "4"
@@ -784,15 +773,234 @@
         "star": "Benedict Cumberbatch、Gaby Hoffmann",
         "src": "https://www.youtube.com/embed/eGaAl_8QW2c?si=pJBh-DB6wjHTn_Zu",
         "image": "https://image.tmdb.org/t/p/original/miirxTJI3Dx6L9brMaypWsRzqqV.jpg",
-        "rate": 99,
+        "rate": 4,
         "overview": "自暴自棄になった父親が、行方不明の息子を連れ戻すため、80年代ニューヨークの活気と危険と酩酊に満ちたストリートで悪魔と闘う。",
         "co": ["netflix"],
         "platform": "1"
+      },
+      {
+        "title": "Dogman",
+        "year": "2023",
+        "director": "Luc Besson",
+        "star": "Caleb Landry Jones",
+        "src": "https://www.youtube.com/embed/hJSX_o-MvYs?si=uM4VGbIbJFl7x-4s",
+        "image": "https://image.tmdb.org/t/p/original/xExDMuJHS0tqEfXGWUOR5rjP6xK.jpg",
+        "rate": 5,
+        "overview": "ある夜、1台のトラックが警察に止められる。運転席には負傷した女装男性がおり、荷台には十数匹の犬が乗せられていた。「ドッグマン」と呼ばれるその男は、自らの半生について語り始める。犬小屋に入れられ、暴力を浴びて育った少年時代。犬たちの存在に救われながら成長していく中で恋を経験し、世間になじもうとするも、人に裏切られて深く傷ついていく。犬たちの愛に何度も助けられてきた彼は、生きていくために犬たちとともに犯罪に手を染めるが、「死刑執行人」と呼ばれるギャングに目をつけられてしまう。",
+        "co": ["europacorp"],
+        "platform": "4"
+      },
+      {
+        "title": "Ultraman: Rising",
+        "year": "2024",
+        "director": "Shannon Tindle",
+        "star": "Christopher Sean",
+        "src": "https://www.youtube.com/embed/_YGosxAnZ4Q?si=sBt87OkrXgCxUAZG",
+        "image": "https://image.tmdb.org/t/p/original/j886YEkIUsiImY53px5VHKD4lRa.jpg",
+        "rate": 3.5,
+        "overview": "野球界のスター選手、サトウ・ケンのもう一つの姿、それは地球を守るスーパーヒーロー「ウルトラマン」。その役割を担うべく、ケンは帰国して日本球界の一員として、試合に臨む。しかし、突如出現した強大な怪獣ジャイガントロンによって平和な日常は破られるのだった。ケンはウルトラマンとなって戦いに挑むが、迫りくる怪獣の攻撃は激化する。そんな中、ケンは、「宿敵」の子である“赤ちゃん怪獣”の世話を任せられるという、思いもよらない事態に陥る。そして、新米パパとして奮闘しながら、疎遠になっていた父親のとの関係や「ウルトラマン」であることの本当の意味と向き合うことになるのだった…。",
+        "co": ["netflix"],
+        "platform": "1"
+      },
+      {
+        "title": "Dark Matter",
+        "year": "2024",
+        "director": "Blake Crouch",
+        "star": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson",
+        "src": "https://www.youtube.com/embed/j6ucGt_Xp14?si=bmd8iFWCWgZ_10hR",
+        "image": "https://image.tmdb.org/t/p/original/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
+        "rate": 3,
+        "overview": "ジェイソン・デスセンは“もう一つの人生”へと連れ去られた。本当の家族の元に戻り、想像し得る最も恐ろしい敵、つまり自分自身から家族を救うため苦難の旅に出る。",
+        "co": ["apple"],
+        "platform": "5"
+      },
+      {
+        "title": "A Quiet Place: Day One",
+        "year": "2024",
+        "director": "Lupita Nyong'o",
+        "star": "Bryan Woods, Joseph Quinn, Djimon Hounsou",
+        "src": "https://www.youtube.com/embed/gjx-iHGXk9Q?si=oIxnB0K0lWBQSjOH",
+        "image": "https://image.tmdb.org/t/p/original/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
+        "rate": 3.5,
+        "overview": "ニューヨークが音で狩りをするエイリアンに侵略されるなか、サミーという名の女性が生き残るために戦う。",
+        "co": ["paramount"],
+        "platform": "0"
       }
     ],
-    "jul": [],
-    "aug": [],
-    "sep": [],
+    "jul": [
+      {
+        "title": "Gladiator",
+        "year": "2000",
+        "director": "Ridley Scott",
+        "star": "Russell Crowe, Joaquin Phoenix, Djimon Hounsou",
+        "src": "https://www.youtube.com/embed/P5ieIbInFpg?si=Z4ukjjhw9PBoKoKc",
+        "image": "https://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+        "rate": 4,
+        "overview": "古代ローマ帝国を舞台に、陰謀に陥れられた英雄騎士の死闘をダイナミックに描く。西暦180年、皇帝に絶大な信頼を置かれていた歴戦の勇者マキシマスは、次期皇帝の任を依頼される。しかしその晩、皇帝は息子によって暗殺。罠にはまったマキシマスは、処刑の危機に陥る。",
+        "co": ["paramount"],
+        "platform": "4"
+      },
+      {
+        "title": "Madame Web",
+        "year": "2024",
+        "director": "S.J. Clarkson",
+        "star": "Dakota Johnson, Sydney Sweeney, Isabela Merced, Celeste O'Connor",
+        "src": "https://www.youtube.com/embed/s_76M4c4LTo?si=R57nz5_zjiXnIQ1z",
+        "image": "https://image.tmdb.org/t/p/original/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+        "rate": 1.5,
+        "overview": "アメリカ・ニューヨーク。救命士として懸命に働いていたキャシー・ウェヴ（ダコタ・ジョンソン）は、ある日、生死を彷徨う事故に遭い、それをきっかけに“未来予知”の能力を手にする。突如覚醒した能力に戸惑うキャシーだったが、未来を予知するだけでなく、自分の意思で未来を変えられる事が分かってくる。そんなある日、キャシーは偶然出会った3人の少女が、黒いマスクとスーツに身を包んだ謎の男に殺害される未来を見たことから、図らずもその男から少女たちを守ることに……。ある重要な秘密を持つとされる少女たちは一体何者なのか。そして、キャシーと同じく未来が見える黒いマスクとスーツの男は、どこからやって来たのか。やがて全ては、キャシー出生の秘密とともに、壮大な“運命”の糸で結びついてゆく……。",
+        "co": ["sony"],
+        "platform": "4"
+      },
+      {
+        "title": "The Boys(S4)",
+        "year": "2024",
+        "director": "Eric Kripke",
+        "star": "Karl Urban, Antony Starr",
+        "src": "https://www.youtube.com/embed/EzFXDvC-EwM?si=YTVygZZ22HkD_re0",
+        "image": "https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+        "rate": 3.5,
+        "overview": "欲と名声にとりつかれたスーパーヒーローたち。非公式に「ザ・ボーイズ」と呼ばれるグループが腐敗したスーパーヒーローたちを倒そうとする。特殊能力を持たない彼らは根性と信念で悪しきヒーローに立ち向かう。",
+        "co": ["amazon"],
+        "platform": "2"
+      },
+      {
+        "title": "Deadpool & Wolverine",
+        "year": "2024",
+        "director": "Shawn Levy",
+        "star": "Ryan Reynols, Hugh Jackman",
+        "src": "https://www.youtube.com/embed/Idh8n5XuYIA?si=T7qVV3jAvUpu4YPC",
+        "image": "https://image.tmdb.org/t/p/original/jbwYaoYWZwxtPP76AZnfYKQjCEB.jpg",
+        "rate": 4,
+        "overview": "普通のヒーローに飽きてない？戦う動機は超個人的、破天荒でなんでもアリの“クソ無責任ヒーロー”デッドプールに世界の命運は託された！？予測不可能なミッションのカギを握るのは…よりにもよって“あの爪野郎”。クソ真面目で“キレるとヤバい最恐アウトロー”ウルヴァリンに助けを求めるが…。",
+        "co": ["marvel"],
+        "platform": "0"
+      },
+      {
+        "title": "Anatomy of a Fall",
+        "year": "2023",
+        "director": "Justine Triet",
+        "star": "Sandra Hüller",
+        "src": "https://www.youtube.com/embed/FUXawkH-ONM?si=AAlKakxY2ntFRS8g",
+        "image": "https://image.tmdb.org/t/p/original/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+        "rate": 4,
+        "overview": "人里離れた雪山の山荘で、男が転落死した。はじめは事故と思われたが、次第にベストセラー作家である妻サンドラに殺人容疑が向けられる。現場に居合わせたのは、視覚障がいのある11歳の息子だけ。証人や検事により、夫婦の秘密や嘘が暴露され、登場人物の数だけ＜真実＞が現れるが──。",
+        "co": ["neon"],
+        "platform": "4"
+      }
+    ],
+    "aug": [
+      {
+        "title": "The Instigators",
+        "year": "2024",
+        "director": "Doug Liman",
+        "star": "Matt Damon, Casey Affleck, Hong Chau",
+        "src": "https://www.youtube.com/embed/X5oqpxi3U7M?si=HoUtH-H0VeR8Rxr5",
+        "image": "https://image.tmdb.org/t/p/original/thI9pM7Qu43f42sOOl5wy75UAo.jpg",
+        "rate": 2.5,
+        "overview": "自暴自棄の父親ローリーと前科があるコビーという意外な組み合わせの２人が、強盗を実行するために手を組む。強盗が失敗に終わると、警察、官僚、執念深い犯罪組織のボスを出し抜く。",
+        "co": ["apple"],
+        "platform": "5"
+      },
+      {
+        "title": "The Unbearable Weight of Massive Talent",
+        "year": "2022",
+        "director": "Tom Gormican",
+        "star": "Nicolas Cage, Pedro Pascal",
+        "src": "https://www.youtube.com/embed/CKTRbKch2K4?si=poGmLz42UrXlfx9A",
+        "image": "https://image.tmdb.org/t/p/original/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+        "rate": 3.5,
+        "overview": "借金を抱え、家族に見放されたニコラス・ケイジが、高額報酬と引き換えに大富豪の誕生パーティーに参加。だが、富豪は国際的犯罪組織の首領で……。",
+        "co": ["lionsgate"],
+        "platform": "1"
+      },
+      {
+        "title": "City of God",
+        "year": "2002",
+        "director": "Fernando Meirelles",
+        "star": "Alexandre Rodrigues, Alice Braga",
+        "src": "https://www.youtube.com/embed/YQ3Ll-Mx93k?si=BgIf_uOXYynx1Xb1",
+        "image": "https://image.tmdb.org/t/p/original/nj7ynUrzQyd7gZJeTYb4LVH3Gbp.jpg",
+        "rate": 4.5,
+        "overview": "1960年代後半、ブラジル・リオデジャネイロの貧民街“シティ・オブ・ゴッド”では銃による強盗や殺人が絶え間なく続いていた。そこでは3人のチンピラ少年が幅を利かせている。ギャングに憧れる幼い少年リトル・ダイスは彼らとともにモーテル襲撃に加わり、そこで初めての人殺しを経験すると、そのまま行方をくらました。一方、3人組の一人を兄に持つ少年ブスカペは事件現場で取材記者を目にしてカメラマンを夢見るようになる。70年代、名をリトル・ゼと改めた少年リトル・ダイスは、“リオ最強のワル”となって街に舞い戻ってきた…。",
+        "co": [""],
+        "platform": "4"
+      },
+      {
+        "title": "Monkey Man",
+        "year": "2024",
+        "director": "Dev Patel",
+        "star": "Dev Patel",
+        "src": "https://www.youtube.com/embed/aqa3YTtwvaU?si=qOs7n_wOQuCB5CK0",
+        "image": "https://image.tmdb.org/t/p/original/b4fn3VIdVTT3SX0rFMNFbl5xuvg.jpg",
+        "rate":3.5,
+        "overview": "無名の青年キッドは、地下のファイトクラブで細々と生計を立てていた。そこでは毎夜、ゴリラのマスクをかぶり、人気のあるファイターたちに血まみれになって殴られ、金を奪っていた。何年も怒りを抑えてきたキッドは、街の不吉なエリートたちの飛び地に潜入する方法を発見する。幼少期のトラウマが沸騰し、謎の傷を負った彼の手は、彼からすべてを奪った男たちに決着をつけるため、爆発的な報復作戦を繰り広げる。",
+        "co": ["monkeypow"],
+        "platform":"0"
+      },
+      {
+        "title": "Terrifier 2",
+        "year": "2022",
+        "director": "Damien Leone",
+        "star": "David Howard Thornton",
+        "src": "https://www.youtube.com/embed/x5DhuDSArTI?si=l8nbFOR2wiG-z76x",
+        "image": "https://image.tmdb.org/t/p/original/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
+        "rate":3.5,
+        "overview": "ハロウィンの夜のとんでもない惨殺劇を描いた超過激ホラー『テリファー』のシリーズ第2作。手当たり次第の惨殺劇を繰り広げたピエロメイクのアート・ザ・クラウンが1年ぶりに現れ、またも町を恐怖に陥れる。",
+        "co": [""],
+        "platform":"4"
+      }
+    ],
+    "sep": [
+    {
+      "title": "Alien: Romulus",
+      "year": "2024",
+      "director": "Fede Álvarez",
+      "star": "Cailee Spaeny",
+      "src": "https://www.youtube.com/embed/GTNMt84KT0k?si=Ll-D90odUY0l5NoD",
+      "image": "https://image.tmdb.org/t/p/original/k7bclFV4hWIdgNcLileBKGWFIa9.jpg",
+      "rate": 4,
+      "overview": "廃墟と化した宇宙ステーションの奥深くを漁っていた若い宇宙入植者たちは、宇宙で最も恐ろしい生命体と対面する。",
+      "co": ["scottfree"],
+      "platform":"0"
+    },
+    {
+      "title": "Slow Horses (S4)",
+      "year": "2024",
+      "director": "James Hawes",
+      "star": "Gary Oldman",
+      "src": "https://www.youtube.com/embed/xo27sE2fdvs?si=FCDYhVvdsQGg21R6",
+      "image": "https://image.tmdb.org/t/p/original/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
+      "rate": 99,
+      "overview": "ＭＩ5（英国情報局保安部）の落ちこぼれエージェントたちと、彼らを率いる傲慢で悪名高いチームリーダーのジャクソン･ラム。スパイの世界の策略をかいくぐり、危険分子から英国を守る彼らの姿を、ダークなユーモアを効かせて軽快に描くドラマ。",
+      "co":["apple"],
+      "platform": "5"
+    },
+    {
+      "title": "Drive-Away Dolls",
+      "year": "2024",
+      "director": "Ethan Coen",
+      "star": "Margaret Qualley, Pedro Pascal, Matt Damon",
+      "src": "https://www.youtube.com/embed/_vy_7UGICJU?si=Hpc9Y9ZJi87haXf4",
+      "image": "https://image.tmdb.org/t/p/original/j6k6aJKNyo6uUdNOjoNXQlw2Hkm.jpg",
+      "rate": 3,
+      "overview": "ガールフレンドと破局した自由奔放なジェイミー(マーガレット・クアリー)と、堅物で自分の殻を破れずにいる友人のマリアン(ジェラルディン・ヴィスワナサン)。日々の生活に行き詰まりを感じる二人は、気分転換にドライブ旅行に出かけることに。そんな二人は、運転中のアクシデントがきっかけで車のトランクから謎のスーツケースを発見する。一方、そのスーツケースを取り戻したいギャングたちは、二人を追って車を走らせるのだった−。",
+      "co": [],
+      "platform":"4"
+    },
+    {
+      "title": "Beau Is Afraid",
+      "year": "2023",
+      "director": "Ari Aster",
+      "star": "Joaquin Phoenix, Patti LuPone, Amy Ryan",
+      "src": "https://www.youtube.com/embed/PuiWDn976Ek?si=nLphW9Eq1D0D6dpw",
+      "image": "https://image.tmdb.org/t/p/original/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+      "rate": 5,
+      "overview": "日常のささいなことでも不安になる怖がりの男ボーはある日、さっきまで電話で話してた母が突然、怪死したことを知る。母のもとへ駆けつけようとアパートの玄関を出ると、そこはもう“いつもの日常”ではなかった。これは現実か？ それとも妄想、悪夢なのか？ 次々に奇妙で予想外の出来事が起こる里帰りの道のりは、いつしかボーと世界を徹底的にのみこむ壮大な物語へと変貌していく。",
+      "co": ["a24"],
+      "platform":"2"
+    }
+    ],
     "oct": [],
     "nov": [],
     "dec": []

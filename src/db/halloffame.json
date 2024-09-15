@@ -266,18 +266,6 @@
         "co": ["heyday", "warner"]
       },
       {
-        "id": 13.1,
-        "title": "Up",
-        "year": "2009",
-        "director": "Pete Docter",
-        "star": "Ed Asner, Christopher Plummer, Jordan Nagai",
-        "src": "https://www.youtube.com/embed/4-kEQgp1X_k?si=kwowf0CqKD7I3s6D",
-        "image": "https://image.tmdb.org/t/p/original/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
-        "sum": "The greatest adventure is just getting back home.",
-        "overview": "愛する妻に先立たれ、古い一軒家にひとりで住むカールじいさん。彼の家がある地区に開発の波が押し寄せ、ついにカールじいさんも立ち退きを余儀なくされる。そこでカールじいさんは亡き妻エリーと約束を交わしたが実現しなかった、南米の美しい秘境、パラダイスの滝への旅を思い立ち、彼女との思い出が詰まった家に無数の風船をつけて空に飛び上がると南に向かう。ところが家にはいつの間にか近所のラッセルが入り込んでいてた。",
-        "co": ["disney", "pixar"]
-      },
-      {
         "id": 13.2,
         "title": "Avatar(Film Series)",
         "year": "2009",
@@ -648,18 +636,6 @@
         "sum": "Laugh, and the world laughs with you. Weep, and you weep alone.",
         "overview": "ごく平凡な人生を送っていた男オ・デスは、意識を取り戻すと、狭い監禁部屋にいた。その後15年間、理由も分からないまま監禁され続け突然解放される。いったい誰が！？何の目的で！？若い女性ミドの助けを借りて復讐を誓うデスのもとに現れた謎の男ウジン。彼はデスに5日間で監禁の理由を解き明かせと、お互いの命を賭けた「ゲーム」をもちかける。そこには想像を絶する、恐るべき策略がめぐらされていた…。",
         "co": [""]
-      },
-      {
-        "id": 24.4,
-        "title": "American Animals",
-        "year": "2018",
-        "director": "Bart Layton",
-        "star": "Evan Peters, Barry Keoghan",
-        "src": "https://www.youtube.com/embed/yAhruSwum1c?si=YdFenZyyTQFfMqv5",
-        "image": "https://image.tmdb.org/t/p/original/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg",
-        "sum": "You don't know where the line is until you cross it.",
-        "overview": "アメリカ・ケンタッキー州で退屈な大学生活を送るウォーレンとスペンサーは、自分が周りの人間と何一つ変わらない普通の大人になりかけていることを感じていた。そんなある日、2人は大学図書館に時価1200万ドル（およそ12億円相当）の超える画集「アメリカの鳥類」が保管されていることを知る。「その本が手に入れば、莫大な金で俺たちの人生は最高になる」そう確信したウォーレンとスペンサーは、大学の友人エリックとチャズに声をかける。『スナッチ』『レザボア・ドッグス』『オーシャンズ11』などの犯罪映画を参考に作戦を練ることにした4人は、特殊メイクで老人に扮し図書館に乗り込む計画を立てる。来たる決行日、老人の姿に変装した4人は図書館へと足を踏み入れる――。そこで彼らを待ち受ける運命とは？この前代未聞の強盗の結末は？",
-        "co": ["film4", "stx"]
       },
       {
         "id": 25,
@@ -1071,18 +1047,6 @@
         "co": ["columbia", "goldwyn", "sony"]
       },
       {
-        "id": 40.3,
-        "title": "Talk to Me",
-        "year": "2023",
-        "director": "Danny Philippou",
-        "star": "Sophie Wilde",
-        "src": "https://www.youtube.com/embed/aLAKJu9aJys?si=El7OurSEg5GvXWWi",
-        "image": "https://image.tmdb.org/t/p/original/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
-        "sum": "You call. They'll answer.",
-        "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
-        "co": ["a24"]
-      },
-      {
         "image": "https://image.tmdb.org/t/p/original/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
         "title": "Crimes of the Future",
         "year": "2022",
@@ -1200,6 +1164,45 @@
         "overview": "孤立した家族の農場で、厳しい母の監視のもと、病気の父の世話をする少女・パール。自分の生活と対象的である映画のような華やかな生活に憧れる彼女は、やがて野望、誘惑、抑圧のすべてを残酷な形でぶつけていく。",
         "co": ["a24", "universal"],
         "platform": "4"
+      },
+      {
+        "id": 49,
+        "title": "Dogman",
+        "year": "2023",
+        "director": "Luc Besson",
+        "star": "Caleb Landry Jones",
+        "src": "https://www.youtube.com/embed/hJSX_o-MvYs?si=uM4VGbIbJFl7x-4s",
+        "image": "https://image.tmdb.org/t/p/original/xExDMuJHS0tqEfXGWUOR5rjP6xK.jpg",
+        "sum": "Wherever there is an unfortunate, God sends a dog.",
+        "overview": "ある夜、1台のトラックが警察に止められる。運転席には負傷した女装男性がおり、荷台には十数匹の犬が乗せられていた。「ドッグマン」と呼ばれるその男は、自らの半生について語り始める。犬小屋に入れられ、暴力を浴びて育った少年時代。犬たちの存在に救われながら成長していく中で恋を経験し、世間になじもうとするも、人に裏切られて深く傷ついていく。犬たちの愛に何度も助けられてきた彼は、生きていくために犬たちとともに犯罪に手を染めるが、「死刑執行人」と呼ばれるギャングに目をつけられてしまう。",
+        "co": ["europacorp"],
+        "platform": "4"
+      },
+      {
+        "id":50,
+        "title": "City of God",
+        "year": "2002",
+        "director": "Fernando Meirelles",
+        "star": "Alexandre Rodrigues, Alice Braga",
+        "src": "https://www.youtube.com/embed/YQ3Ll-Mx93k?si=BgIf_uOXYynx1Xb1",
+        "image": "https://image.tmdb.org/t/p/original/nj7ynUrzQyd7gZJeTYb4LVH3Gbp.jpg",
+        "sum": "If you run, the beast catches you; if you stay, the beast eats you.",
+        "overview": "1960年代後半、ブラジル・リオデジャネイロの貧民街“シティ・オブ・ゴッド”では銃による強盗や殺人が絶え間なく続いていた。そこでは3人のチンピラ少年が幅を利かせている。ギャングに憧れる幼い少年リトル・ダイスは彼らとともにモーテル襲撃に加わり、そこで初めての人殺しを経験すると、そのまま行方をくらました。一方、3人組の一人を兄に持つ少年ブスカペは事件現場で取材記者を目にしてカメラマンを夢見るようになる。70年代、名をリトル・ゼと改めた少年リトル・ダイスは、“リオ最強のワル”となって街に舞い戻ってきた…。",
+        "co": [""],
+        "platform": "4"
+      },
+      {
+        "id":51,
+        "title": "Beau Is Afraid",
+        "year": "2023",
+        "director": "Ari Aster",
+        "star": "Joaquin Phoenix, Patti LuPone, Amy Ryan",
+        "src": "https://www.youtube.com/embed/PuiWDn976Ek?si=nLphW9Eq1D0D6dpw",
+        "image": "https://image.tmdb.org/t/p/original/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+        "sum": "From his darkest fears comes the greatest adventure.",
+        "overview": "日常のささいなことでも不安になる怖がりの男ボーはある日、さっきまで電話で話してた母が突然、怪死したことを知る。母のもとへ駆けつけようとアパートの玄関を出ると、そこはもう“いつもの日常”ではなかった。これは現実か？ それとも妄想、悪夢なのか？ 次々に奇妙で予想外の出来事が起こる里帰りの道のりは、いつしかボーと世界を徹底的にのみこむ壮大な物語へと変貌していく。",
+        "co": ["a24"],
+        "platform":"2"
       }
     ]
   },

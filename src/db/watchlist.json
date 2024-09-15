@@ -1,39 +1,6 @@
 {
   "record": [
     {
-      "title": "Deadpool & Wolverine",
-      "year": "7/26",
-      "director": "Shawn Levy",
-      "star": "Ryan Reynolds, Hugh Jackman",
-      "src": "https://www.youtube.com/embed/uJMCNJP2ipI?si=ZQRVhYJRPPib0EJm",
-      "image": "https://image.tmdb.org/t/p/original/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
-      "sum": "Come together.",
-      "overview": "Third entry in the Deadpool franchise. Plot TBA.",
-      "co": []
-    },
-    {
-      "title": "Beau Is Afraid",
-      "year": "2",
-      "director": "Ari Aster",
-      "star": "Joaquin Phoenix",
-      "src": "https://www.youtube.com/embed/PuiWDn976Ek?si=nLphW9Eq1D0D6dpw",
-      "image": "https://image.tmdb.org/t/p/original/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
-      "sum": "",
-      "overview": "ある男が母親を訪ねる旅に出る。彼の最も暗い恐怖から、最大の冒険が生まれる。",
-      "co": []
-    },
-    {
-      "title": "Anatomy of a Fall",
-      "year": "2",
-      "director": "Justine Triet",
-      "star": "Sandra Hüller",
-      "src": "https://www.youtube.com/embed/FUXawkH-ONM?si=AAlKakxY2ntFRS8g",
-      "image": "https://image.tmdb.org/t/p/original/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
-      "sum": "Did she do it?",
-      "overview": "ある女性が夫殺しの容疑をかけられ、盲目の息子が唯一の証人として道徳的ジレンマに直面する。",
-      "co": []
-    },
-    {
       "title": "Civil War",
       "year": "10/4",
       "director": "Alex Garland",
@@ -100,19 +67,8 @@
       "co": []
     },
     {
-      "title": "Monkey Man",
-      "year": "0",
-      "director": "Dev Patel",
-      "star": "Dev Patel",
-      "src": "https://www.youtube.com/embed/aqa3YTtwvaU?si=qOs7n_wOQuCB5CK0",
-      "image": "https://image.tmdb.org/t/p/original/b4fn3VIdVTT3SX0rFMNFbl5xuvg.jpg",
-      "sum": "One small ember can burn down everything.",
-      "overview": "無名の青年キッドは、地下のファイトクラブで細々と生計を立てていた。そこでは毎夜、ゴリラのマスクをかぶり、人気のあるファイターたちに血まみれになって殴られ、金を奪っていた。何年も怒りを抑えてきたキッドは、街の不吉なエリートたちの飛び地に潜入する方法を発見する。幼少期のトラウマが沸騰し、謎の傷を負った彼の手は、彼からすべてを奪った男たちに決着をつけるため、爆発的な報復作戦を繰り広げる。",
-      "co": []
-    },
-    {
       "title": "Abigail",
-      "year": "0",
+      "year": "1",
       "director": "Tyler Gillett",
       "star": "Alisha Weir",
       "src": "https://www.youtube.com/embed/3PsP8MFH8p0?si=gzUBYQ5zYv0tkzMe",
@@ -163,17 +119,6 @@
       "image": "https://image.tmdb.org/t/p/original/kDcEfgF7CUo0IYLIazUYYqxagTG.jpg",
       "sum": "",
       "overview": "クリスマスの数日前、ドイツでの仕事を辞めたマティアスはトランシルヴァニアの村に戻る。母親のアナに長い間預けられている息子ルディの教育にもっと関わりたい。彼はまた、元恋人シッラに会いたいと思っており、年老いた父オットーのことで頭がいっぱいだった。シッラが経営する小さな工場で数人の新しい労働者が雇われたとき、コミュニティの平和は乱れ、根底にある恐怖が大人たちを襲い、見かけ上の理解と平穏の薄片を突き破って不満、葛藤、激情が噴出する。",
-      "co": []
-    },
-    {
-      "title": "Alien: Romulus",
-      "year": "0",
-      "director": "Fede Álvarez",
-      "star": "Cailee Spaeny",
-      "src": "https://www.youtube.com/embed/GTNMt84KT0k?si=Ll-D90odUY0l5NoD",
-      "image": "https://image.tmdb.org/t/p/original/k7bclFV4hWIdgNcLileBKGWFIa9.jpg",
-      "sum": "",
-      "overview": "廃墟と化した宇宙ステーションの奥深くを漁っていた若い宇宙入植者たちは、宇宙で最も恐ろしい生命体と対面する。",
       "co": []
     },
     {
@@ -243,17 +188,6 @@
       "co": []
     },
     {
-      "title": "Drive-Away Dolls",
-      "year": "6/7",
-      "director": "Ethan Coen",
-      "star": "Margaret Qualley",
-      "src": "https://www.youtube.com/embed/_vy_7UGICJU?si=Hpc9Y9ZJi87haXf4",
-      "image": "https://image.tmdb.org/t/p/original/gavGnAMTXPkpoFgG0stwgIgKb64.jpg",
-      "sum": "A story of two ladies going south.",
-      "overview": "恋人との別れを嘆く自由奔放なジェイミーと、その控えめな友人マリアンは、どうしても気を緩める必要があった。再出発を求めて、2人はタラハシーへの即席ドライブ旅行に出かけるが、道中で無能な犯罪者グループとすれ違ったことから、事態は急速に悪化していく。",
-      "co": []
-    },
-    {
       "title": "MaXXXine",
       "year": "0",
       "director": "Ti West",
@@ -262,28 +196,6 @@
       "image": "https://image.tmdb.org/t/p/original/k2L4Lsuo7dndJXBFGm2j95eTi1X.jpg",
       "sum": "Her dream was to be a star. But Hollywood can be a killer.",
       "overview": "1980年代のハリウッド、AV女優で女優志望のマキシン・ミンクスはついに大ブレイクを果たす。しかし、謎の殺人鬼がハリウッドのスター女優たちをつけ狙うなか、血の跡が彼女の不吉な過去を暴こうとする......。",
-      "co": []
-    },
-    {
-      "title": "Joker: Folie à Deux",
-      "year": "0",
-      "director": "Todd Phillips",
-      "star": "Joaquin Phoenix, Lady Gaga",
-      "src": "https://www.youtube.com/embed/xy8aJw1vYHo?si=Yp0MGIaQMNihmyBm",
-      "image": "https://image.tmdb.org/t/p/original/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
-      "sum": "The world is a stage.",
-      "overview": "",
-      "co": []
-    },
-    {
-      "title": "Dogman",
-      "year": "2",
-      "director": "Luc Besson",
-      "star": "Caleb Landry Jones",
-      "src": "https://www.youtube.com/embed/146BVPE12SI?si=e6JPN0aUCSQHNB8s",
-      "image": "https://image.tmdb.org/t/p/original/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg",
-      "sum": "Wherever there is an unfortunate, God sends a dog.",
-      "overview": "人生に傷ついた少年が、愛犬の愛によって救いを見出す。",
       "co": []
     },
     {
@@ -298,17 +210,6 @@
       "co": []
     },
     {
-      "title": "A Quiet Place: Day One",
-      "year": "6/28",
-      "director": "Bryan Woods",
-      "star": "Lupita Nyong'o",
-      "src": "https://www.youtube.com/embed/gjx-iHGXk9Q?si=oIxnB0K0lWBQSjOH",
-      "image": "https://image.tmdb.org/t/p/original/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
-      "sum": "",
-      "overview": "ニューヨークが音で狩りをするエイリアンに侵略されるなか、サミーという名の女性が生き残るために戦う。",
-      "co": []
-    },
-    {
       "title": "Megalopolis ",
       "year": "0",
       "director": "Francis Ford Coppola",
@@ -317,17 +218,6 @@
       "image": "https://image.tmdb.org/t/p/original/m0BJiPZs5iWzbJWe2uRNotZpKOk.jpg",
       "sum": "",
       "overview": "天才芸術家セザール・カティリーナは、ニューローマ市をユートピア的で理想主義的な未来へと飛躍させようとしている。一方、対立候補であるフランクリン・シケロ市長は、強欲、利権、党派抗争を永続させる退嬰的な現状にこだわり続けている。両者の間で揺れ動くのは、市長の娘で社交界の名士ジュリア・キケロ。彼女はセザールへの愛によって忠誠心を二分され、人類が真に値すると信じるものを発見する必要に迫られる。",
-      "co": []
-    },
-    {
-      "title": "Trap",
-      "year": "0",
-      "director": "M. Night Shyamalan",
-      "star": "Josh Hartnett",
-      "src": "https://www.youtube.com/embed/hJiPAJKjUVg?si=GrPSjt54iQawcvxB",
-      "image": "https://image.tmdb.org/t/p/original/yDYwkZYawSTrhkndBJuPqddurgf.jpg",
-      "sum": "",
-      "overview": "父親と10代の娘がポップ・コンサートに参加し、そこで自分たちが暗く不吉な出来事の中心にいることに気づく。",
       "co": []
     },
     {
@@ -353,17 +243,6 @@
       "co": []
     },
     {
-      "title": "Bad Boys: Ride or Die",
-      "year": "6/21",
-      "director": "Adil El Arbi",
-      "star": "Will Smith, Martin Lawrence",
-      "src": "https://www.youtube.com/embed/hRFY_Fesa9Q?si=SfH8tgpCPDW7TPF3",
-      "image": "https://image.tmdb.org/t/p/original/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
-      "sum": "",
-      "overview": "亡き元キャプテンが濡れ衣を着せられた後、ローリーとバーネットは彼の無実を晴らそうとするが、結局は自分たちも逃亡することになる。",
-      "co": []
-    },
-    {
       "title": "The Dead Don't Hurt",
       "year": "0",
       "director": "Viggo Mortensen",
@@ -376,7 +255,7 @@
     },
     {
       "title": "Ferrari",
-      "year": "7/5",
+      "year": "2",
       "director": "Michael Mann",
       "star": "Adam Driver",
       "src": "https://www.youtube.com/embed/8oOVNMjM1Jk?si=hQCsH7WRnPnGXR9k",
@@ -387,7 +266,7 @@
     },
     {
       "title": "How to Blow Up a Pipeline",
-      "year": "6/14",
+      "year": "2",
       "director": "Daniel Goldhaber",
       "star": "Ariela Barer",
       "src": "https://www.youtube.com/embed/bSb585bGYmQ?si=84NSrzYE0x2NAArd",
@@ -438,6 +317,72 @@
       "image": "https://image.tmdb.org/t/p/original/zQc1PITqFxZDbEmHlQgO5Mxc4Od.jpg",
       "sum": "",
       "overview": "消えゆくセレブが、一時的に若く、より良い自分自身を作り出す、細胞を複製する物質である闇市場の薬を使うことにした。",
+      "co": []
+    },
+    {
+      "title": "A Different Man",
+      "year": "0",
+      "director": "Aaron Schimberg",
+      "star": "Sebastian Stan",
+      "src": "https://www.youtube.com/embed/_9CmC5Rmsdw?si=oD81jXcLyfRUm0Y4",
+      "image": "https://image.tmdb.org/t/p/original/AlxPN7AKlu908ppiiNvypnmlU2d.jpg",
+      "sum": "",
+      "overview": "俳優志望のエドワードは、外見を劇的に変える過激な医療手術を受ける。しかし、新しい夢の顔はたちまち悪夢に変わり、彼は演じるために生まれてきた役を失い、失ったものを取り戻すことに執着するようになる。",
+      "co": ["a24"]
+    },
+    {
+      "title": "1992",
+      "year": "0",
+      "director": "Ariel Vromen",
+      "star": "Tyrese Gibson, Scott Eastwood",
+      "src": "https://www.youtube.com/embed/YfFgRH7_Ncs?si=GzqgEV1ll681cKNW",
+      "image": "https://image.tmdb.org/t/p/original/tPvFmQZM5HMspryyYbrtW02NR0G.jpg",
+      "sum": "",
+      "overview": "1992年、マーサーは、ロドニー・キング判決後の激動のロサンゼルスで、自分の人生と息子との関係を必死に立て直そうとしていた。マーサーの勤める工場から貴重なプラチナを含む触媒コンバーターを盗み出すという危険な強盗計画を企てる。ロサンゼルスで緊張が高まり、混乱が勃発する中、両家族の世界が衝突し、沸点に達する。",
+      "co": ["lionsgate"]
+    },
+    {
+      "title": "Boneyard",
+      "year": "0",
+      "director": "Asif Akbar",
+      "star": "Mel Gibson, 50 Cent",
+      "src": "https://www.youtube.com/embed/-5iAMhNZOZA?si=w10z9f0vc3xMtYQa",
+      "image": "https://image.tmdb.org/t/p/original/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg",
+      "sum": "",
+      "overview": "カーター警察署長が11人の女性の遺体を発見した後、FBI特別捜査官ペトロヴィックが、悪名高い 「ボーンヤード 」殺人事件の犯人である連続殺人犯のプロファイリングに採用される。警察、麻薬取締局、FBIが角を突き合わせる中、もつれた陰謀の網がすべての人間を容疑者に変えていく。",
+      "co": ["lionsgate"]
+    },
+    {
+      "title": "Bando Stone & The New World",
+      "year": "0",
+      "director": "Donald Glover",
+      "star": "Donald Glover",
+      "src": "https://www.youtube.com/embed/V44EenldJQs?si=qh1TEg-hA3gmbNDp",
+      "image": "https://image.tmdb.org/t/p/original/aPpDkx9jAto6iC2h2NpvK3P5Tnc.jpg",
+      "sum": "",
+      "overview": "What are you when the world ends?",
+      "co": [""]
+    },
+    {
+      "title": "Heretic",
+      "year": "0",
+      "director": "Scott Beck",
+      "star": "Hugh Grant",
+      "src": "https://www.youtube.com/embed/O9i2vmFhSSY?si=jaNx_7fdakTzMlbc",
+      "image": "https://image.tmdb.org/t/p/original/2cNDzr0SzedzDh59hUz8GehU7e4.jpg",
+      "sum": "",
+      "overview": "2人の若い宣教師は、間違ったドアをノックして極悪非道なミスター・リードに出迎えられ、彼の命がけのいたちごっこに巻き込まれ、自分たちの信仰を証明することを余儀なくされる。",
+      "co": ["a24"]
+    },
+    {
+      "title": "Nosferatu",
+      "year": "0",
+      "director": "Robert Eggers",
+      "star": "Lily-Rose Depp",
+      "src": "https://www.youtube.com/embed/b59rxDB_JRg?si=JA7iz7YIS9d34tke",
+      "image": "https://image.tmdb.org/t/p/original/2SGN2kkqHp5L25WtW68ElFMxIJS.jpg",
+      "sum": "",
+      "overview": "呪われた若い女性と、彼女に夢中になる恐ろしい吸血鬼の執念のゴシック物語。",
       "co": []
     }
   ]

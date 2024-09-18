@@ -67,7 +67,7 @@ const Page: React.FC<PageProps> = ({ props, lamda }) => {
 
   const drawer = (
     <div>
-      <Toolbar />
+      {/* <Toolbar /> */}
       <Divider />
       <List>
         <Accordion defaultExpanded>
@@ -177,13 +177,13 @@ const Page: React.FC<PageProps> = ({ props, lamda }) => {
             <MenuIcon />
           </IconButton>
           <div className="flex flex-row w-full">
-            <div className="text-red-600 text-4xl font-bold min-w-max">
+            {/* <div className="text-red-600 text-4xl font-bold min-w-max">
               <Link to={"/"}>
                 <button onClick={returnTop2}>
                   <img src={neb} alt="" width={125}></img>
                 </button>
               </Link>
-            </div>
+            </div> */}
             <div className="flex w-full items-center justify-end text-gray-400">
               <button onClick={returnTop}>
                 <div className="hover:text-red-600">
@@ -232,6 +232,13 @@ const Page: React.FC<PageProps> = ({ props, lamda }) => {
           }}
           open
         >
+          <div className="text-red-600 text-4xl font-bold min-w-max p-3">
+            <Link to={"/"}>
+              <button onClick={returnTop2}>
+                <img src={neb} alt="" width={125}></img>
+              </button>
+            </Link>
+          </div>
           {drawer}
         </Drawer>
       </Box>
